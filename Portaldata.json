@@ -1059,7 +1059,7 @@
 				}
 			]
 		},
-		{
+		{	"Avatar"
 			"Category": "アバター系",
 			"Worlds": [
 				{
@@ -1234,7 +1234,7 @@
 				}
 			]
 		},
-		{
+		{	"Sports"
 			"Category": "スポーツ/音楽ゲーム",
 			"Worlds": [
 				{
@@ -1291,7 +1291,18 @@
 						"PC": true,
 						"Android": false
 					}
-				}
+				},
+				{
+					"ID": "wrld_ab68f896-a21f-4d72-a016-5a0a42c3158f",
+					"Name": "Putt Putt Pond",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Golf with friends․․․ in VRǃ Play on two 18 hole courses with fully scripted mini golf plus other gamesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
 			]
 		},
 		{
@@ -1384,7 +1395,7 @@
 						"PC": true,
 						"Android": false
 					}
-				},
+				},				
 				{
 					"ID": "wrld_f7b38da2-bebf-4fb0-8fe3-6699ed231a7e",
 					"Name": "BattleCityOfMagica2",
@@ -1396,6 +1407,17 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
+					"Name": "Ghost Hunters",
+					"RecommendedCapacity": 10,
+					"Capacity": 12,
+					"Description": "Huntin' makes me feel good․ Asymmetrical ghost hunting game for 2-12 players˸ Ghost versus Ghost Huntersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_6aa4eb04-0c21-405c-ac1e-5cefff8b2fff",
 					"Name": "VRChat BattleField Early Access",
@@ -1895,6 +1917,17 @@
 					}
 				},
 				{
+					"ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
+					"Name": "［JP］NDC Library",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},		
+				{
 					"ID": "wrld_7c31254c-379f-46d9-8590-4baa7282fdb9",
 					"Name": "Black Hole Particle Toy",
 					"RecommendedCapacity": 16,
@@ -1907,7 +1940,7 @@
 				}
 			]
 		},
-		{
+		{	"Horror"
 			"Category": "ホラーワールド",
 			"Worlds": [
 				{
@@ -1997,7 +2030,7 @@
 						"PC": true,
 						"Android": false
 					}
-				},
+				},				
 				{
 					"ID": "wrld_448ee113-1df4-4fde-b8ea-44ed076a7f8f",
 					"Name": "P․R․O․超常現象研究機構［FILE1˸呪画像］",
@@ -2030,10 +2063,25 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				
+				
+				
+				
+				{
+					"ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
+					"Name": "Milya［paradox］",
+					"RecommendedCapacity": 1,
+					"Capacity": 12,
+					"Description": "Supports English ＆ Japanese - ＂Corpses do not retain your perception․＂ - A psychological metafictional horror - 日本語と英語対応 - 「死体はあなたの認識を保持しない。」 - 認識を狂わせる逆説的メタフィクションホラー - No puzzles‚ 30-40 mins - Updated 2025⁄02⁄21˸ 3 secret data‚ 1 hidden door",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
-		{
+		{	"Riddle"
 			"Category": "謎解きワールド",
 			"Worlds": [
 				{
@@ -2115,7 +2163,7 @@
 				}
 			]
 		},
-		{
+		{	"ParticleLive"
 			"Category": "パーティクルライブ",
 			"Worlds": [
 				{
