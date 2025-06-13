@@ -3,7 +3,7 @@
 	"ShowPrivateWorld": false,
 	"Categorys": [
 		{
-			"Category": "定番ワールド",
+			"Category": "ポータルワールド",
 			"Worlds": [
 				{
 					"ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
@@ -17,22 +17,126 @@
 					}
 				},
 				{
-					"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
-					"Name": "日本語話者向け集会場「FUJIYAMA」JP",
-					"RecommendedCapacity": 30,
-					"Capacity": 40,
-					"Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama",
+					"ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+					"Name": "［JP］クエストトビラ QUEST TOBIRA",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クロスプラットフォーム・日本語対応ポータルワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
+					"ID": "wrld_fa12f381-6196-4ba5-9f9f-d443d6ebdd6b",
+					"Name": "Horror Portal JP",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "6月2日アップデート⁄ 日本語での解説があるホラワポータルワールドです。現在265個ほど掲載しています。いいホラワを見つけ次第順次追加予定。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+				{
+					"ID": "wrld_3b6983c6-814a-4e43-804a-a78845e231cf",
+					"Name": "謎解きパズル系ポータルワールド ∗A Portal World（Riddle‚ Puzzle）∗",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "【最終更新 2025⁄05⁄23】個人的に体験した謎解き・パズル・脱出系のワールドを紹介するポータルワールドです。主観的なコメントや難度の表示があります。参考程度にどうぞ。",
 					"Platform": {
 						"PC": true,
 						"Android": true
 					}
 				},
 				{
+					"ID": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe",
+					"Name": "パーティクルライブ全部見るPort",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "音と光、約280のポータル集です。VRCのパーティクルライブ、VRMV、Particle Animation、パリピ砲、VR lightshowを全部見るグループ（SSMV․4624）へのお礼に。（2018․12~2025․05。Private除く）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
+					"Name": "にとポータル -nito portal-",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "チル系や撮影向けを集めたポータルワールドです。タグや文字列で検索できます。このワールド自体もチルワールドとしてくつろげる空間にしています。重い人は壁のスイッチでDirectionalLightを切ると少し軽くなります。QvPen、動画プレイヤー、ナイトモード、アバターフィギュア、imagePad、イベントタイムテーブルあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
+					"Name": "Departure",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Twitterで＂＃VRChat_world紹介＂ タグが付いているワールド紹介のツイートを1時間おきに自動取得して展示しているワールドです。過去にさかのぼって表示することもできるます。 This is a world where tweets with the tag ＂＃VRChat_world紹介＂ on Twitter are automatically retrieved and displayed every hour․ It is also possible to go back to the past․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b4ea9be8-1f50-47c8-b0b7-fd09f6d2aea3",
+					"Name": "虚々実々",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "半数は実在、半数は虚構のワールドのポータル集です。説明書きを読んで虚構と実在を見極めてください。虚構のワールドが実在したとき、虚構のワールドを実在させたときはご一報ください。ネタバレ、撮影、動画撮影OK。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}				
+		]
+		},
+		{
+			"Category": "定番ワールド",
+			"Worlds": [
+				{
 					"ID": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
 					"Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
 					"RecommendedCapacity": 30,
 					"Capacity": 30,
 					"Description": "（配信および録画はご遠慮下さい） 日本人向けのシンプルな談話スペースとなっています。 初心者さんや自分から話しかけるのが苦手な人にも便利なタグ機能や、遊べるリバーシがあります。 Japan Talk Room 公式グループのGroup Publicもご遠慮なくご利用ください。ただし、権利侵害や不適切なアバターの使用はご遠慮願います。 また、最低限の距離感及び礼儀は保っていただくようお願いします。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
+					"Name": "VRC-JP 初心者プラザ ［JP］",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "VRC-JP 初心者プラザ（通称：ジェイプラ）はVRChat公認Discordコミュニティ「VRC-JP」運営チームによるVRChatを始めたばかりのVisitor、NewUserなど初心者向けの遊び方を紹介するワールドです。 初心者向けのVRChatの操作説明を配置している〈チュートリアルエリア〉 個人・法人問わず、事前の利用許可等なく使用できる〈イベントホール〉。広場で交流できますし、ワールドポータルやアバターペデスタルを置いたエリアもあります。初心者はもちろんベテランでも新たな発見があるかと思います！どうぞご活用ください。 問い合わせはVRC-JP ディスコードサーバーへ（検索でVRC-JPかVRCグループ：VRCJP․3765 より飛べます）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+					"Name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "5分間 1対1でお話しするワールドです。5分間話した後はワールドギミックで自動的にシャッフルが入り、また別の人とお話しすることが出来ます。困った時用の会話デッキギミック等もあります。Nagisa jp",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
+					"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+					"Name": "日本語話者向け集会場「FUJIYAMA」JP",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -50,33 +154,11 @@
 					}
 				},
 				{
-					"ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
-					"Name": "VRC-JP 初心者プラザ ［JP］",
-					"RecommendedCapacity": 30,
-					"Capacity": 60,
-					"Description": "VRC-JP 初心者プラザ（通称：ジェイプラ）はVRChat公認Discordコミュニティ「VRC-JP」運営チームによるVRChatを始めたばかりのVisitor、NewUserなど初心者向けの遊び方を紹介するワールドです。 初心者向けのVRChatの操作説明を配置している〈チュートリアルエリア〉 個人・法人問わず、事前の利用許可等なく使用できる〈イベントホール〉。広場で交流できますし、ワールドポータルやアバターペデスタルを置いたエリアもあります。初心者はもちろんベテランでも新たな発見があるかと思います！どうぞご活用ください。 問い合わせはVRC-JP ディスコードサーバーへ（検索でVRC-JPかVRCグループ：VRCJP․3765 より飛べます）",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
 					"Name": "［JP］Tutorial world",
 					"RecommendedCapacity": 25,
 					"Capacity": 30,
 					"Description": "日本人の初心者の方向けの各種解説ワールドです。0224更新",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
-					"Name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
-					"RecommendedCapacity": 30,
-					"Capacity": 30,
-					"Description": "5分間 1対1でお話しするワールドです。5分間話した後はワールドギミックで自動的にシャッフルが入り、また別の人とお話しすることが出来ます。困った時用の会話デッキギミック等もあります。Nagisa jp",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -115,6 +197,17 @@
 						"Android": true
 					}
 				},
+				{
+					"ID": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
+					"Name": "【JP】Qじゃぱん横丁 -Q Japan Street-",
+					"RecommendedCapacity": 70,
+					"Capacity": 70,
+					"Description": "Quest対応！ 初心者にもおすすめ！便利なギミックを取り揃えています！ 夜の時間帯２１時～に人が多いです！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_2054fa71-8e72-4c93-9040-f174f71fab2e",
 					"Name": "カラオケワールド JP KARAOKE",
@@ -313,6 +406,17 @@
 					}
 				},
 				{
+					"ID": "wrld_e142e9c6-a679-4e8b-808b-8d0cfde583fe",
+					"Name": "エデンプラットフォーム -Ritual for Eden-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "『ようこそ、楽園観測の地へ。』 ウラへの行き方-≻「＂今＂を告げる神器と共に、＂刻＂の裏側へ」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
 					"Name": "小雨のあの日-A drizzly day",
 					"RecommendedCapacity": 16,
@@ -367,6 +471,39 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_5deff489-432d-4f22-bd50-3085773faa16",
+					"Name": "Tokyo Mood by BEAMS",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "セレクトショップBEAMSがお届けする、都会の片隅に息づく路地裏ワールド。 Find your place in the backstreets of Tokyo -- a world brought to you by BEAMS‚ Japan's fashion and lifestyle retailer․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6f8cb07a-93c4-436c-b36d-7150c077da08",
+					"Name": "Epilogue Sunset",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Enjoy a cold but heartwarming sunset‚ fly through the sky or lay down on the vast field‚ the choice is yours․ Or maybe there's something that you must find? Goodbye for now․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_72a5616c-da9c-438e-ab40-b2360dd17921",
+					"Name": "Tarried Precipice",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "［v1․09］ When the world is doomed by the eternal ash‚ a link must be made to other elevated grounds‚ but of course not all want to share this new chance at life․ The efforts of many is stopped by the vengeance of few․․․ unable to move on‚ endless war tarries all․ Now fragments of yore shelter here with looming uncertainty‚ can this be a different new world?․․․ or will the ash yet reach through the same roots?",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_2d51644c-179e-42ab-83d3-8882752296c6",
 					"Name": "EVERYTHING",
@@ -423,6 +560,17 @@
 					}
 				},
 				{
+					"ID": "wrld_ad12ab9a-6cf1-42af-b9aa-b6fd4973e290",
+					"Name": "Ricocheive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Deep pulsation",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_ec8a1907-eb2b-4087-8229-c4dfbd6aa3c0",
 					"Name": "眠る月想う花",
 					"RecommendedCapacity": 16,
@@ -443,7 +591,18 @@
 						"PC": true,
 						"Android": false
 					}
-				}
+				},
+				{
+					"ID": "wrld_d2dce992-a84c-4d89-b5a1-0961f2b655e2",
+					"Name": "Observation Tower",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "It's an older project ready to be published․ I might add more stuff later․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
 			]
 		},
 		{
@@ -779,6 +938,17 @@
 					}
 				},
 				{
+					"ID": "wrld_4a41c522-fc84-4cc0-aee4-ab2fddee73f1",
+					"Name": "Amayadokari -あまやどかり-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "雨や雪の環境音や外の森の景色を「ムードチェンジャー」で自由に切り替えられる癒し空間です。 ベッドルームのサイレントモードやバイノーラルマイクギミックを活用して、VR睡眠に最適なリラックス体験を。 アバター試着やインスタントカメラなど、多彩なギミックでゆったりお楽しみいただけます。 なお、赤色のシュガーテスターは本来と違う挙動をするので気を付けてください。 A relaxing space featuring the Mood Changer‚ letting you switch between rain‚ snow‚ and outdoor forest views․ Enjoy a silent bedroom mode and a binaural mic gimmick‚ perfect for VR sleep․ Try on avatars and capture memories with the instant camera as you unwind in comfort․ Please note that the red sugar tester behaves differently from its usual operation‚ so exercise caution․ This world supports VRC Light Volumes․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_3785008b-50ec-4a30-a4a2-9cdd00b8de59",
 					"Name": "星降る癒しの寝床 - Healing Bed Under the Stars -",
 					"RecommendedCapacity": 12,
@@ -876,7 +1046,167 @@
 						"PC": true,
 						"Android": true
 					}
-				}
+				},
+				{
+					"ID": "wrld_3f6d50bd-cc9b-45e0-8303-9ba63f72b323",
+					"Name": "Aqua To The Moon",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "One day if the sky and the sea will connect․․․․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2d04d462-333e-4e82-8d52-c2a326615eb5",
+					"Name": "Rainfall Abyss -Aqua Sector-",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "雨見市第五雨水処理場の、見捨てられたようなトンネルの奥には、テラフォーミング時に持ち込まれた、生物多様性の為の水槽が横たわっている。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1f6f40fc-ec8d-4385-b267-1e67541573c4",
+					"Name": "Glass Houses",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sleep․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
+					"ID": "wrld_0340e2e5-e83e-49af-b7e8-942ebe45c7fb",
+					"Name": "RadDolls Pier Café",
+					"RecommendedCapacity": 16,
+					"Capacity": 20,
+					"Description": "Where Dolls Await BGM˸https˸⁄⁄youtu․be⁄7Wn_OxsoO2M?si＝cBvNmhenWaA7msmk",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
+			]
+		},
+		{
+			"Category": "チルワ(4)",
+			"Worlds": [
+				{
+					"ID": "wrld_acfd9876-5c18-4012-82c0-b00c89afc99d",
+					"Name": "Moody",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Multiple Environments‚ ambient mixer‚ customizable private bedroom‚ vistas‚ and more․ Fixed intro bugs․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},			
+				{
+					"ID": "wrld_57915bce-a311-4e43-9acb-8cbe5f9882fb",
+					"Name": "ヒュリハウス ／ Hyuri House",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ここがあの緑のハウスね https˸⁄⁄vulpeculakitsune․booth․pm⁄items⁄6786263 https˸⁄⁄booth․pm⁄ja⁄items⁄6809406 AudioLink対応 QvPen 追加 VRC LightVolume対応 ぴかぴかFlipCamera追加",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+					"Name": "Tiny Life Room",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6d7826f6-a952-4d4c-9300-17a6006da066",
+					"Name": "待宵に眠る声",
+					"RecommendedCapacity": 2,
+					"Capacity": 10,
+					"Description": "誰かが来ることを期待して目を閉じる子供たちへ 複数人で眠れるV睡用ワールド。 ベッドミラー、ナイトモードは左トリガーダブルクリックで出現するタブレットから操作できます。 QvPenはAllClearが追従しないため、誤操作で書置きが消える心配をする必要がありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5fcccb77-17be-48ec-9000-79ec68cb6bb5",
+					"Name": "Spare key",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "VR睡眠や少人数での雑談などにどうぞ、時折電車が通過します。［2025⁄2⁄2 minor fixed․］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_304f7270-33ab-4630-906d-3e34b78f212f",
+					"Name": "Hibernate",
+					"RecommendedCapacity": 12,
+					"Capacity": 12,
+					"Description": "The best thing about life is knowing you put it together․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_fd1b3e74-fa41-4e2d-9441-8bfc88efb9b7",
+					"Name": "THE MAKINGを見るためだけのワールド",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "身の回りのモノの製造過程を紹介している動画THE MAKINGを見るためだけのワールド。現在332話までプレイリストに入っています。寝落ち用にベッドとナイトモードも完備",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_53939e6c-821e-4d45-b56b-5e305cfa8882",
+					"Name": "CyberLove ｜ A7 サイバーラブ",
+					"RecommendedCapacity": 16,
+					"Capacity": 42,
+					"Description": "CyberLove ｜ Area 7 is a hyper-detailed‚ immersion-focused world made for VRChat․ It takes place in a larger universe of stories but stands alone as a great place to use for hangouts‚ parties‚ or as a home worldǃ The world contains two areas meant for small gatherings via the laundromat and balcony‚ as well as a more secluded relaxation area via room 700's bedroom suite․ It sets itself in a dystopian‚ cyberpunk-inspired city block at the foot of Pacifia's megalithic Oceana Medial building․ The world contains YouTube search‚ audiolink‚ billiards‚ spin-the-bottle‚ and many other prefabs and settingsǃ Come check it out‚ I promise you won't want to miss itǃ World design‚ modeling and textures all done from scratch using blender‚ unity and substance painterǃ Please consider supporting my work via Patreon or joining our membership （Kapi Pass） program in-gameǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
+					"Name": "夏の忘れ物",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ラムネ瓶に入っているあのガラス玉、「ビー玉」じゃなくて「エー玉」っていうみたいですね。嘘みたいな本当のな話。BGM˸あの夏の日／written by˸蒲鉾さちこ 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
+					"ID": "wrld_c0083acf-68be-4cc1-9842-27dbab0e6ba5",
+					"Name": "ぽかぽかの冬 -Warm log house-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "談話や睡眠用の暖かいログハウスです。ごゆっくりどうぞ ⁄ Log house for relaxing ＆ sleeping ⁄ event：OneRoomMaker",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
+						
 			]
 		},
 		{
@@ -916,6 +1246,17 @@
 					}
 				},
 				{
+					"ID": "wrld_cb47f62e-c8b2-4a5b-8471-cb0f72ec064b",
+					"Name": "哲学カフェ 芳紅 （ぽこ） 堂 - Cafe Poko-Do",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "常設のいわゆる「哲学カフェ」をコンセプトにしたPublic交流ワールド。その昔の学生が入り浸ったレトロな喫茶店をイメージしています。ほんのり知的刺激のある話題をたまたま居合わせた人と対話できる場。専門的な哲学の知識は不要です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_9a180fbb-8521-43c6-8b54-2bc7076640dc",
 					"Name": "ASMR集会会場",
 					"RecommendedCapacity": 23,
@@ -947,7 +1288,29 @@
 						"PC": true,
 						"Android": true
 					}
-				}
+				},
+				{
+					"ID": "wrld_f71988d7-11b9-46fe-b8e8-3bbc4a59bb2a",
+					"Name": "VRCMark v2",
+					"RecommendedCapacity": 1,
+					"Capacity": 32,
+					"Description": "［VR Only］ VRChat用のベンチマークワールドです。 CPUとGPUに意図的に負荷をかけ、その性能を測定します。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5e778b1b-88c7-4f44-8ff3-a3f289816fd0",
+					"Name": "Experimental Sign Language World （Udon）",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "Based on MrDummy_NL's world․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}				
 			]
 		},
 		{
@@ -965,6 +1328,39 @@
 					}
 				},
 				{
+					"ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
+					"Name": "PROJECT˸ SUMMER FLARE",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "Break the Summer․ Break the tower․ Complete the Meridian Loop․ A story about reality and humanity․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
+					"Name": "漂泊ノ海-Wandering Sea-",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "いつかの、どこかの、誰かへ、手紙を送ってみませんか？漂泊ノ海は、そんな想いが集まる海です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_95cedec3-7966-44e6-a386-f585b91e5ed7",
+					"Name": "SlowMotion",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "It's just a world of rain in slow motion",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf",
 					"Name": "Eccentric Objects",
 					"RecommendedCapacity": 40,
@@ -976,6 +1372,17 @@
 					}
 				},
 				{
+					"ID": "wrld_c5427f32-2460-434e-8b3b-823283afa019",
+					"Name": "PowderGame",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "PowderGame",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_544e7879-d870-42a2-9c7a-99eb95a8e62f",
 					"Name": "NeoWorlds",
 					"RecommendedCapacity": 32,
@@ -986,6 +1393,17 @@
 						"Android": true
 					}
 				},
+				{
+					"ID": "wrld_da406b46-7f8b-4251-a2ec-e6e6e56a62ef",
+					"Name": "Doppelganger 2022",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "You can see and touch your alter․ 自分の分身を見まわしたり触れたりできます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_dcc04ef6-48ef-4961-9e8f-f454941a2444",
 					"Name": "左右反転視 体験場",
@@ -1074,6 +1492,28 @@
 					}
 				},
 				{
+					"ID": "wrld_b6ace8bf-1663-48ca-8a88-2f0cabe55a03",
+					"Name": "アバター改変のためのワールド-Avater Test World",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "2024⁄01⁄27更新！ブルームの操作、アバターフィギュア、身長計付き四面図、AudioLink対応動画プレイヤー、パーティクルコライダーのテスト用オブジェクトなどがあります。使用したアセットの記録付き！2023⁄07⁄08時点の更新は旧ワールドの更新版としています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
+					"ID": "wrld_7fc407cc-439d-4a42-a2a1-9b22177d608e",
+					"Name": "RenderQueue Debug World",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "RenderQueue Debug World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_24009ebc-87e4-40a0-ad24-bc11cb3c0cf4",
 					"Name": "Himiko Avatar World",
 					"RecommendedCapacity": 24,
@@ -1082,6 +1522,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ce1aa5f3-dd24-4190-a3d2-4a0b87382673",
+					"Name": "The real thing avatars",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Capacitor‚ coil‚ LED‚ transistor‚ arm robot‚ Tesla coil‚ kilogram‚ AED‚ heater‚ SSD‚ retro PC‚ fan‚ ticket gate‚ track‚ toy‚ ATM‚ bicycle‚ threader and so on․",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -1122,6 +1573,17 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
+					"Name": "R․E․P․O․ VRC",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_25e938a8-3b23-4d6b-a9c2-10e28cb4970b",
 					"Name": "Bullet Time Agent",
@@ -1166,6 +1628,17 @@
 						"Android": true
 					}
 				},
+				{
+					"ID": "wrld_f276af30-d347-408c-b24d-9514293cb4d5",
+					"Name": "Fate of the Irrbloss",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "Go on an adventure to the stars in your new space shipǃ 1-5 players decide the fate of the craft as you try to reach your goal․ Fate of the Irrbloss takes inspiration from many space themed games‚ including FTL‚ Eve Online and Freespace․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_e403368b-59d9-4a0f-8abe-ff3f13302b33",
 					"Name": "We're on Observation Duty",
@@ -1221,6 +1694,17 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_f6dcd016-a5b1-47fd-906e-db9b4cd46a4b",
+					"Name": "Aoinu's Shooting Lab˸ SQUAD",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "PvE Shooting Game",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_dcb43d42-924b-458c-8cf5-e5b0f3b8f71d",
 					"Name": "VRC Fantasy",
@@ -1375,6 +1859,17 @@
 					}
 				},
 				{
+					"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+					"Name": "Navy Blue",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7",
 					"Name": "R4 Xross Discs",
 					"RecommendedCapacity": 30,
@@ -1408,6 +1903,28 @@
 					}
 				},
 				{
+					"ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
+					"Name": "Tanksǃ",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Time for battleǃ （2-10 players）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d0a68029-96da-4e9f-aa0a-e4f8c6f5d6d9",
+					"Name": "Steel 'n' Gold",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Bandits are invading the peaceful town of Copper Bend․ Are you going to join their rows or are you going to arms to defend the town's riches?",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
 					"Name": "Ghost Hunters",
 					"RecommendedCapacity": 10,
@@ -1416,6 +1933,39 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ac92e1e8-0059-4249-a5af-18bd4b3e8478",
+					"Name": "Hide And Shriek",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A multiplayer horror game˸ hide from the hunters‚ or hunt your scared little friendsǃ Don't forget to bring your flashlightǃ Spookality 2023",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f",
+					"Name": "Magic Freeze Tag",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Freeze your foes in a block of iceǃ Watch out for magical walls and laser traps․ By jar",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
+					"ID": "wrld_fb4b5900-10db-4af3-99b5-cd02440093c1",
+					"Name": "Panzer Gruppe Blitzkrieg",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Multi-tank battle with up to 10 vehiclesǃ Experience realistic tank battles with armor thickness and shell characteristics based on real tanks․ 最大10両でマルチ戦車戦！実在した戦車を参考に設定された装甲厚や砲弾特性でリアルな戦車戦が体験できます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				},				
 				{
@@ -1605,6 +2155,17 @@
 					}
 				},
 				{
+					"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
+					"Name": "Spy Check?ǃ",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "3-6 player game․ Intruder detected in the headquartersǃ Please answer 3 security questions to verify your identity․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_038969d5-1a77-43d9-a435-ad1e9bf12542",
 					"Name": "おえかき探偵 -Drawing Detective-",
 					"RecommendedCapacity": 16,
@@ -1649,6 +2210,17 @@
 					}
 				},
 				{
+					"ID": "wrld_4a48a5c1-fae9-416c-98ad-ec410687224d",
+					"Name": "Would You Rather",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "CE update˸ more questions‚ organized in sets‚ custom questions‚ optionsǃ A game of 1000＋ randomized questions of ＂Would you rather․․․＂［EN ⁄ KR ⁄ JP］",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_de716924-2f58-4f6f-9631-f52fc96ab01a",
 					"Name": "トークゲーム【すこスコアǃ】",
 					"RecommendedCapacity": 12,
@@ -1681,17 +2253,18 @@
 						"Android": true
 					}
 				},
+
 				{
-					"ID": "wrld_11345ba6-275f-4cda-b651-0eb0724202c2",
-					"Name": "KomariJump v1․5a",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "Welcome to Komari Jump․ When you click to start the game‚ you will be transported to a random level․ Run to the finish line as fast as you can and have fun․ There are currently 29＋29 levels in total Please do not use the cheat ability if other players do not want to․",
+					"ID": "wrld_163e0845-b59c-41bd-a491-b9c9524aeda7",
+					"Name": "Block Party ⁄ ブロックパーティー",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "ルールは壁や天井と同じ色の床にのるだけ！たったそれだけのすげーシンプルではちゃめちゃカオスなパーティーゲーム！みんなでワイワイ遊ぼーぜ！ ⁄⁄⁄ Here's the deal˸ just step on the floor that's the same color as the walls or ceilingǃ Seriously‚ that's all there is to itǃ It's a super simple‚ yet totally wild and chaotic party gameǃ Come on‚ let's all hang out and playǃ",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": false
 					}
-				},
+				},				
 				{
 					"ID": "wrld_d6e3962a-73d6-47c2-b97f-36ca5a99252d",
 					"Name": "詠み人知らず Yomibitoshirazu",
@@ -1703,6 +2276,17 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_eb4f524f-485e-435e-92ee-52bd12fd0641",
+					"Name": "回答ポーカー - ANSWER POKER",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "お題に５人で回答して全員一致の５カードを目指せ！｜プレイ必要人数：解答者10人＋出題者1人＝11人",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_d0a1588b-e62a-4ac0-8b75-efc34de04075",
 					"Name": "あべこべワードバトル",
@@ -1726,6 +2310,33 @@
 					}
 				}
 			]
+		},
+		{
+			"Category": "アスレチックワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_12a70fd1-39f7-4415-8ccd-f447207ada82",
+					"Name": "ジャンプクエスト Jump Quest ｜ MapleStory Nostalgia",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Remember MapleStory's jump quests? Just jump to the topǃ Time your every jump; Too late‚ you fall․ Too early‚ you fall․ Difficulty˸ Medium",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_11345ba6-275f-4cda-b651-0eb0724202c2",
+					"Name": "KomariJump v1․5a",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Welcome to Komari Jump․ When you click to start the game‚ you will be transported to a random level․ Run to the finish line as fast as you can and have fun․ There are currently 29＋29 levels in total Please do not use the cheat ability if other players do not want to․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}	
+		]
 		},
 		{
 			"Category": "放置系ゲーム",
@@ -1822,7 +2433,18 @@
 						"PC": true,
 						"Android": true
 					}
-				}
+				},
+				{
+					"ID": "wrld_2a3df68a-86a8-4949-86a3-f4cac379ac0a",
+					"Name": "裏六甲 -UraRokkou-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riding cars ＆ bikes on Touge․ UraRokkou map made by ＠gobeyond_fps Powerd by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
 			]
 		},
 		{
@@ -1862,6 +2484,28 @@
 					}
 				},
 				{
+					"ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
+					"Name": "Gallery 2718702a",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "常設展「額縁の庇護を逃れて」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_867a7613-893e-40c1-9b19-4527d74a0ff5",
+					"Name": "中国ミーム博物館 日本語版 Chinese memes museum Japanese ver",
+					"RecommendedCapacity": 70,
+					"Capacity": 70,
+					"Description": "中国コミュニティで大人気のVRChatワールド、日本語翻訳版が登場しました！ Chinese memes museum Japanese ver 中文梗博物馆日语版",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_fb9a56fe-5fda-4551-975b-b0b759b4f37e",
 					"Name": "VRC Museum",
 					"RecommendedCapacity": 16,
@@ -1872,6 +2516,17 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4",
+					"Name": "Monet Gallery モネ展",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Welcome to ＂Monet Gallery＂․ This is a fan world showcasing 69 works by the painter Claude Monet․ _____『Monet Gallery モネ展』へようこそ。画家クロード・モネの作品69点が展示されたファンワールドです。すべての作品に解説が添えられており、モネの世界をじっくりと体感していただけます。_____Each artwork is accompanied by a detailed caption‚ allowing you to fully immerse yourself in Monets world․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
 					"Name": "SoundLab",
@@ -1894,6 +2549,17 @@
 						"Android": true
 					}
 				},
+				{
+					"ID": "wrld_20a3beaf-0bfb-4ead-93df-6b150296439c",
+					"Name": "Museum-of-Vrpainting",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "vr-painting",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_da96c183-8984-45ff-92b2-3568a0bc6aab",
 					"Name": "Appletea's 4D Lab",
@@ -1926,7 +2592,18 @@
 						"PC": true,
 						"Android": true
 					}
-				},		
+				},
+				{
+					"ID": "wrld_a7e94e6a-c71c-4bad-a514-1d42138bfd4c",
+					"Name": "DAMAKOYA showroom",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "だまこやで販売している様々な商品を展示しています。ご購入はワールド内のQRコードか、https˸⁄⁄kodamaaltanative․booth․pm⁄ からお越しくださるか、「だまこや」で検索してください。 Various products sold at Damakoya are on display․ 展示在玉子屋出售的各种商品。 다마코야에서 판매하는 다양한 상품을 전시하고 있습니다․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_7c31254c-379f-46d9-8590-4baa7282fdb9",
 					"Name": "Black Hole Particle Toy",
@@ -2010,6 +2687,28 @@
 					}
 				},
 				{
+					"ID": "wrld_70461ff5-5e96-4fef-8668-6566e6ba295f",
+					"Name": "Hole",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "1․1 Version",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_54be7685-5dfc-4121-b0f7-4eef5a3055aa",
+					"Name": "Ticket To Nowhere",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "You board an empty train‚ but something is terribly wrong․ The lights flicker‚ the announcements distort‚ and youre not alone․ Find a way to decrypt the train's destination before it finds you․ Will you escape‚ or will you vanish like the others? V2․1 - Survival Update - Please Report Any Bugs To˸ tickettonowhere․up․railway․app⁄submissions",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_30f6042c-d014-48b5-a6e5-e6fbbbd7b465",
 					"Name": "葬呪 - Horror -",
 					"RecommendedCapacity": 20,
@@ -2064,10 +2763,17 @@
 						"Android": false
 					}
 				},
-				
-				
-				
-				
+				{
+					"ID": "wrld_6d58fc9c-ff11-4b9b-a810-2305a7d2f8a7",
+					"Name": "呪迷廃寺 ~Cursed Maze Temple~",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "遊び半分で肝試しにきた学生たちは、廃寺から二度と帰って来ることはなかった․․․ ~The students who came to the abandoned temple for a thrill never returned․․․~",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
 					"Name": "Milya［paradox］",
@@ -2118,6 +2824,17 @@
 					}
 				},
 				{
+					"ID": "wrld_e070034f-da8c-4b00-b0f7-1fc66cf85d02",
+					"Name": "Magnetize",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Best Immersive World‚ Raindance Immersive 2023․ The air is thick with the scent of mothballs and old books․ Sparse trinkets and treasures fill shelves and the old TV emits a familiar tone․ You trace wires down to a game console then notice a comically oversized magnet sitting nearby․ No doubt part of an old science kit․ That TV needs to be replaced anyway‚ why not have some photoelectric fun while you're here?",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_fc25274b-5d31-436d-a6c5-95c17a568578",
 					"Name": "Charcoal",
 					"RecommendedCapacity": 40,
@@ -2140,6 +2857,17 @@
 					}
 				},
 				{
+					"ID": "wrld_4b66bd61-0e9f-4e5a-9375-c2bccefb3db4",
+					"Name": "仮想身長研究所",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【注意：推奨プレイ人数は2人以上です。現在LateJoin非対応です。】 本作品は、身長差を題材にした謎解きアクションゲームです。プレイヤーは巨人側と小人側のグループに分かれ、いくつかの課題に取り組みます。巨人側と小人側で出来ることに違いがあるため、それぞれの特徴からどう課題を達成するか予想をしながら挑戦してみてください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_d0f0db54-5270-4b9e-8efb-5de805783ce9",
 					"Name": "プラネタリドル -PLANETARIDDLE",
 					"RecommendedCapacity": 16,
@@ -2151,6 +2879,17 @@
 					}
 				},
 				{
+					"ID": "wrld_09184947-d075-4f20-8c87-cc7359513b7d",
+					"Name": "Cyan TimeSpace Lab ［JP․EN］",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "グラビティプルと時間操作で物理パズルを解こう Solve physics puzzles by gravity and time manipulation",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
 					"ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
 					"Name": "謎解きゲーム アンサーパネル",
 					"RecommendedCapacity": 16,
@@ -2160,7 +2899,73 @@
 						"PC": true,
 						"Android": true
 					}
-				}
+				},
+				{
+					"ID": "wrld_fd9515bc-0fa6-49c8-913f-12d4f111dee3",
+					"Name": "謎解きワールド『Quadruple - クアドラプル』",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "割とシンプルな謎解きワールドです。想定プレイ時間30～60分",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_87e25134-5d94-4439-94ac-44aa25771128",
+					"Name": "Readroom-りどるーむ-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "誰かとのんびり過ごすためのワールド。ちょっとした暇つぶしにもどうぞ。 Created by ˸ aki_lua87‚ らぃむ（dimebag29）‚ Hyakuashi‚ enfutu -------------------------（追記11․19 ）ワールドへ入ろうとしてクラッシュする場合、グラフィックドライバの更新によって改善する場合がございますのでお試しください。また本ワールドはライブ配信や動画撮影を行いながら遊んで頂いて構いません。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
+				{
+					"ID": "wrld_82bcab7f-8ae2-4f9d-a74d-d71f4ec02f08",
+					"Name": "PRESENT DAY",
+					"RecommendedCapacity": 5,
+					"Capacity": 30,
+					"Description": "日本語話者向けの高難度謎解きワールドです。＃VRC_PRESENTDAY",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_05fd0498-aadf-4f7a-9a5b-4d45cd50a201",
+					"Name": "謎解きワールド「3x3の事情」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ゴールを探す日本語話者向け謎解きワールド第三弾です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
+					"ID": "wrld_c57bab51-61b3-4b53-87c8-19aeca1072db",
+					"Name": "Treasure Hunt Island",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Search for buried pirate treasureǃ It's hidden in a random location every time you play․ by jar",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d94fea54-1d35-40f3-b820-b19862d3880a",
+					"Name": "The Great Inventor Escape",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "A tribute to Nikola Tesla․ （V18․016 - Triangle puzzle is now skip-able after certain period of time）Powered by CyanTrigger․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
 			]
 		},
 		{
@@ -2177,6 +2982,17 @@
 						"Android": true
 					}
 				},
+				{
+					"ID": "wrld_eb8057b3-36ff-4076-ac2a-4e723259ca44",
+					"Name": "Raiti's FireWorksǃǃ",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "V4․3 1st anniversary update․ New Picture old-≻0001",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
 					"Name": "よるとうげ -Yorutouge-",
@@ -2199,6 +3015,17 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1",
+					"Name": "Animation Live ＂Escape＂",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Models and Animation are Created by S_ASAGIRI․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
 				{
 					"ID": "wrld_1f40b1c1-ab04-4607-aba3-0a97b2378af2",
 					"Name": "砂の惑星 FANMADE in VRChat ⁄ Sand Planet unofficial VRMV in May Festival",
@@ -2247,7 +3074,18 @@
 						"PC": true,
 						"Android": false
 					}
-				}
+				},
+				{
+					"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
+					"Name": "YH MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "首个中文大型MMD房，不定时会更新歌曲。MMD世界讨论群：765807879 持久化歌曲收藏功能上线",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}				
 			]
 		},
 		{
@@ -2314,6 +3152,17 @@
 			"Category": "再現ワールド",
 			"Worlds": [
 				{
+					"ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
+					"Name": "日本列島 1˸1 Real Scale Japan（OWML）（PC⁄Quest）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1˸1リアルスケールの日本列島です。（縦横約3000kmx3000km） Zhakamizhako氏によるOWMLシステムにより実現しました。 日本の空港 全97箇所＋αに離着陸できる様、滑走路を追加しました（簡易的な再現）。今後もアップデートします。 OWML˸Open World Movement Logic System for SaccFlight_____This is a 1˸1 real scale of the Japanese archipelago （approximately 3000km x 3000km）․ It was realized by the OWML system by Mr․ Zhakamizhako․ Runways have been added to all 97＋α airports in Japan so that planes can take off and land （simplified reproduction）․ I will continue to update this world․ OWML˸Open World Movement Logic System for SaccFlight․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},			
+				{
 					"ID": "wrld_70b1d0cc-e0ca-453a-827e-bee019e394ac",
 					"Name": "ORTH - Made in Abyss （メイドインアビス）",
 					"RecommendedCapacity": 80,
@@ -2325,6 +3174,28 @@
 					}
 				},
 				{
+					"ID": "wrld_01b62965-1b3c-4062-bc22-0b339b8063ca",
+					"Name": "VRCraft",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Playable Minecraft-inspired block-building game‚ powered by lots of Udon coding magicǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c7d3258d-7083-4ece-a1ae-326144b346b8",
+					"Name": "Minecraft Evening v2․4",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Now with Japanese and French translationsǃ 今日本語で！ Maintenant en français ǃ An open sunset-lit Minecraft world surrounded by trees‚ with a pond and a lodge behind the benches․ The world includes multiple mirrors‚ 12 songs‚ an optional video player‚ 3 skyboxes‚ markers with late-join support and more․ Optimized for mobile tooǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},				
+				{
 					"ID": "wrld_8846f867-ec05-484e-abc6-9850e54bbf73",
 					"Name": "The Rest",
 					"RecommendedCapacity": 40,
@@ -2335,6 +3206,39 @@
 						"Android": false
 					}
 				},
+				{
+					"ID": "wrld_c783413b-e2e0-4977-b5f8-c71453aa84c3",
+					"Name": "＂U＂me Nikki 14․4",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "This is the world of Yume Nikki‚ created by Japanese who is not familiar with C＃‚ while playing with U＃․ There are 33 areas and 16 effects that have been implemented․ Updates depend on my mood․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_37abea33-f34c-4706-8e6b-2f69e414fc5d",
+					"Name": "Ocarina of Time 3D",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "［This world is persistence compatibleǃ］［This world is still in the making‚ not everything is here yet］ A faithful recreation⁄port of the world of Ocarina of Time 3D‚ and a hangout place for Zelda fans with a major focus on interactivity․ Do not expect this to become a fully playable version of the original game‚ we are not remaking the game․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cb9b4634-df88-4bd1-b68f-3ab0c97b74e6",
+					"Name": "グラビティデイズ 再現ワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "グラビティデイズというゲームをモチーフにモデリングした街。音楽も自作。ワールドのどこかに隠し要素もあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},				
 				{
 					"ID": "wrld_73adf1f0-72ca-4af2-9a66-3ab4842226c9",
 					"Name": "Vault 13 （Fallout 1）",
