@@ -1059,7 +1059,7 @@
 				}
 			]
 		},
-		{	"Avatar"
+		{
 			"Category": "アバター系",
 			"Worlds": [
 				{
@@ -1234,7 +1234,7 @@
 				}
 			]
 		},
-		{	"Sports"
+		{
 			"Category": "スポーツ/音楽ゲーム",
 			"Worlds": [
 				{
@@ -1940,7 +1940,7 @@
 				}
 			]
 		},
-		{	"Horror"
+		{
 			"Category": "ホラーワールド",
 			"Worlds": [
 				{
@@ -2081,7 +2081,7 @@
 				}
 			]
 		},
-		{	"Riddle"
+		{
 			"Category": "謎解きワールド",
 			"Worlds": [
 				{
@@ -2163,7 +2163,7 @@
 				}
 			]
 		},
-		{	"ParticleLive"
+		{
 			"Category": "パーティクルライブ",
 			"Worlds": [
 				{
