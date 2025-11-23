@@ -1,0 +1,3853 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": true,
+	"Categorys": [
+		{
+			"Category": "住居",
+			"Worlds": [
+				{
+					"ID": "wrld_beddab1e-fee1-cafe-f00d-ca7c0dd1eca7",
+					"Name": "SuRroom",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Experience true VR home world․ Multilingual supported․ created by ˸ CITRUS Studio members˸［＂Shatoo＂‚ ＂ureishi＂‚ ＂Rastvas＂‚ ＂Izzy_da＂］",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5f3ffd49-8ac4-4802-ac8e-7dc7163d1f24",
+					"Name": "BarRoom",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "お家でBarを楽しめるQuest対応ワールドです。寝室は中にいる人の声が外に聞こえなくなっています。VRCLightVolumesに対応させました。This is a Quest compatible world where you can enjoy a bar at home․ The voices of people inside the bedroom cannot be heard outside․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_afb19c9e-9e32-4d4e-8940-58afa74d1536",
+					"Name": "夏時雨",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "夏の空にふと訪れる、短く儚い雨「夏時雨」。雨の音聞きながらゆったりと過ごせるQuest対応のホームワールドです。＂夏時雨＂ is a short‚ fleeting rain that suddenly appears in the summer sky․ This is a home world where you can relax while listening to the sound of the rain․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_26fe8b7e-0a3c-4126-a027-b763fd56c404",
+					"Name": "Kotatsmuri-こたつむり-",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。8⁄02こたつオンオフスイッチローカルへの修正、ライトベイク修正その他アップデートをしました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4ae52b66-3445-40a9-8c02-caf0d1347ac8",
+					"Name": "Japan Rainy Day",
+					"RecommendedCapacity": 9,
+					"Capacity": 20,
+					"Description": "日本の田舎、雨の日におうちでごろごろしましょう。 Let's lie around at home on a rainy day in the Japanese countryside",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+					"Name": "Tiny Life Room",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+					"Name": "メゾン荘 201号室",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Mirror ⁄ Video ⁄ QVPen ⁄ AudioLink ⁄ AudioReverbFilter",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_424e4033-db3d-4817-b081-8a16e41708c5",
+					"Name": "ハイム荘 401号室",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Mirror ⁄ Video ⁄ QVPen ⁄ AudioLink ⁄ AudioReverbFilter ⁄ FireWorks",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+					"Name": "Tiharuum - ちはるーむ",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "色んな人が普段使いしやすいワールドを目指して作りました！オリジナルで使いやすい動画タブレット、拡張メニューに30以上のゲーム、料理ギミック、アバター展示もあります。動作負荷も非常に軽いです。（更新日˸25⁄9⁄11）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_417f8500-f629-4061-abf4-5cab7d27db6f",
+					"Name": "家賃23万円の部屋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ブラッドムーン見忘れた。って人はどうぞ見てってください。（期間限定） 海、夜景、サーフボード、ビーチボール、 寝室防音、鯨、雨、トークガン、テトリス、フィギュアシステム、イベントカレンダー、飲み物、食べ物等など。 方向性の迷子＼（＾o＾）／",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_134646a0-cc4f-45ca-9a0b-63934fae05ba",
+					"Name": "Moonlit Manor -Luminous Rebirth-",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "月明かりの照らす邸宅で、特別なひと時を。 カフェ⁄バー⁄多彩なゲームコーナー⁄動画プレイヤー⁄V睡ギミック完備。動画はリビングと寝室で別々に視聴可能です。寝室はサウンドプルーフ仕様で、誰にも邪魔されない秘密の会話が可能です。カーテンを開けたまま、美しい景色を眺めながら、リラックスしたひと時をお楽しみください。 Enjoy a moonlit mansion where you can create special moments․ Complete with a café‚ bar‚ various games‚ video players‚ and a VR sleep gimmick․ Watch videos separately in the living room and bedroom․ The soundproof bedroom allows private conversations without interruption․ Relax while admiring the beautiful view with open curtains․ This world supports VRC Light Volumes․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7db73bca-3e6d-4985-9033-3bec4b8084d9",
+					"Name": "木片隅 - KiNook",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "木の香りで心地よいひとときを。Feeling relax in the soothing scent of wood․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
+					"Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "最高の風呂体験とチルワールド。左手トリガー2回押しでメニュー。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_65b9835c-cdd9-4991-8460-c77cb5e6eaaf",
+					"Name": "日々部屋 - HibiLoft",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "毎日をゆっくり過ごして。 Spend each day leisurely․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9e66b9e2-140e-42a4-90d0-881b9f5df75c",
+					"Name": "Alcove_Rest",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "狭いスペースでのんびりしたり寝たりするワールドです。2025⁄05⁄20 VRC Light Volumeに対応しましたが、明暗差あんまりないので全然わからないかも。 BGM˸Point-Back 作曲˸zukisuzuki",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_20522f38-a6d8-4561-a6fe-518cd8f3b947",
+					"Name": "ceramic shelter［new life］",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "目覚めたここで 生きていく ｜ Original created by Coquelicotz․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2a71cb5-61f3-4a32-acad-217371bcfe06",
+					"Name": "Villa Nocturna ⁄ 夜光の邸宅",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "夜空にオーロラが輝く2階建ての邸宅です。 1階には動画プレイヤーのあるメインルームとバーカウンター、2階には寝室があります。 ホーム・睡眠用に各種ギミックを揃えています。動画プレイヤーの前には筆談用ミラーを設置しています。 --- Qvpen、imagePad、YamaPlayer（ミニプレイヤー、ベッド用プレイヤーあり）、ミラー、VRChatイベントカレンダー、Joinログ、Join通知、スリープモード（明るさ調整）、アラーム、ベッドコライダー、FlipCameraなど ------------- Two-story villa with the aurora shining in the night sky․ The first floor has a main room with a video player and a bar counter․ The second floor has a bedroom․ --- Qvpen‚ imagePad‚ Video Player‚ Mirror‚ VRChatEventCalendar‚ Join Log‚ Join Notification‚ SleepMode（Brightness Adjustment）‚ Alarm‚ Bed collider‚ FlipCamera ---",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8e98585a-ea97-4797-82db-8b01ef0fd9c5",
+					"Name": "自宅カフェ 清明-seimei-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カフェ暮らしのワールドです。 5⁄19 実験的にVRC Light Volumes導入しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ホテル/旅館",
+			"Worlds": [
+				{
+					"ID": "wrld_897cd3cd-5241-4c89-af4d-e662ff91b55c",
+					"Name": "Room key 307",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "VR睡眠や少人数での雑談などにどうぞ［2025⁄6⁄29 Downgrade SDK to 3․8․0］",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_d2f334cc-9d6f-4cf7-a09b-773302cbb56b",
+					"Name": "夜潮の宿",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "月明かりに照らされた海に浮かぶ宿。 夜景を眺めながら釣りを楽しんだり、焚き火でマシュマロを焼きながらのんびりと過ごすのもよし。ボードゲームで対戦をしたり、鍋を囲って宴を開くもよし。 防音室とアラームもご用意しておりますので、ゆっくりとお休みしていただくことも可能です。 数多くのアセットをお楽しみください。［machine translation］ njoy night fishing with a view‚ relax by the fire roasting marshmallows‚ or have fun with board games and a cozy hot pot or BBQ feast․ A soundproof room and alarm system are available‚ so you can rest peacefully after your time together․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_86f74d4d-4610-409b-94a7-50a9379cefc1",
+					"Name": "日帰り温泉 おるきあ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "集会 宴会 待ち合わせ等にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_75deea53-12d5-47fa-9e98-fc763a2e936a",
+					"Name": "月見庵",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "5⁄21 VRCLightVolume適用しました モダンな和室でごゆっくりと月を眺めたり、お話したり、睡眠したり過ごしていってくださいませ。 実装済みアイテム：露天風呂、季節のセット、お菓子類、お茶セット、QVペン、動画プレイヤー、imagePAD、夜空に大きなお月様、段階付きナイトモード、段階付きアバターライト、他（写真立ての写真は気分で変わります）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_459dc463-7f0f-4b5e-aa4b-7e74370bc463",
+					"Name": "Lycan",
+					"RecommendedCapacity": 8,
+					"Capacity": 15,
+					"Description": "やすらぎの一夜をあなたに",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+					"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+					"Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "夕焼けとトラス橋とモダンな温泉！実際に焼けるBBQも！ ［HandMenu］VR˸2Click LeftTrigger Desktop˸Tab",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_54928d77-7c31-4d5b-9f8e-dbc45a478437",
+					"Name": "Horizons",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Sit back and relax in exclusive orbital comfort within a cozy space‚ above the earth․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_58f99f69-bb56-4dd9-9ed3-ab1abb633fe9",
+					"Name": "Hotel New Urban",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "Japanese new urban style hotel world․ You can use the remote to change the TV screen‚ 新都市形ホテルワールド。リモコンでTV画面の切り替えができます",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0ccafa50-b6c4-4240-b220-333470344c34",
+					"Name": "雨見るペントハウス ～Japanese-style penthouse under the rain～",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "雨見市ビジネス街の中に建つ、高層旅館の最上階",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6667907a-f335-4de2-9195-45d3768d123c",
+					"Name": "Quiet Luxe",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "エレベーターで降りればそこは、社会の喧騒から隔離された温かでゆったりとした贅沢な空間。 ベッド周りのギミックや動画プレイヤー、軽く遊べるアセットなどを導入しているので、ぜひ普段使いのワールドとしてご活用ください。 また、BOOTHにて近日販売開始予定であるワールドアセットのサンプルワールドも兼ねています。 Once you get off the elevator‚ you will find yourself in a warm‚ relaxing and luxurious space isolated from the hustle and bustle of society․ We have introduced gimmicks around the bed‚ a video player‚ and assets for light play‚ so please use it as a world for everyday use․ It also serves as a sample world for the world assets that will soon be available at BOOTH․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "春",
+			"Worlds": [
+				{
+					"ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+					"Name": "消えたあなたと‚ 止まっている春が-Spring and you",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "消えたあなた と‚ 止まっている春が-Spring and you",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8e98585a-ea97-4797-82db-8b01ef0fd9c5",
+					"Name": "自宅カフェ 清明-seimei-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カフェ暮らしのワールドです。 5⁄19 実験的にVRC Light Volumes導入しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "夏",
+			"Worlds": [
+				{
+					"ID": "wrld_88e3c772-894f-418d-b9e5-96059af3d631",
+					"Name": "Yayoi Summer Nights",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "ちりんちりん～ ｜ BGM ˸ 黒塗りの夜景 by ISAo",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_afb19c9e-9e32-4d4e-8940-58afa74d1536",
+					"Name": "夏時雨",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "夏の空にふと訪れる、短く儚い雨「夏時雨」。雨の音聞きながらゆったりと過ごせるQuest対応のホームワールドです。＂夏時雨＂ is a short‚ fleeting rain that suddenly appears in the summer sky․ This is a home world where you can relax while listening to the sound of the rain․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6a730cf2-d899-4b81-83ad-02c817c20523",
+					"Name": "涼んでいって寝 -Escape from midsummer-",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "私が欲しくて作った花火がウリの避暑地です。色々と弄れますのでワールドメニューから好みに調整して下さい。Quest対応しました。 QVpen‚alcohol‚audiolink‚Viewpointviewer‚etc",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "秋",
+			"Worlds": [
+				{
+					"ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+					"Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "夕焼けとトラス橋とモダンな温泉！実際に焼けるBBQも！ ［HandMenu］VR˸2Click LeftTrigger Desktop˸Tab",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "冬",
+			"Worlds": [
+				{
+					"ID": "wrld_25a96d9b-513c-4a25-b11c-ca83f8962eee",
+					"Name": "ふゆのぬくもり - Warm Winter",
+					"RecommendedCapacity": 8,
+					"Capacity": 24,
+					"Description": "暖かな灯りと雪降る都会の景色に包まれる、冬の癒し空間。 A cozy winter retreat with warm lights and a snowy cityscape․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+					"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "朝",
+			"Worlds": [
+				{
+					"ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
+					"Name": "東雲風船 - SHINONOME BALLOON -",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "明け方の空を旅する熱気球のワールドです。 「新しい世界に踏み出すときの高揚や不安、祈りのような想いを抱えて、熱を宿した気球は、風を感じながら夜明けの空を静かに昇っていきます。」",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "昼",
+			"Worlds": [
+				{
+					"ID": "wrld_ebb6c297-c5d8-4cc2-9e5b-307c3390ca85",
+					"Name": "Rainy Room",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "小人数で作業しながら雑談したり、ゴロゴロしながらまったりするために作った部屋です ビデオプレーヤー・イメージパッド・お絵かきパッド・アバター表示ギミック・QVペン一通りそろえてあります ・ベッドエリアはスイッチ式の防音室です（外からの声は若干聞こえるけど、中の声は漏れません） ・天候切り替え可（雨⁄晴れ）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_20522f38-a6d8-4561-a6fe-518cd8f3b947",
+					"Name": "ceramic shelter［new life］",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "目覚めたここで 生きていく ｜ Original created by Coquelicotz․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_91a35c65-3e14-4a01-85f3-8e34bb77ac2e",
+					"Name": "Cradle of Grass",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "草原の中心にひっそりと佇む、明るい日差しと風を感じながらお昼寝や音楽を楽しむ隠れ家です。 Hidden in the heart of the meadow‚ it is a retreat where you can enjoy naps and music while feeling the bright sunlight and breeze․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+					"Name": "消えたあなたと‚ 止まっている春が-Spring and you",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "消えたあなた と‚ 止まっている春が-Spring and you",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "夕",
+			"Worlds": [
+				{
+					"ID": "wrld_343bcc5d-a151-4b1e-8d58-af4f0df37e2e",
+					"Name": "雨見る屋根裏 Attic in the rain",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "吊り橋が見える屋根裏部屋にて、窓に当たる雨音を聴きながら、ゆったりとした睡眠を。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
+					"Name": "舟屋 Boathouse",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "楽しくドット絵が描けるギミックがあるクラシックな和風ワールドです。窓の外を流れる夕暮れの川を見ながらゆっくり過ごしてください。 It is a classic Japanese-style world with gimmicks for fun dot painting․ Please enjoy your stay watching the evening river flowing outside the window․ 經典的日本和風建築，裏面有能繪製像素畫的新機製。和朋友們看著窗外的黃昏時分的河流度過愉快的時光吧。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_92752568-aada-4d3a-bd72-60c1ec0999e4",
+					"Name": "Platinum",
+					"RecommendedCapacity": 3,
+					"Capacity": 16,
+					"Description": "空に触れる",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c1198e31-ab49-4e01-9244-6c3026e5e0be",
+					"Name": "うみべ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "うみべ Credit⁄The Guntamix Project⁄Maldives Cottage",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "夜",
+			"Worlds": [
+				{
+					"ID": "wrld_08955ad2-3157-4753-9a42-e54fc7b9ef2e",
+					"Name": "STAR t HOME ［CozyHOME（Quest）］［LUWORLD］",
+					"RecommendedCapacity": 16,
+					"Capacity": 60,
+					"Description": "［Quest対応・V睡ホームワールド］ VRCでの一日を「ここから」始める方がいればいいな、という想いから名付けました。［Recommended for sleeping․］ ｜ベッドコライダー｜音声減衰システム｜ナイトモード｜QVペン｜全面ミラー｜ハンドメニュー｜imagePad｜iwasync3｜",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
+					"Name": "キロバイトのうみ - Sea of KB",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_26fe8b7e-0a3c-4126-a027-b763fd56c404",
+					"Name": "Kotatsmuri-こたつむり-",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。8⁄02こたつオンオフスイッチローカルへの修正、ライトベイク修正その他アップデートをしました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_317b684f-3974-4197-b41c-243eee8d2674",
+					"Name": "Heart and Mind",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "I'm living by killing myself․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_212979a6-2e3d-4ce1-8783-08b2f757241e",
+					"Name": "Noctix",
+					"RecommendedCapacity": 5,
+					"Capacity": 5,
+					"Description": "Noctix by xpmmm ＆ 鯰田NMZ ｜ The tablet can be brought up by pressing the left trigger twice․ ｜ 左トリガー2回でMenuタブレットが出せます․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+					"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1f6f40fc-ec8d-4385-b267-1e67541573c4",
+					"Name": "Glass Houses",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sleep․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_576caaf0-ab5d-4f15-9cdc-e29a653dae31",
+					"Name": "月虹の星天苑 -Starlit Garden of the Moonbow-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "静かな丘の上にひっそりと建つ天文台のような、プラネタリウムの家をイメージして作りました。 シマエナガとケサランパサランが住み着いています。 動画プレイヤー、睡眠向けギミック、QvPenなど、一通りの機能を揃えています。 Light Volumeにも一応対応。 不具合のご報告やご要望などありましたら、X＠Natumesora_VRC までご連絡ください。 ver1․3․3 2025⁄8⁄7",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1900f95c-fb9b-4c04-9473-6fc1cea92348",
+					"Name": "ひとりの夜に",
+					"RecommendedCapacity": 2,
+					"Capacity": 32,
+					"Description": "ひとりさみしい時に誰かを待つ場所。 待ち合わせや睡眠などにどうぞ。 qvペン、joinログ、ビデオプレイヤーが設置されています。Quest対応です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_faaa0b96-2934-4bd2-bb60-8508edc96b4b",
+					"Name": "Cuddle meǃ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "A relaxing intimate space to destress from the outside world․ Featuring a cool toned atmosphere and modern⁄comfy decor․ Take a break‚ grab some snacks‚ and cuddle up ;） - pvnda - kristinee28",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebc26ff3-6580-4640-add0-367191110c34",
+					"Name": "Dreaming",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "【Let the butterfly guide you․】【Song Name ˸ 此彼绘卷 - 林和夜】【Please hide the trees when the FPS is low․】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_134646a0-cc4f-45ca-9a0b-63934fae05ba",
+					"Name": "Moonlit Manor -Luminous Rebirth-",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "月明かりの照らす邸宅で、特別なひと時を。 カフェ⁄バー⁄多彩なゲームコーナー⁄動画プレイヤー⁄V睡ギミック完備。動画はリビングと寝室で別々に視聴可能です。寝室はサウンドプルーフ仕様で、誰にも邪魔されない秘密の会話が可能です。カーテンを開けたまま、美しい景色を眺めながら、リラックスしたひと時をお楽しみください。 Enjoy a moonlit mansion where you can create special moments․ Complete with a café‚ bar‚ various games‚ video players‚ and a VR sleep gimmick․ Watch videos separately in the living room and bedroom․ The soundproof bedroom allows private conversations without interruption․ Relax while admiring the beautiful view with open curtains․ This world supports VRC Light Volumes․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_532fcc1a-5fcd-43bf-861e-d638631646d6",
+					"Name": "OneRoom -F-",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。11⁄4 細かい更新",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_917970a0-af27-4438-abad-01ac824ff8f3",
+					"Name": "OneRoom -I-",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに 6⁄4 update",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a9ec34f7-788c-49f1-9b3e-aa2bdf974638",
+					"Name": "夜雨 -Night Rain-",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Based on Monochrome Forest․ QVPens⁄VideoPlayer⁄Sleep System⁄Onsen at rooftop․ Still Updating with few assets‚ gimmicks and fixing bugs․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_18930fde-634f-463d-a9df-4e61a35f4228",
+					"Name": "Starlit Canopy",
+					"RecommendedCapacity": 5,
+					"Capacity": 20,
+					"Description": "나무 사이의 별빛이 만드는 자연의 지붕 ｜ A natural roof made by starlight between trees ｜ Thx to HANI․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8de6fa-1ff6-4a39-82c3-e9b23998077b",
+					"Name": "Good Night Darling",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Good Night Darling‚ Yamaplayer ⁄ QVpen ⁄ Rain sound ⁄ RBS SleepKit2 VRは左手トリガー二回、デスクトップはEキーでタブレットを呼び出せます ベッドモニターの角度調整はタブレットでできます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4d564213-52c2-4ff0-a4eb-54214464a614",
+					"Name": "znight",
+					"RecommendedCapacity": 20,
+					"Capacity": 35,
+					"Description": "znight v1․1 by ozen0817｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b482eca-bede-4de8-88a8-bbb6ca7e24cd",
+					"Name": "Sovren's Chill home",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "just a small world packed with stuff to do in a comfy atmosphere there is a video player there is beer pong there is a pool table as well as never have i ever out side and a few drink games in doors as well and if you find it a privet room to get away from the crowds․ i hope you will find it nice to relax in and have a good day or night there kind regards sovren․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_54344ab5-cdb2-487b-b94c-adf07a63615e",
+					"Name": "CELESTIAL INTERSECTION",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "星空の下、雑談やV睡にどうぞ。 ⁄⁄⁄⁄ YamaPlayer‚ Audio Link‚ QvDrawingPen‚ Join Leave Log‚ RBS Sleep Kit 2‚ Avatar Sticker Camera ⁄⁄⁄⁄ 2025⁄08⁄12 Sticker Cameraの上限15枚に変更",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ac5bd5f1-bda5-4f34-8f10-931fe15095e9",
+					"Name": "Rainfall Abyss -Tropical Sector-",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "雨見市雨水処理場のガスタービンポンプから出る廃熱を利用した温水プール。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4d1045e5-f62d-4a24-8b50-96ded1aaaddd",
+					"Name": "Silent Stella",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A calm‚ starlit chill world with shooting stars․ Whether youre alone or with someone‚ take your time and relax․ Feel free to drop by․ VRC Light Volumes supported․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7802a897-eaed-4e60-a8b7-0add21f6b487",
+					"Name": "神の喫煙所",
+					"RecommendedCapacity": 8,
+					"Capacity": 20,
+					"Description": "3⁄24更新）イメージパッドを追加しました",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2a71cb5-61f3-4a32-acad-217371bcfe06",
+					"Name": "Villa Nocturna ⁄ 夜光の邸宅",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "夜空にオーロラが輝く2階建ての邸宅です。 1階には動画プレイヤーのあるメインルームとバーカウンター、2階には寝室があります。 ホーム・睡眠用に各種ギミックを揃えています。動画プレイヤーの前には筆談用ミラーを設置しています。 --- Qvpen、imagePad、YamaPlayer（ミニプレイヤー、ベッド用プレイヤーあり）、ミラー、VRChatイベントカレンダー、Joinログ、Join通知、スリープモード（明るさ調整）、アラーム、ベッドコライダー、FlipCameraなど ------------- Two-story villa with the aurora shining in the night sky․ The first floor has a main room with a video player and a bar counter․ The second floor has a bedroom․ --- Qvpen‚ imagePad‚ Video Player‚ Mirror‚ VRChatEventCalendar‚ Join Log‚ Join Notification‚ SleepMode（Brightness Adjustment）‚ Alarm‚ Bed collider‚ FlipCamera ---",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "水/海",
+			"Worlds": [
+				{
+					"ID": "wrld_88e3c772-894f-418d-b9e5-96059af3d631",
+					"Name": "Yayoi Summer Nights",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "ちりんちりん～ ｜ BGM ˸ 黒塗りの夜景 by ISAo",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b5c47aab-a6ff-4240-8033-2995edb00eb6",
+					"Name": "Aquarius",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Aquarius is a multi-biomes aquarium experience‚ come and gaze upon the marine life‚ and learn something new․ Updated to support Red Sim's Light Volume․ Fixed video player issues",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_08955ad2-3157-4753-9a42-e54fc7b9ef2e",
+					"Name": "STAR t HOME ［CozyHOME（Quest）］［LUWORLD］",
+					"RecommendedCapacity": 16,
+					"Capacity": 60,
+					"Description": "［Quest対応・V睡ホームワールド］ VRCでの一日を「ここから」始める方がいればいいな、という想いから名付けました。［Recommended for sleeping․］ ｜ベッドコライダー｜音声減衰システム｜ナイトモード｜QVペン｜全面ミラー｜ハンドメニュー｜imagePad｜iwasync3｜",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
+					"Name": "キロバイトのうみ - Sea of KB",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_15c2262b-349f-419b-bb65-5935118a3e9e",
+					"Name": "違法操業マグロ漁船（Illegal Tuna Fishing Boat）",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "後輩の友人のツイッターアカウント名に着想を得て製作しました。チルワールドだと自覚しています。 （2025⁄8⁄11 30‚000visitsありがとうございます。新ワールド製作中なので今後ともよろしくお願いいたします）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2f334cc-9d6f-4cf7-a09b-773302cbb56b",
+					"Name": "夜潮の宿",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "月明かりに照らされた海に浮かぶ宿。 夜景を眺めながら釣りを楽しんだり、焚き火でマシュマロを焼きながらのんびりと過ごすのもよし。ボードゲームで対戦をしたり、鍋を囲って宴を開くもよし。 防音室とアラームもご用意しておりますので、ゆっくりとお休みしていただくことも可能です。 数多くのアセットをお楽しみください。［machine translation］ njoy night fishing with a view‚ relax by the fire roasting marshmallows‚ or have fun with board games and a cozy hot pot or BBQ feast․ A soundproof room and alarm system are available‚ so you can rest peacefully after your time together․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
+					"Name": "Seclusion",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "A small concrete room․ ｜ VizVid ⁄ QvPen ⁄ FlipCamera ⁄ RBS SleepKit 2 ⁄ VRCLightVolumes",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
+					"Name": "舟屋 Boathouse",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "楽しくドット絵が描けるギミックがあるクラシックな和風ワールドです。窓の外を流れる夕暮れの川を見ながらゆっくり過ごしてください。 It is a classic Japanese-style world with gimmicks for fun dot painting․ Please enjoy your stay watching the evening river flowing outside the window․ 經典的日本和風建築，裏面有能繪製像素畫的新機製。和朋友們看著窗外的黃昏時分的河流度過愉快的時光吧。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1900f95c-fb9b-4c04-9473-6fc1cea92348",
+					"Name": "ひとりの夜に",
+					"RecommendedCapacity": 2,
+					"Capacity": 32,
+					"Description": "ひとりさみしい時に誰かを待つ場所。 待ち合わせや睡眠などにどうぞ。 qvペン、joinログ、ビデオプレイヤーが設置されています。Quest対応です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebc26ff3-6580-4640-add0-367191110c34",
+					"Name": "Dreaming",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "【Let the butterfly guide you․】【Song Name ˸ 此彼绘卷 - 林和夜】【Please hide the trees when the FPS is low․】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_33d8ee4e-457d-41b3-a9b0-6f44051b99a2",
+					"Name": "Thad Storm Capsule",
+					"RecommendedCapacity": 5,
+					"Capacity": 80,
+					"Description": "A tiny‚ warm‚ cozy capsule in the midst of a storm on the ocean․ Click the chest every now and then to unlock more comfy props‚ plushies‚ new backgrounds‚ and other fancy gadgets․ Customize the world into your own perfect comfy spotǃ Note˸ if you get Seasick‚ try turning down either ＂Wave Strength＂ or ＂Align Rotation＂ in the Environment settings on the tablet․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf",
+					"Name": "溺死の夢 - Dream of Drowning",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "天窓から降る雨がゆっくりと水かさを増し、穏やかに沈んでいく空間。睡眠やリラックスにどうぞ。約一時間で水位が最大になります。Rain gently falls through the skylight‚ gradually raising the water level as you peacefully sink․ Perfect for sleep and relaxation․ The water level reaches its maximum in about an hour․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_627f7723-27e1-48ba-b262-588668815106",
+					"Name": "海の底、マ女の家 - The Witch's Hideaway",
+					"RecommendedCapacity": 12,
+					"Capacity": 22,
+					"Description": "海の底でひっそりと暮らす魔女の隠れ家。静かで誰にも邪魔されない心落ち着く空間で永遠に。․․․VideoPlayer‚QVPen‚ImagePad‚NightMode完備。雑談場所やVR睡眠用にどうぞ。2階ではAvaterNowでアバター試着も出来ます。BaseModel˸NewRarity様【VRCワールド】中世ファンタジーハウス",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_18930fde-634f-463d-a9df-4e61a35f4228",
+					"Name": "Starlit Canopy",
+					"RecommendedCapacity": 5,
+					"Capacity": 20,
+					"Description": "나무 사이의 별빛이 만드는 자연의 지붕 ｜ A natural roof made by starlight between trees ｜ Thx to HANI․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6a730cf2-d899-4b81-83ad-02c817c20523",
+					"Name": "涼んでいって寝 -Escape from midsummer-",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "私が欲しくて作った花火がウリの避暑地です。色々と弄れますのでワールドメニューから好みに調整して下さい。Quest対応しました。 QVpen‚alcohol‚audiolink‚Viewpointviewer‚etc",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e2e2ed17-9589-4ea4-84e0-65d28f96f3ab",
+					"Name": "海底の秘密部屋-The Underwater Secret Room",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Created by HANI․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5e533c85-a060-4ca5-bf84-ef5a09f7ac50",
+					"Name": "You and․․․",
+					"RecommendedCapacity": 16,
+					"Capacity": 60,
+					"Description": "․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_90eba8d6-d4d3-4a96-be42-fa9081c1345a",
+					"Name": "暗涼",
+					"RecommendedCapacity": 16,
+					"Capacity": 20,
+					"Description": "暗くて涼しい空間で海を見ながらゆっくりするのにおすすめです。（Quest版では海の表現が変わります。） It is recommended for relaxing in a dimly lit‚ cool space while watching the ocean․（The Quest version changes the representation of the sea․）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c9ec0f76-2745-4ea2-8a0e-83691361f6cf",
+					"Name": "KASTEHELMI",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "2025⁄04⁄27カフェコーナーアップデート。湖のそばに建つ、静かで落ち着いた小さな建物のチルワールドです。ベッド、ペン、vizvidプレイヤー完備。「かつてここには小さな神殿があったといいます。」 It is a small villa near the lake․ Bed‚ QV pen‚ video player․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_54344ab5-cdb2-487b-b94c-adf07a63615e",
+					"Name": "CELESTIAL INTERSECTION",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "星空の下、雑談やV睡にどうぞ。 ⁄⁄⁄⁄ YamaPlayer‚ Audio Link‚ QvDrawingPen‚ Join Leave Log‚ RBS Sleep Kit 2‚ Avatar Sticker Camera ⁄⁄⁄⁄ 2025⁄08⁄12 Sticker Cameraの上限15枚に変更",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ac5bd5f1-bda5-4f34-8f10-931fe15095e9",
+					"Name": "Rainfall Abyss -Tropical Sector-",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "雨見市雨水処理場のガスタービンポンプから出る廃熱を利用した温水プール。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4d1045e5-f62d-4a24-8b50-96ded1aaaddd",
+					"Name": "Silent Stella",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A calm‚ starlit chill world with shooting stars․ Whether youre alone or with someone‚ take your time and relax․ Feel free to drop by․ VRC Light Volumes supported․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c1198e31-ab49-4e01-9244-6c3026e5e0be",
+					"Name": "うみべ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "うみべ Credit⁄The Guntamix Project⁄Maldives Cottage",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_231b9bc4-237c-4ddc-9a06-b6f8227f3bf7",
+					"Name": "Calm Ocean",
+					"RecommendedCapacity": 29,
+					"Capacity": 32,
+					"Description": "Relax and let the sound of the ocean soothe your soul․ 穏やかな海の音で包まれる、心安らぐ空間です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e2e2ed17-9589-4ea4-84e0-65d28f96f3ab",
+					"Name": "海底の秘密部屋-The Underwater Secret Room",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Created by HANI․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_af81ddca-21de-4a71-91ad-da00c1ccf7df",
+					"Name": "delphinium",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Yamaplayer ⁄ QVpen ⁄ Rain sound ⁄ RBS SleepKit2 VRは左手トリガー二回、デスクトップはEキーでタブレットを呼び出せます ベッドモニターの角度調整はタブレットでできます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "雨",
+			"Worlds": [
+				{
+					"ID": "wrld_343bcc5d-a151-4b1e-8d58-af4f0df37e2e",
+					"Name": "雨見る屋根裏 Attic in the rain",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "吊り橋が見える屋根裏部屋にて、窓に当たる雨音を聴きながら、ゆったりとした睡眠を。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_afb19c9e-9e32-4d4e-8940-58afa74d1536",
+					"Name": "夏時雨",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "夏の空にふと訪れる、短く儚い雨「夏時雨」。雨の音聞きながらゆったりと過ごせるQuest対応のホームワールドです。＂夏時雨＂ is a short‚ fleeting rain that suddenly appears in the summer sky․ This is a home world where you can relax while listening to the sound of the rain․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4ae52b66-3445-40a9-8c02-caf0d1347ac8",
+					"Name": "Japan Rainy Day",
+					"RecommendedCapacity": 9,
+					"Capacity": 20,
+					"Description": "日本の田舎、雨の日におうちでごろごろしましょう。 Let's lie around at home on a rainy day in the Japanese countryside",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_212979a6-2e3d-4ce1-8783-08b2f757241e",
+					"Name": "Noctix",
+					"RecommendedCapacity": 5,
+					"Capacity": 5,
+					"Description": "Noctix by xpmmm ＆ 鯰田NMZ ｜ The tablet can be brought up by pressing the left trigger twice․ ｜ 左トリガー2回でMenuタブレットが出せます․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0555ef76-33f2-46d4-befb-9b0b6b5c2e54",
+					"Name": "City rain",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "world by ozen city rain v1․3․1｜new skybox ｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1f6f40fc-ec8d-4385-b267-1e67541573c4",
+					"Name": "Glass Houses",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sleep․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
+					"Name": "Seclusion",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "A small concrete room․ ｜ VizVid ⁄ QvPen ⁄ FlipCamera ⁄ RBS SleepKit 2 ⁄ VRCLightVolumes",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_33d8ee4e-457d-41b3-a9b0-6f44051b99a2",
+					"Name": "Thad Storm Capsule",
+					"RecommendedCapacity": 5,
+					"Capacity": 80,
+					"Description": "A tiny‚ warm‚ cozy capsule in the midst of a storm on the ocean․ Click the chest every now and then to unlock more comfy props‚ plushies‚ new backgrounds‚ and other fancy gadgets․ Customize the world into your own perfect comfy spotǃ Note˸ if you get Seasick‚ try turning down either ＂Wave Strength＂ or ＂Align Rotation＂ in the Environment settings on the tablet․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf",
+					"Name": "溺死の夢 - Dream of Drowning",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "天窓から降る雨がゆっくりと水かさを増し、穏やかに沈んでいく空間。睡眠やリラックスにどうぞ。約一時間で水位が最大になります。Rain gently falls through the skylight‚ gradually raising the water level as you peacefully sink․ Perfect for sleep and relaxation․ The water level reaches its maximum in about an hour․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a9ec34f7-788c-49f1-9b3e-aa2bdf974638",
+					"Name": "夜雨 -Night Rain-",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Based on Monochrome Forest․ QVPens⁄VideoPlayer⁄Sleep System⁄Onsen at rooftop․ Still Updating with few assets‚ gimmicks and fixing bugs․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f116cdc9-152e-4879-aa62-70704980249f",
+					"Name": "small room",
+					"RecommendedCapacity": 2,
+					"Capacity": 8,
+					"Description": "雨音の聞こえる薄暗くて狭い部屋。 VisitorsInformationBoard⁄VRCHandMenu⁄FutonSystem⁄YamaPlayer⁄RainAudio⁄QvPen⁄Mirror",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0ccafa50-b6c4-4240-b220-333470344c34",
+					"Name": "雨見るペントハウス ～Japanese-style penthouse under the rain～",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "雨見市ビジネス街の中に建つ、高層旅館の最上階",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec51b799-12fb-4ac9-8b04-a6f0df976fb7",
+					"Name": "Heal․",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "雨音を聞きながら狭くて眠たくなる空間でお寛ぎください。Quest版だとサイフォンコーヒーギミックが非表示になります。m（_ _;）m",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_96203704-8a95-4cb2-a047-794b6b029807",
+					"Name": "N o n e ․",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "None․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1787606e-1105-4179-ab29-03c70d17aa3f",
+					"Name": "_Noctilux",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A brick room illuminated by city lights․ You can turn on the lights when its dark․ 街灯りに照らされたレンガ造りの部屋。暗いときは部屋の電気をつけられます。 VizVid ⁄ QvPen ⁄ FlipCamera ⁄RBS SleepKit 2 ⁄ VRCLightVolumes ⁄ LTCGI⁄UdonChips",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eda7a7d6-a2dd-443b-9e8d-680176cc3e58",
+					"Name": "雨音のすみか - Amaoto no sumika",
+					"RecommendedCapacity": 3,
+					"Capacity": 16,
+					"Description": "雨音を聞きながらゆったり過ごせる睡眠用ワールドです。メニューの表示方法は、入口付近にてご確認ください。｜YamaPlayer｜QvPen｜imagePad｜TopScreen｜VRC Light Volumes｜耳かき｜アラーム｜どこでもアニメーションシステム｜【08⁄24 ミラーでQvPenなどが表示されるように変更】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8de6fa-1ff6-4a39-82c3-e9b23998077b",
+					"Name": "Good Night Darling",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Good Night Darling‚ Yamaplayer ⁄ QVpen ⁄ Rain sound ⁄ RBS SleepKit2 VRは左手トリガー二回、デスクトップはEキーでタブレットを呼び出せます ベッドモニターの角度調整はタブレットでできます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4d564213-52c2-4ff0-a4eb-54214464a614",
+					"Name": "znight",
+					"RecommendedCapacity": 20,
+					"Capacity": 35,
+					"Description": "znight v1․1 by ozen0817｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a107b75-755d-42cd-80d3-b86c5ad1b980",
+					"Name": "［Sleep］ 雨音と共に - In Tune with the Rain",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "睡眠部屋です。 v1․4․0 VIPルームもRBS SleepKit 2 に対応ǃǃ｜ world by らずべりー工房（はるる早苗）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebb6c297-c5d8-4cc2-9e5b-307c3390ca85",
+					"Name": "Rainy Room",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "小人数で作業しながら雑談したり、ゴロゴロしながらまったりするために作った部屋です ビデオプレーヤー・イメージパッド・お絵かきパッド・アバター表示ギミック・QVペン一通りそろえてあります ・ベッドエリアはスイッチ式の防音室です（外からの声は若干聞こえるけど、中の声は漏れません） ・天候切り替え可（雨⁄晴れ）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_01c39106-40b2-4023-ad17-cac75d119f4c",
+					"Name": "Chrono Cabin",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "雨音と共に時を忘れる、静かな山小屋です￤VRC Light Volumes 2․0￤ロフト下の柱が消えていた不具合を修正［2025-08-20］￤Rain sound by OtoLogic（CC BY 4․0）￤Raindrop Shader˸ https˸⁄⁄booth․pm⁄ja⁄items⁄3707284",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_af81ddca-21de-4a71-91ad-da00c1ccf7df",
+					"Name": "delphinium",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Yamaplayer ⁄ QVpen ⁄ Rain sound ⁄ RBS SleepKit2 VRは左手トリガー二回、デスクトップはEキーでタブレットを呼び出せます ベッドモニターの角度調整はタブレットでできます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_21fdba2e-c8c7-4f15-b5c7-091b7441659c",
+					"Name": "雨と君の寝息に耳をそばだてた。- A Quiet Rain and You -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "雨オンオフ切り替え、24時間太陽システムのある雨音にこだわり抜いたホームワールドです。雨の音を聞きながら心地よい時間をお過ごしください。This home world has a rain on⁄off switch and a 24-hour solar system․ Enjoy a comfortable time listening to the carefully crafted sounds of rain․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "雪",
+			"Worlds": [
+				{
+					"ID": "wrld_25a96d9b-513c-4a25-b11c-ca83f8962eee",
+					"Name": "ふゆのぬくもり - Warm Winter",
+					"RecommendedCapacity": 8,
+					"Capacity": 24,
+					"Description": "暖かな灯りと雪降る都会の景色に包まれる、冬の癒し空間。 A cozy winter retreat with warm lights and a snowy cityscape․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+					"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1e9f7aa0-366e-47f8-b22c-78f202a2ee29",
+					"Name": "Snowpiercer",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Inspired by TRAIN SUITE 四季島（Toransuito Shikishima）‚On this journey through the snowy country aboard the train‚ you can raise a toast with friends in the cozy cabin‚ all while enjoying a superior viewing experience with the modern Yamaplayer․ If you feel tired‚ youre welcome to rest in the rear carriage and recharge for the next part of your adventure․ The map will be regularly updated with new content․ ver 1․3․3",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "月",
+			"Worlds": [
+				{
+					"ID": "wrld_75deea53-12d5-47fa-9e98-fc763a2e936a",
+					"Name": "月見庵",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "5⁄21 VRCLightVolume適用しました モダンな和室でごゆっくりと月を眺めたり、お話したり、睡眠したり過ごしていってくださいませ。 実装済みアイテム：露天風呂、季節のセット、お菓子類、お茶セット、QVペン、動画プレイヤー、imagePAD、夜空に大きなお月様、段階付きナイトモード、段階付きアバターライト、他（写真立ての写真は気分で変わります）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebc26ff3-6580-4640-add0-367191110c34",
+					"Name": "Dreaming",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "【Let the butterfly guide you․】【Song Name ˸ 此彼绘卷 - 林和夜】【Please hide the trees when the FPS is low․】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_134646a0-cc4f-45ca-9a0b-63934fae05ba",
+					"Name": "Moonlit Manor -Luminous Rebirth-",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "月明かりの照らす邸宅で、特別なひと時を。 カフェ⁄バー⁄多彩なゲームコーナー⁄動画プレイヤー⁄V睡ギミック完備。動画はリビングと寝室で別々に視聴可能です。寝室はサウンドプルーフ仕様で、誰にも邪魔されない秘密の会話が可能です。カーテンを開けたまま、美しい景色を眺めながら、リラックスしたひと時をお楽しみください。 Enjoy a moonlit mansion where you can create special moments․ Complete with a café‚ bar‚ various games‚ video players‚ and a VR sleep gimmick․ Watch videos separately in the living room and bedroom․ The soundproof bedroom allows private conversations without interruption․ Relax while admiring the beautiful view with open curtains․ This world supports VRC Light Volumes․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "雲",
+			"Worlds": [
+				{
+					"ID": "wrld_871e984e-2deb-4fc6-bc4c-e4c85d15b3ce",
+					"Name": "Cloud Nine",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Lose yourself in a sea of rolling clouds and gentle rains․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "日差し",
+			"Worlds": [
+				{
+					"ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
+					"Name": "Sunny Side",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "くつろぎ空間に必要なものをひと通り取り揃えたコンサバトリーです。負荷は増しますが、Directional LightをONにすると日差しが差し込んでとても綺麗です。（2025⁄07⁄25 SDK3․8․1に引き上げ。VRC Light Volumesに対応、それに伴いライトベイク再調整＋Lightmapの整理。PostProcess - Vividを追加。音声棲み分けギミックを換装。拡声マイク追加。ImageSlide・ImageScreen追加。サメのぬいぐるみ追加。枕元の卓上ライトをON⁄OFFできるように。）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_91a35c65-3e14-4a01-85f3-8e34bb77ac2e",
+					"Name": "Cradle of Grass",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "草原の中心にひっそりと佇む、明るい日差しと風を感じながらお昼寝や音楽を楽しむ隠れ家です。 Hidden in the heart of the meadow‚ it is a retreat where you can enjoy naps and music while feeling the bright sunlight and breeze․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+					"Name": "消えたあなたと‚ 止まっている春が-Spring and you",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "消えたあなた と‚ 止まっている春が-Spring and you",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "森",
+			"Worlds": [
+				{
+					"ID": "wrld_1f6f40fc-ec8d-4385-b267-1e67541573c4",
+					"Name": "Glass Houses",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sleep․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a9ec34f7-788c-49f1-9b3e-aa2bdf974638",
+					"Name": "夜雨 -Night Rain-",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Based on Monochrome Forest․ QVPens⁄VideoPlayer⁄Sleep System⁄Onsen at rooftop․ Still Updating with few assets‚ gimmicks and fixing bugs․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_18930fde-634f-463d-a9df-4e61a35f4228",
+					"Name": "Starlit Canopy",
+					"RecommendedCapacity": 5,
+					"Capacity": 20,
+					"Description": "나무 사이의 별빛이 만드는 자연의 지붕 ｜ A natural roof made by starlight between trees ｜ Thx to HANI․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_01c39106-40b2-4023-ad17-cac75d119f4c",
+					"Name": "Chrono Cabin",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "雨音と共に時を忘れる、静かな山小屋です￤VRC Light Volumes 2․0￤ロフト下の柱が消えていた不具合を修正［2025-08-20］￤Rain sound by OtoLogic（CC BY 4․0）￤Raindrop Shader˸ https˸⁄⁄booth․pm⁄ja⁄items⁄3707284",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "都市",
+			"Worlds": [
+				{
+					"ID": "wrld_26fe8b7e-0a3c-4126-a027-b763fd56c404",
+					"Name": "Kotatsmuri-こたつむり-",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。8⁄02こたつオンオフスイッチローカルへの修正、ライトベイク修正その他アップデートをしました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_25a96d9b-513c-4a25-b11c-ca83f8962eee",
+					"Name": "ふゆのぬくもり - Warm Winter",
+					"RecommendedCapacity": 8,
+					"Capacity": 24,
+					"Description": "暖かな灯りと雪降る都会の景色に包まれる、冬の癒し空間。 A cozy winter retreat with warm lights and a snowy cityscape․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+					"Name": "Tiny Life Room",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0555ef76-33f2-46d4-befb-9b0b6b5c2e54",
+					"Name": "City rain",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "world by ozen city rain v1․3․1｜new skybox ｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_faaa0b96-2934-4bd2-bb60-8508edc96b4b",
+					"Name": "Cuddle meǃ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "A relaxing intimate space to destress from the outside world․ Featuring a cool toned atmosphere and modern⁄comfy decor․ Take a break‚ grab some snacks‚ and cuddle up ;） - pvnda - kristinee28",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_532fcc1a-5fcd-43bf-861e-d638631646d6",
+					"Name": "OneRoom -F-",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。11⁄4 細かい更新",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_917970a0-af27-4438-abad-01ac824ff8f3",
+					"Name": "OneRoom -I-",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに 6⁄4 update",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1787606e-1105-4179-ab29-03c70d17aa3f",
+					"Name": "_Noctilux",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A brick room illuminated by city lights․ You can turn on the lights when its dark․ 街灯りに照らされたレンガ造りの部屋。暗いときは部屋の電気をつけられます。 VizVid ⁄ QvPen ⁄ FlipCamera ⁄RBS SleepKit 2 ⁄ VRCLightVolumes ⁄ LTCGI⁄UdonChips",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eda7a7d6-a2dd-443b-9e8d-680176cc3e58",
+					"Name": "雨音のすみか - Amaoto no sumika",
+					"RecommendedCapacity": 3,
+					"Capacity": 16,
+					"Description": "雨音を聞きながらゆったり過ごせる睡眠用ワールドです。メニューの表示方法は、入口付近にてご確認ください。｜YamaPlayer｜QvPen｜imagePad｜TopScreen｜VRC Light Volumes｜耳かき｜アラーム｜どこでもアニメーションシステム｜【08⁄24 ミラーでQvPenなどが表示されるように変更】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8de6fa-1ff6-4a39-82c3-e9b23998077b",
+					"Name": "Good Night Darling",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Good Night Darling‚ Yamaplayer ⁄ QVpen ⁄ Rain sound ⁄ RBS SleepKit2 VRは左手トリガー二回、デスクトップはEキーでタブレットを呼び出せます ベッドモニターの角度調整はタブレットでできます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4d564213-52c2-4ff0-a4eb-54214464a614",
+					"Name": "znight",
+					"RecommendedCapacity": 20,
+					"Capacity": 35,
+					"Description": "znight v1․1 by ozen0817｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b482eca-bede-4de8-88a8-bbb6ca7e24cd",
+					"Name": "Sovren's Chill home",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "just a small world packed with stuff to do in a comfy atmosphere there is a video player there is beer pong there is a pool table as well as never have i ever out side and a few drink games in doors as well and if you find it a privet room to get away from the crowds․ i hope you will find it nice to relax in and have a good day or night there kind regards sovren․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a107b75-755d-42cd-80d3-b86c5ad1b980",
+					"Name": "［Sleep］ 雨音と共に - In Tune with the Rain",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "睡眠部屋です。 v1․4․0 VIPルームもRBS SleepKit 2 に対応ǃǃ｜ world by らずべりー工房（はるる早苗）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7802a897-eaed-4e60-a8b7-0add21f6b487",
+					"Name": "神の喫煙所",
+					"RecommendedCapacity": 8,
+					"Capacity": 20,
+					"Description": "3⁄24更新）イメージパッドを追加しました",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "乗り物",
+			"Worlds": [
+				{
+					"ID": "wrld_b0748170-ed80-4544-8c0f-d5c9f8a1d764",
+					"Name": "最終バス（LastBus）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "次は終点、神保駅です。優先座席付近に各種スイッチがあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d4a9ba9e-4270-4c9a-85a6-5c8f3b2e1cd5",
+					"Name": "Private Jet Stream",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "The plane is equipped with a lounge‚ bedroom‚ shower room and night mode․ Enjoy a relaxing flight․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1e9f7aa0-366e-47f8-b22c-78f202a2ee29",
+					"Name": "Snowpiercer",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Inspired by TRAIN SUITE 四季島（Toransuito Shikishima）‚On this journey through the snowy country aboard the train‚ you can raise a toast with friends in the cozy cabin‚ all while enjoying a superior viewing experience with the modern Yamaplayer․ If you feel tired‚ youre welcome to rest in the rear carriage and recharge for the next part of your adventure․ The map will be regularly updated with new content․ ver 1․3․3",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6ebfc3e2-3553-4cd3-9aca-1ee5e84f7811",
+					"Name": "Cozy Boat",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Welcome aboardǃ - A small‚ comfy world with a video player‚ pens and a poolǃ - now on Android⁄Questǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_603b0786-4501-42a2-b696-daf2bc3f1baa",
+					"Name": "Boat Inn",
+					"RecommendedCapacity": 14,
+					"Capacity": 14,
+					"Description": "Boat Inn",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_978ba0a6-0a08-4968-9dfe-a5d63e820d88",
+					"Name": "温船に身を湯だねて",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "疲ればかりが溜まる日々 たまには温船に揺られてゆっくりするのはいかがでしょうか QVPenや動画プレイヤーまたナイトモード・画像共有系などいつも通り必要なものは揃っています。 温船に揺られながら静かに時に賑やかにお過ごしください、画像共有系の位置を変更しスイッチで切り替わらなくしました",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ad96e67b-527a-4218-ad1c-ec2298dc36e1",
+					"Name": "Carriage Inn",
+					"RecommendedCapacity": 6,
+					"Capacity": 8,
+					"Description": "馬車で寝られるワールドです。ゆっくりと動いてるよ。（A world where you can sleep in a carriage․ It's moving slowly․）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_49dfdb57-ff43-4bd5-88d1-8c3e59284705",
+					"Name": "ハイエースに住む（Live in HIACE）",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "狭いところって落ち着きますよね。 YamaPlayer／LTCGI／RBS Sleepkit／麻雀 （牌エースなので）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "風景",
+			"Worlds": [
+				{
+					"ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+					"Name": "青天霹靂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クジラって別名「勇魚（イサナ）」って言うらしいですね！かっこいい！ BGM˸resonance of time／written by˸のる 様",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_317b684f-3974-4197-b41c-243eee8d2674",
+					"Name": "Heart and Mind",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "I'm living by killing myself․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c703738-b963-4558-a23c-182f538a7e50",
+					"Name": "RØDREVEN _ Scandinavian Island Home",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "My homeworldǃ Cozy island home featuring customizable rain mode and sleep mode‚ video players‚ mirrors‚ keyboard‚ pens‚ and moreǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c9ec0f76-2745-4ea2-8a0e-83691361f6cf",
+					"Name": "KASTEHELMI",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "2025⁄04⁄27カフェコーナーアップデート。湖のそばに建つ、静かで落ち着いた小さな建物のチルワールドです。ベッド、ペン、vizvidプレイヤー完備。「かつてここには小さな神殿があったといいます。」 It is a small villa near the lake․ Bed‚ QV pen‚ video player․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "宇宙",
+			"Worlds": [
+				{
+					"ID": "wrld_54928d77-7c31-4d5b-9f8e-dbc45a478437",
+					"Name": "Horizons",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Sit back and relax in exclusive orbital comfort within a cozy space‚ above the earth․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_05d530f5-26f8-4bdd-8589-4e0d198df0a2",
+					"Name": "星と、あなたと。",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "宇宙を漂うお部屋に、必要な物は揃っています。 ［20241126］オンライン掲示板のオンオフボタンを設置しました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3e49e7c3-da21-4239-bbfa-949363feabb8",
+					"Name": "Realtime Space Elevator",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "実時間に合わせて動く軌道エレベータです。ゆったりお過ごしください。 ワールドをいったん離れても、次に新しいインスタンスを立てた時は前回最後にいた場所から始まります。 Created by S_ASAGIRI",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "サンルーム",
+			"Worlds": [
+				{
+					"ID": "wrld_1f6f40fc-ec8d-4385-b267-1e67541573c4",
+					"Name": "Glass Houses",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sleep․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
+					"Name": "Sunny Side",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "くつろぎ空間に必要なものをひと通り取り揃えたコンサバトリーです。負荷は増しますが、Directional LightをONにすると日差しが差し込んでとても綺麗です。（2025⁄07⁄25 SDK3․8․1に引き上げ。VRC Light Volumesに対応、それに伴いライトベイク再調整＋Lightmapの整理。PostProcess - Vividを追加。音声棲み分けギミックを換装。拡声マイク追加。ImageSlide・ImageScreen追加。サメのぬいぐるみ追加。枕元の卓上ライトをON⁄OFFできるように。）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "和風",
+			"Worlds": [
+				{
+					"ID": "wrld_75deea53-12d5-47fa-9e98-fc763a2e936a",
+					"Name": "月見庵",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "5⁄21 VRCLightVolume適用しました モダンな和室でごゆっくりと月を眺めたり、お話したり、睡眠したり過ごしていってくださいませ。 実装済みアイテム：露天風呂、季節のセット、お菓子類、お茶セット、QVペン、動画プレイヤー、imagePAD、夜空に大きなお月様、段階付きナイトモード、段階付きアバターライト、他（写真立ての写真は気分で変わります）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f9779f9d-623a-40d5-a7e6-c55315e237bd",
+					"Name": "このワールドはお祓いを済ませておりません - Occult Night",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "お盆の親戚の家をイメージしたホームワールドです。ごゆっくりお過ごしください。2階には絶対に上がるな。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42",
+					"Name": "この部屋では何も起こらない - Ordinary Room",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "親戚の家の仏間をイメージしたホームワールドです。もしも何かが起こりましたら、ご報告ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
+					"Name": "舟屋 Boathouse",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "楽しくドット絵が描けるギミックがあるクラシックな和風ワールドです。窓の外を流れる夕暮れの川を見ながらゆっくり過ごしてください。 It is a classic Japanese-style world with gimmicks for fun dot painting․ Please enjoy your stay watching the evening river flowing outside the window․ 經典的日本和風建築，裏面有能繪製像素畫的新機製。和朋友們看著窗外的黃昏時分的河流度過愉快的時光吧。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "温泉",
+			"Worlds": [
+				{
+					"ID": "wrld_86f74d4d-4610-409b-94a7-50a9379cefc1",
+					"Name": "日帰り温泉 おるきあ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "集会 宴会 待ち合わせ等にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+					"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+					"Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "夕焼けとトラス橋とモダンな温泉！実際に焼けるBBQも！ ［HandMenu］VR˸2Click LeftTrigger Desktop˸Tab",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_978ba0a6-0a08-4968-9dfe-a5d63e820d88",
+					"Name": "温船に身を湯だねて",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "疲ればかりが溜まる日々 たまには温船に揺られてゆっくりするのはいかがでしょうか QVPenや動画プレイヤーまたナイトモード・画像共有系などいつも通り必要なものは揃っています。 温船に揺られながら静かに時に賑やかにお過ごしください、画像共有系の位置を変更しスイッチで切り替わらなくしました",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0ccafa50-b6c4-4240-b220-333470344c34",
+					"Name": "雨見るペントハウス ～Japanese-style penthouse under the rain～",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "雨見市ビジネス街の中に建つ、高層旅館の最上階",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "音楽",
+			"Worlds": [
+				{
+					"ID": "wrld_bbf52d7c-1a5b-4ffc-a19a-ed79be2c6cae",
+					"Name": "響水路 Music Chamber",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "音楽鑑賞用のワールドです。 特設DJブースと、LTCGIによるライティング演出。 音の残響を活かした空間で、包まれるようなリスニング体験を楽しめます。 A space for music‚ embedded in the Metropolitan Area Outer Underground Discharge Channel․ The reverb that resonates through the stoic structure blurs the line between reality and unreality․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_83ca36bf-69f5-4c4d-bf0a-1d11a03ed2aa",
+					"Name": "Subway",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Not horror world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e42f8dd4-e4c0-4db5-b815-de39ba3c57be",
+					"Name": "ホモと見る俺得アニソン․vrc",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "好きなアニソン（OP多め）を1300曲以上入れたワールドとなってます！ ランダム再生で楽しむことをおすすめします。消されて流れない動画があったらすいません！私が気付いたり言ってもらえたら対応します。一応寝るところもあります！名前が嫌でインスタンス立てたくない方。私の別のワールドにも同じプレイリスト一応あります。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_03d1de35-482a-423d-b89c-30018827d07c",
+					"Name": "米津玄師の曲を聴くためだけのワールド",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "タイトルの通りです。QvPen3․3․5、Buckshot Roulette、 NightMode、BedMirrorSystem搭載。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "映画館/観るワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_538edfbb-e36c-480b-92bf-744d12c671f3",
+					"Name": "陣内智則の動画を見るためだけのワールド",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "This is the world where quest user and PCVR user and Desktop user can watch only Jinnai's videos․https˸⁄⁄nextnex․com",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fd1b3e74-fa41-4e2d-9441-8bfc88efb9b7",
+					"Name": "THE MAKINGを見るためだけのワールド",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "身の回りのモノの製造過程を紹介している動画THE MAKINGを見るためだけのワールド。現在332話までプレイリストに入っています。寝落ち用にベッドとナイトモードも完備",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dd0e6e53-7a12-4a4b-a2b2-3f5cd64434cf",
+					"Name": "アル中カラカラを観るワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "中華鍋の上に乗るとFPSが40～50下がるので注意",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a8380ae7-ca17-47e5-b2d0-c2866f8b497b",
+					"Name": "宇宙忍者ゴームズを嗜むワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フリーで使えるモデルやギミック全てに感謝",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c41ac7a7-a4e9-4ee8-9575-5f1b6f57baed",
+					"Name": "MVを楽しむ為の部屋 BIG SCREEN DANCE HALL",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "光と音で様々なMVをよりかっこよく演出できます。 ダンス撮影などにおすすめです。 2025⁄07⁄09動画プレイヤーを差し替えて全体的に大幅な改良を加えました",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c07b9322-c0ac-449e-978f-93af6f59046b",
+					"Name": "遠夏の鑑賞会",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "VRChat映画鑑賞ワールド「遠夏の鑑賞会」 少し寂れていてどこか懐かしい。 日本の田舎にあるホームシアター。 二階にはのんびり出来るチル空間。 一階から地下へと降りればシークレットシアターがある。 シアターでは映画の長さから、詳細を見ながらどの映画を観るか選ぶ事が出来るワールドです。 VRChat映画を楽しんでいきましょう！ VRChat Movie Watching World˸ ＂Distant Summer's Screening＂ A little rundown yet nostalgic․ A home theater nestled in the Japanese countryside․ The second floor offers a relaxing chill space․ Descend from the first floor to the basement‚ and you'll discover a secret theater․ In the theater‚ you can browse movie details and choose what to watch based on their length․ Enjoy a unique cinematic experience in VRChatǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5d5108b3-c597-40de-b260-2adf02f3be7d",
+					"Name": "The Nameless Theater",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "LTCGI付きの映画館みたいなワールドです。シンプルな寝室とプロジェクターもあります。 イスのミラースイッチを右列に移動しました",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e21daff4-c25e-4b98-831d-2ef415a851d0",
+					"Name": "VFI - Cinema",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "The Cinema of the Virtual Film Institute - Dedicated to shining a light onto our amazing VRChat Filmmakers‚ while providing an excellent Stage to show off great Films․ Surround Sound Audio and Reactive Lighting （LTCGI） help drive home the Cinema Experience․ The Lobby contains various games‚ such as Pool and Cards․ And yes‚ we also have a comfy room with bed ＆ asmr tools ˸） Supports VRC Light Volumesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1d3f8dcf-bf28-419b-a6d8-5fb205844000",
+					"Name": "じっとりホラーを観る部屋",
+					"RecommendedCapacity": 6,
+					"Capacity": 8,
+					"Description": "iwaSync3⁄Mirror⁄QvPenあり。おやつもあります。静かめ＆じっとりなホラー動画やミステリー動画を少人数で楽しむためのワールド。プレイリストに入っている動画は個人的なおすすめです。SCP解説や依談なども入っています。ジャンプスケア・自己責任系はほぼ無し、後味は悪めです。 join時に音が鳴る以外ワールド自体に脅かし要素・ギミックはありません。 【動画⁄動画内コンテンツに関して問題が起きた場合、予告なくリストから削除する場合があります。】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9f2013bc-b262-4cff-b7dd-d720974950ad",
+					"Name": "ショートホラーフィルムが見れるワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "ショートホラーフィルムやホラー映画の予告が見れるワールドです。左側の「Movie」プレートをフックにかけると動画プレイヤーが出現します。 彼女はあなたに危害を与えません。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c9eb6c60-b083-4ba1-a323-ce192e3a793f",
+					"Name": "ごろ寝シアター ［gorone theater］",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "全席フラットシート／MIGIRI Spatial Speakert搭載でリッチな音響体験／上映会モードへの切り替え機能あり／LTCGI対応／天井・足元照明のオンオフ（CPUへの負荷が高くなると動画プレイヤーの音が途切れる場合があります。予めご了承ください。）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "NPC",
+			"Worlds": [
+				{
+					"ID": "wrld_972f24e5-99c7-4517-9dc0-a36ba5adfcd7",
+					"Name": "NPC Cat toy - ねこじゃらし遊び",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You can play with Rusk the NPC using Cat toy․ NPCのラスクちゃんと ねこじゃらしで遊べるワールドです。一緒にごろ寝もできます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bddd2a7e-43ec-4a5b-b9d5-9ca28da13ed9",
+					"Name": "Moko House",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Mokoちゃんがなでなで、添い寝してくれるワールドです。お一人でも、それ以外でも。ギミックは一部グローバルです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2c54f77-0d3b-478e-86f5-55c62ed77ccb",
+					"Name": "UdonHouseWithKyoko京狐さんの部屋",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "Kyoko's House v1․5․1",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d67937bd-61b1-429e-ba77-05b324980d61",
+					"Name": "真冬ちゃんと寝れる部屋",
+					"RecommendedCapacity": 1,
+					"Capacity": 20,
+					"Description": "全プラットフォーム対応です！ 単機でもiPhoneでも真冬ちゃんと一緒寝ることができます 設定で真冬ちゃんの色や服装を変えることがっできます",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2c673a5f-2d56-4c03-a50a-f5ddd08f98a3",
+					"Name": "【しなの＆真冬ちゃんと寝れるワールド】Starry Dreams",
+					"RecommendedCapacity": 4,
+					"Capacity": 10,
+					"Description": "落ち着いた雰囲気の寝室です。しなのちゃん、真冬ちゃんと寝ることができます。その他QVPenやJoinlog、睡眠用ギミックもあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5bd8a24f-f97b-4a95-9411-03334220a746",
+					"Name": "ルルネちゃんと添い寝できるワールド",
+					"RecommendedCapacity": 8,
+					"Capacity": 10,
+					"Description": "ベッドでルルネちゃんが寝ています QVペン、joinログ、ナイトモード、ベッドコライダーが入ってます 最終更新 25⁄6⁄25 ルルネちゃんを追加",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7d239e63-0293-4fb0-ade5-c9fd7b74c6e9",
+					"Name": "ルルネとしなのの間でV睡するワールド",
+					"RecommendedCapacity": 4,
+					"Capacity": 12,
+					"Description": "ルルネちゃんとしなのちゃんに挟まれて川の字で寝るために作りました。オンオフでルルネちゃんのみしなのちゃんのみにも出来ます。必要最低限のモノは入れてます。制作者のアバターも出せるようになりました。初めてWorld作ったので多少粗いとこあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5815e6e0-f54a-413f-8b9b-d6517cf0aa46",
+					"Name": "Shinano Room",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "しなのとゆったりとした時間を過ごすどなたでも来れるワールドです。 QvPen‚ベッド‚動画視聴機能‚ミラー‚カメラ‚ちょっとしたバーを設置しております。 そして、目玉となるものが・・・。This is a world where anyone can come to spend relaxed time with Shinano․ We have a QvPen‚ bed‚ video viewing function‚ mirror‚ and a small bar․ And the main attraction is․․․。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_48061838-9120-4c65-9535-74872cdfbf1a",
+					"Name": "NPC․ASMR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChatのアバターが耳かきをしてくれます。 ⁄ Enjoy a relaxing ear cleaning from a VRChat avatar․ Ver․1․5․1",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8de322d8-1e73-4dda-8974-e3bf7ee0f036",
+					"Name": "豺狼ちゃんといっしょ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "豺狼ちゃんといっしょ 豺狼ちゃんがいるチルワ的ななにか",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_85a3a20b-4b4e-49c2-8262-bfc6a4ffb551",
+					"Name": "ミルフィちゃんの労働で動いてるチルワールド",
+					"RecommendedCapacity": 15,
+					"Capacity": 15,
+					"Description": "働かされてるミルフィちゃんを見ながらチル、しよう！（ミルフィちゃん休憩ボタンもあるので安心！）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_24136b81-ed9b-43dc-9da9-167dfa5452d0",
+					"Name": "イケメンたちと寝れる部屋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "斑霞と狛乃に囲まれて寝られるシンプルなチルワです ナイトモード、ジョイン履歴、ＱＶペン完備",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ネタ",
+			"Worlds": [
+				{
+					"ID": "wrld_494ac35c-f03d-4907-bd47-05e708912bbd",
+					"Name": "ジャパニーズパリピ寝室",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "部屋の治安を悪くして寝ている人を叩き起こそう。quest対応 BGM˸静かな余韻",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_15c2262b-349f-419b-bb65-5935118a3e9e",
+					"Name": "違法操業マグロ漁船（Illegal Tuna Fishing Boat）",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "後輩の友人のツイッターアカウント名に着想を得て製作しました。チルワールドだと自覚しています。 （2025⁄8⁄11 30‚000visitsありがとうございます。新ワールド製作中なので今後ともよろしくお願いいたします）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dfe04bda-bcf6-49a7-97fd-f4812c6ea646",
+					"Name": "お砂糖甘々ルーム（おじさん乱入機能あり）",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "しばらくはMAX80人⁄ ここは大切な人と二人きりで過ごす、甘々なワールド。5分おきにおじさんが増え続け、30分で部屋いっぱいになります。（グローバル動作です）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ac56a7c2-c093-4a6e-b03c-7d01ec35b9ad",
+					"Name": "朝7時に爆発するV睡部屋",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "爆発で最高の目覚めをご提供します。起きれなかった時用に最大2回スヌーズします。14時に部屋が元に戻ります。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fd8029ba-55df-4292-bb1a-6ec34a36a6f6",
+					"Name": "ランダムに特殊部隊が突入してくるチルワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ランダムな時間で特殊部隊が突入してきます。 4回に分けて突入してくるので全滅させて撤退させましょう！ ミサイル撃ってくるヘリは部隊が全滅すると帰っていきます",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_07b8ea27-4cfd-406e-95fa-06aa37e7313c",
+					"Name": "野獣と添い寝できるワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "～更新ログ～ V睡に向けた設備の向上 join logの追加 ミラーの設置 時計の設置 ベットコライダーの設置など 野獣と添い寝できるワールドです。 一応、V睡できるようになっているはずです。 要望とかあったらDM、どうぞ。 特定の個人・団体を攻撃・中傷する意図は全くありません。 当ワールドで発生した損害等の責任は負いません。ご了承ください。 This is strictly a world for Japanese people and is not designed for foreigners․ Please refrain from making discriminatory remarks or trolling․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_716cc8ba-f6f4-4d68-9449-881816f70fda",
+					"Name": "寝ているところをフレンドに監視してもらうワールド",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "インスタンスを開いた人の顔写真が監視対象としてPCの画面に表示されます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6705dbbe-e89e-475f-950a-8dd68bc0ef53",
+					"Name": "人がジョインしたらジャンプスケアするチルワ-Chill with Jumpscares-",
+					"RecommendedCapacity": 12,
+					"Capacity": 15,
+					"Description": "デフォルトはジャンプスケア設定はOFFなので安心チルワです。A chill hangout world with a little twistwhen someone joins‚ you can trigger a jumpscareǃ Dont worry‚ the jumpscare feature is OFF by default‚ so you can relax and enjoy chatting or exploring freely․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_072f5e6c-d12f-49cf-b59b-3aaa07bdb065",
+					"Name": "書置きが増える部屋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "お友達が少ないあなたも安心！ここは時間経過とともに、書置きが増えていきます。じっくりとV睡をして、起きた時には書置きがぎっしり！！これで寂しい朝とはおさらばです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9693d28a-2c83-4859-8b81-f67a6543383f",
+					"Name": "なかなか辿り着けないチルワ by ケセドCHESED",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "256作目はなかなか辿り着けないチルワ。チルスペースには他プレーヤーの視点を見れるギミックもあります。チルワを勝ち抜け。クリアするとワールドに入りなおしてもスポーン地点に部屋へのテレポートを出せるスイッチがあります。どうしてもクリアできない人の救済用にクリア者が出せるテレポートもあります。The 256th world is hard to reach chill room․ Chill Space also has a gimmick that allows you to see other players' perspectives․ Defeat Chillwa․ Once you clear the game‚ even if you re-enter the world‚ there is a switch at the spawn point that will teleport you to the room․ There is also a teleporter that can be used by those who have cleared the game to help those who just can't clear it․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a53ec1bb-688e-41f4-93de-7f401d5483d2",
+					"Name": "迫真空手部 部室（INM Hakushin-Karate Club Room）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Created by ＠res_tapi 迫真空手部の部室を忠実に再現。デカ枕シアターも併設。撮影・イベント等にどうぞ。The room of the Hakushin-Karate Club has been faithfully recreated․ There is also a large pillow theater․ Perfect for photography‚ events‚ etc․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "1人用",
+			"Worlds": [
+				{
+					"ID": "wrld_dab3d914-4536-410a-b6fe-62b0f7e55aff",
+					"Name": "二人っきりだね",
+					"RecommendedCapacity": 1,
+					"Capacity": 1,
+					"Description": "すやすや",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9357d2b0-19b3-4023-bc3a-96936f277626",
+					"Name": "記憶の雨 -Rain-",
+					"RecommendedCapacity": 1,
+					"Capacity": 1,
+					"Description": "仕事も生活ともかけ離れ、ぽっかりと浮いた、あるいは深く沈んだ、そんな時間に、結局いつも救われる。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "2人用",
+			"Worlds": [
+				{
+					"ID": "wrld_b8562984-4c23-4374-9421-47e1495de24b",
+					"Name": "for Two",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "2人きりでゆったりくつろげるワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f64acd9c-d59e-4a4c-92e1-f2453c163d58",
+					"Name": "~Re;Villa for two~",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "2人きりの時間をごゆっくりとどうぞ。 JoinLogがオーナーにしか見えない仕様ですので、皆さまが気兼ねなく出入りできるかと思います。Lila‚ RBS SleepKit2‚ QVPen‚ YamaPlayer‚ Noru's shop‚ etc․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ba625792-f7b3-4106-8bcd-13cd0c992c79",
+					"Name": "夜伽朧～よとぎおぼろ～",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "2人っきりで落ち着ける雰囲気のワールドです。気になる人と一緒に過ごしてみてください。Quest、Android対応。Light Volumes 入れてみました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_60dc425d-e2a4-4a14-88e9-2a5ef738a6b3",
+					"Name": "かくれべや-sunset",
+					"RecommendedCapacity": 1,
+					"Capacity": 2,
+					"Description": "2人でまったりできる小さな部屋です。 Nacl_Hideout",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_09dad207-a8e1-4fbf-beec-ce84fbac9044",
+					"Name": "2人の秘密基地",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "ここは2人だけが知る秘密基地",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1c9036ff-712b-4495-ab25-b6045b999bed",
+					"Name": "TWO HEART",
+					"RecommendedCapacity": 1,
+					"Capacity": 2,
+					"Description": "二人きりのホテルワールドです。動画プレイヤーやペンなどいろいろあります。7⁄18ギミック追加などを行いました。ごゆっくりどうぞ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9f13401c-d3f4-4624-a7a9-ca4581aa2c9c",
+					"Name": "SPOT∗LIGHT ［1on1 Talk WORLD（Quest）］［LUWORLD］",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "【Quest対応・V睡ワールド】一人でのんびりして、ふらっと訪れた人と１：１で話したいときに。【Recommended for sleeping․】 ｜寝袋｜QVペン｜ミラー｜輝度調整｜ナイトモード｜imagePad｜iwasync3｜LoFi_オールディーズラジオ｜＊多人数と接することに疲れた人は、ぜひどうぞ。＊",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_efe4acf5-eb18-41d0-972f-ecf85811e426",
+					"Name": "When Two Colors Blend",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "Max Capacity˸ 2 ｜ Bedroom",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_09e57ebd-12e2-47a8-9e2d-864aabd2a57d",
+					"Name": "PairHeart",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "2人だけの空間でゆったり過ごせるワールドです。MoodChangerやバイノーラルマイクがあります。It is a world where you can relax in a space just for the two of you․ There are MoodChanger and binaural microphones․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9a9a65ed-c3fd-4c27-b19e-50bd6d4b277a",
+					"Name": "Just Us Two",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "日本語通訳あり。A cosy world for two people to cuddle and more․ Quest compatible‚ location saving‚ local video player‚ youtube search‚ sleep NPC‚ and silent camera․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_024cc660-bc95-44c6-bf24-94fe6a990e9f",
+					"Name": "For 2 Rabbits-ケセドの2匹のウサギの部屋-",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "226作目は定員２名までの2匹のウサギのための部屋です。The 226th world is a room for two rabbits with a capacity of up to two people․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f3db0e1b-7740-4276-8b9c-286a0fa3efc6",
+					"Name": "HOTEL夕暮",
+					"RecommendedCapacity": 2,
+					"Capacity": 2,
+					"Description": "【日～木・祝】18˸00～翌12˸00の間で最大18時間ご利用￥7000～9500【金】18˸00～翌11˸00の間で最大17時間ご利用￥7500～10000【土・祝前】21˸00～翌11˸00の間で最大14時間ご利用￥8700～13000",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_be7b3115-2d11-490b-b9ed-8967c2155ee5",
+					"Name": "夢見処",
+					"RecommendedCapacity": 1,
+					"Capacity": 2,
+					"Description": "眠ったり、ぼんやりしたりする場所。 - QvPen ⁄ FlipCamera ⁄ SleepMode ⁄ VizVid ⁄ ExMenu - 03⁄26 update どこでもアニメーションシステムを導入しました。デスクトップやモーションのないアバターでも寝ることが出来ます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "少人数",
+			"Worlds": [
+				{
+					"ID": "wrld_271464c9-b551-42c5-80a3-eb570ae6b856",
+					"Name": "Blend",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "作業やV睡をするための小部屋。joinlog‚Qvpen‚VizVid‚Imagepad‚Nightmode",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ホラー",
+			"Worlds": [
+				{
+					"ID": "wrld_f9779f9d-623a-40d5-a7e6-c55315e237bd",
+					"Name": "このワールドはお祓いを済ませておりません - Occult Night",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "お盆の親戚の家をイメージしたホームワールドです。ごゆっくりお過ごしください。2階には絶対に上がるな。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42",
+					"Name": "この部屋では何も起こらない - Ordinary Room",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "親戚の家の仏間をイメージしたホームワールドです。もしも何かが起こりましたら、ご報告ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1d3f8dcf-bf28-419b-a6d8-5fb205844000",
+					"Name": "じっとりホラーを観る部屋",
+					"RecommendedCapacity": 6,
+					"Capacity": 8,
+					"Description": "iwaSync3⁄Mirror⁄QvPenあり。おやつもあります。静かめ＆じっとりなホラー動画やミステリー動画を少人数で楽しむためのワールド。プレイリストに入っている動画は個人的なおすすめです。SCP解説や依談なども入っています。ジャンプスケア・自己責任系はほぼ無し、後味は悪めです。 join時に音が鳴る以外ワールド自体に脅かし要素・ギミックはありません。 【動画⁄動画内コンテンツに関して問題が起きた場合、予告なくリストから削除する場合があります。】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9f2013bc-b262-4cff-b7dd-d720974950ad",
+					"Name": "ショートホラーフィルムが見れるワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "ショートホラーフィルムやホラー映画の予告が見れるワールドです。左側の「Movie」プレートをフックにかけると動画プレイヤーが出現します。 彼女はあなたに危害を与えません。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "狭い",
+			"Worlds": [
+				{
+					"ID": "wrld_97366019-bb5d-4c2d-987d-b1d8b2481e32",
+					"Name": "限界激狭睡眠部屋（Tiny bedroom）",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "今回は高さ方向にこだわりました。Quest対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0450123c-a41c-4fde-92d1-4f6c8b58ad6c",
+					"Name": "［Bedroom］ 恋文 ⁄ Love Letter v1․2․0",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Sleep ⁄ Blue⁄ ［2023-02-08］ v1․2․0 Poster‚ MagicWand｜ もう1部屋増えて広くなりました",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_58f99f69-bb56-4dd9-9ed3-ab1abb633fe9",
+					"Name": "Hotel New Urban",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "Japanese new urban style hotel world․ You can use the remote to change the TV screen‚ 新都市形ホテルワールド。リモコンでTV画面の切り替えができます",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_96203704-8a95-4cb2-a047-794b6b029807",
+					"Name": "N o n e ․",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "None․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7b1ea8e7-bc5e-481f-8268-df6571dccc39",
+					"Name": "Deep inside Room",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "どこかの奥にある狭い部屋⁄Small room 【Mirror、YamaPlayer、QvPen、NightMode】",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "広い",
+			"Worlds": [
+				{
+					"ID": "wrld_134646a0-cc4f-45ca-9a0b-63934fae05ba",
+					"Name": "Moonlit Manor -Luminous Rebirth-",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "月明かりの照らす邸宅で、特別なひと時を。 カフェ⁄バー⁄多彩なゲームコーナー⁄動画プレイヤー⁄V睡ギミック完備。動画はリビングと寝室で別々に視聴可能です。寝室はサウンドプルーフ仕様で、誰にも邪魔されない秘密の会話が可能です。カーテンを開けたまま、美しい景色を眺めながら、リラックスしたひと時をお楽しみください。 Enjoy a moonlit mansion where you can create special moments․ Complete with a café‚ bar‚ various games‚ video players‚ and a VR sleep gimmick․ Watch videos separately in the living room and bedroom․ The soundproof bedroom allows private conversations without interruption․ Relax while admiring the beautiful view with open curtains․ This world supports VRC Light Volumes․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c9ec0f76-2745-4ea2-8a0e-83691361f6cf",
+					"Name": "KASTEHELMI",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "2025⁄04⁄27カフェコーナーアップデート。湖のそばに建つ、静かで落ち着いた小さな建物のチルワールドです。ベッド、ペン、vizvidプレイヤー完備。「かつてここには小さな神殿があったといいます。」 It is a small villa near the lake․ Bed‚ QV pen‚ video player․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_86f74d4d-4610-409b-94a7-50a9379cefc1",
+					"Name": "日帰り温泉 おるきあ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "集会 宴会 待ち合わせ等にどうぞ。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_aaeef9ec-c42e-4b95-870d-22bbc11a97aa",
+					"Name": "超懐郷の秋澄む処 -Nostalgic Autumn Riverside 2024-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "夕焼けとトラス橋とモダンな温泉！実際に焼けるBBQも！ ［HandMenu］VR˸2Click LeftTrigger Desktop˸Tab",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+					"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "川沿いの夜の温泉！足湯や樽風呂、かまくら、焚火も！Pebble Feel対応！音素材：ポケットサウンド https˸⁄⁄pocket-se․info⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "撫で/ASMR",
+			"Worlds": [
+				{
+					"ID": "wrld_842cfe2c-9d82-446e-ba30-40d5a34ad282",
+					"Name": "Binaural ASMR Room",
+					"RecommendedCapacity": 12,
+					"Capacity": 12,
+					"Description": "［Autonomous Sensory Meridian Response］ Try playing with two or more people․ 2人以上で遊んでみてね。ASMR用音源アイテムが購入可能になりました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_63ab0de9-a79d-403e-baab-d9072ab76411",
+					"Name": "撫で特訓部屋ver1․7․0․9",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "撫でを特訓する場所、交流する場所です 主に、ドッペルゲンガー、ミラー、球体、哺乳瓶、鏡撫で用のお人形（リセット、ON⁄OFFボタン付き）、バットは叩くとベッドの上に強制テレポートされます （ベッドルーム部屋は声が広間に聞こえません）二階は鏡撫でルームです （PCが重い人用に大体のギミックを非表示にするスイッチを入れました） なっふな堂様より ルルリア（https˸⁄⁄booth․pm⁄ja⁄items⁄3708060）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4bfde0c0-9941-4fe0-aab8-7819c9ec7db6",
+					"Name": "〜癒しなで〜ASMR room",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "イベント 〜癒しなで〜 で使われているASMR用の小物がたくさん置いてあります pick up＋USEで再生できます ハサミとヘアブラシはpick up＋USE長押しで再生できます 音の大きさはワールド音量で調整お願いします 80％くらいがおすすめです ASMRを楽しんでもらえたらうれしいです！ ・Mikinel Binaural ASMR System追加 ・アバターフィギュア表示ギミック追加 ・イベントカレンダー追加 シアタールーム追加 イベント公式アカウント ＠iyasinade_vrc",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5cf10cda-7879-4188-b45e-0b0ec78d4db4",
+					"Name": "耳かき処 ねこちぐら mimikakidokoro nekotigura ASMR",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "少人数向け、耳かき特化型のASMRワールドです。耳かきの種類がとにかく豊富！リラックスできる明るい店内と秋の音。ひざまくらなどでお互いに耳かきをし合いながら、他愛もない話でゆったりとした時間を過ごしましょう。【大きめアップデート！】耳かき種類増加、USEで音がでるように変更、など！QUEST単機にも対応しました！（うまく動かないなどあれば教えて頂けるとたいへん助かります․․․）ASMR World‚ earpick （mimikaki）‚ cotton swab （menbou） and bonten․ Relax․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a2fb3739-21cf-4b4c-8f87-a9064cdaa521",
+					"Name": "眉間を壊すチルワールド",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "パブリックはおすすめしません！！！ 眉間用のペンでフレンドの眉間を破壊してねー フレンドの仲が破壊されても責任は負いませんからほどほどにね",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_48061838-9120-4c65-9535-74872cdfbf1a",
+					"Name": "NPC․ASMR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VRChatのアバターが耳かきをしてくれます。 ⁄ Enjoy a relaxing ear cleaning from a VRChat avatar․ Ver․1․5․1",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "猫",
+			"Worlds": [
+				{
+					"ID": "wrld_9e66b9e2-140e-42a4-90d0-881b9f5df75c",
+					"Name": "Alcove_Rest",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "狭いスペースでのんびりしたり寝たりするワールドです。2025⁄05⁄20 VRC Light Volumeに対応しましたが、明暗差あんまりないので全然わからないかも。 BGM˸Point-Back 作曲˸zukisuzuki",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b8d06f8a-c024-45cc-ba7d-16166305e01c",
+					"Name": "にゃんこルーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 30,
+					"Description": "みんなが使いやすい設備を整えたChillルームです ｜ YamaPlayer、QvPen、ボードゲームなど色々揃っています｜リニューアルアップデートしました、不具合報告などは作者Xまで",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "くらげ",
+			"Worlds": [
+				{
+					"ID": "wrld_7db11376-c47a-42cb-8e02-3b42751bd40d",
+					"Name": "たゆたうしろかげ",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "たゆたうしろかげ tayutaushirokage 白を基調としたチルワールドです。 メンダコを押せば大体リセットできます。 ⁄0530更新․VRC Light Volumes対応",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_836dbc04-b7a8-4e3a-b483-585649e09060",
+					"Name": "JellyfishBlueBar",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "くらげのパーティクルがある青色のバー。お酒ギミックのVCC版が置いてあります。軽量化項目の追加。若干軽量化。proximityの修正。クエストにも対応しました。BGM˸氷晶と海 NEKOZOU様",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c62da908-7eb2-47c5-99b5-b1895b097df8",
+					"Name": "2261号室 -海月-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フレンドの雑談を聞きながら寝落ちできるような軽めのチルワールドです 寝落ちしたフレンドをバットやトングで寝室（減音部屋）に輸送可能 ミラー ナイトモード Qvpen どこでもアニメーションシステム imagePad iwaSync3 防音室 Ohalogchat 書置きギミック ビューポイント可視化 筆 イベントカレンダー",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_334e8b18-60e1-4205-9710-7596821dfa0e",
+					"Name": "君と白に眠る",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "白とクラゲと月と。好きな空間を作りました。V睡にも、ホームワールドにも、フレンドとの談笑にも、写真撮影にも、色々使えるワールドです。A world of white‚ jellyfish‚ and the moon․ I created a space I love serene and timeless․ Perfect for V-sleep‚ relaxing with friends‚ or taking beautiful photos․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0a391d5d-3708-4bd4-bed5-423de7a9ccd1",
+					"Name": "海月の水葬 - Jellyfish Sleeping Room",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "v2․2海月を眺めながらのんびりしよう。 3点で睡眠できるポーズシステムと添い寝用「りゅ」が居ます。Unity2022へのアップデートとMenuの不具合を修正しました。 こちらは安定版です。不具合があったらご報告いただけると助かります。 Englishize the UI in a fluffy way․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_42e3b2f0-a4f4-4a47-bdf0-9fe8ba91118c",
+					"Name": "海月の木漏れ座",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "?",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "未分類",
+			"Worlds": [
+				{
+					"ID": "wrld_c12c47e0-97eb-4726-91bb-01580b92f7fe",
+					"Name": "Life needs sleep",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VR睡眠ができるリラクゼーションルームです。隠し部屋もあるので探してみてね。This is a relaxation room where you can have VR sleep․ There is also a hidden room‚ so please look for it․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3dbdd288-1aba-4202-bf6b-211b47429f59",
+					"Name": "nekoroom",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ごゆっくりどうぞ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4a41c522-fc84-4cc0-aee4-ab2fddee73f1",
+					"Name": "Amayadokari -あまやどかり-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "雨や雪の環境音や外の森の景色を「ムードチェンジャー」で自由に切り替えられる癒し空間です。 ベッドルームのサイレントモードやバイノーラルマイクギミックを活用して、VR睡眠に最適なリラックス体験を。 アバター試着やインスタントカメラなど、多彩なギミックでゆったりお楽しみいただけます。 なお、赤色のシュガーテスターは本来と違う挙動をするので気を付けてください。 A relaxing space featuring the Mood Changer‚ letting you switch between rain‚ snow‚ and outdoor forest views․ Enjoy a silent bedroom mode and a binaural mic gimmick‚ perfect for VR sleep․ Try on avatars and capture memories with the instant camera as you unwind in comfort․ Please note that the red sugar tester behaves differently from its usual operation‚ so exercise caution․ This world supports VRC Light Volumes․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b09eee5-f501-4b2c-b913-c8ddbe018043",
+					"Name": "-くつろぎデカ寝床- オークベッド・リトリート",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "もふもふの広々としたベッドでV睡しませんか？ 沈み込むベッドなので寝心地よく没入できるかも？ 作業や雑談・枕投げ大会なんかもしちゃったり․․․ 【アイテム】QVpen、ナイトモード、アラーム、ミラー、動画プレイヤー、imagePad、FlipCamera、シュガーテスター etc․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_adff9fa7-f8fd-4acf-bd98-a9b0e615e29b",
+					"Name": "stil",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Follow the night",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
+					"Name": "運命の路地裏 -A Fortune-Telling World-",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "その扉の先に、運命はすでに記されている。読むかどうかを決めるのは、あなた自身ーーーー。「運命の路地裏」では、AIが導くタロット占いを1日1回、無料で体験できます。さらに、占える内容は日替わりで変化。占いが好きな人も、ちょっとした刺激を探している人も大歓迎！占いシステムを動作させるため、「信頼されていないURLを許可」をオンにしてください。 ⁄ Beyond that door‚ destiny has already been written․ The choice to read itor notis yours․ In Fates Alley‚ you can experience an AI-guided tarot reading once a day‚ for free․ Whats more‚ the content of the readings changes daily․ Whether you love fortune-telling or are simply seeking a little thrill‚ all are welcomeǃ ∗Please make sure ＂Allow Untrusted URL＂ is enabled to use the fortune-telling system․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_942868dc-0f2e-4e86-8c8d-2aa8680dd33f",
+					"Name": "ゆのほーむ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ゆのほーむ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a3340e26-f6dc-42f7-8992-f97b2d824203",
+					"Name": "チルワールド＆日常の侵食",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ふつうのチルワールドとして使える空間を目指しました。ベッド・QVペン・iwasync完備。ホラーワールドではありません。玄関横のディスプレイから外出する選択肢を選ぶと、どろどろした非日常なものがあなたの日常を侵食しはじめるかもしれません。（ちなみに侵食はローカルです。）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebc40dab-e142-41bc-bd64-1c82834b92b0",
+					"Name": "Ephemeris",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "An ephemeris is a table of calculated positions and velocities of an orbiting body at specific times․ The word comes from the Greek word ephēmeris‚ which means ＂diary＂ or ＂journal＂․ Updated with Red Sim's Light Volume support․ Fixed video player issues․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_95c9560e-ff7e-4fd3-a1b9-5e85b4d5a304",
+					"Name": "よふかし",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "よふかししましょう",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9ea29a58-3f17-414c-97dc-28fbbdfd1699",
+					"Name": "セリア",
+					"RecommendedCapacity": 6,
+					"Capacity": 20,
+					"Description": "ごゆっくりお過ごしください。 6⁄21 Skybox変更",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "積みチルワ(分類中)",
+			"Worlds": [
+				{
+					"ID": "wrld_d29bb0d0-d268-42dc-8365-926f9d485505",
+					"Name": "Midnight Rooftop",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "（25⁄07⁄25） Lightvolumes v2 support and open-beta crash fix - Chill world set on top of a rooftop inside of a rainy conservatory at night‚ with an indoor area inside of the building․ Now with YouTube Searchǃ Features portable mirror‚ post processing sliders‚ ambient sounds‚ ambient particles‚ music and moreǃ Bedroom‚ pool‚ garden‚ bar‚ 8Ball‚ customisation options‚ optimisation options‚ UDON‚ chess‚ games‚ plushies․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5eb5929a-c878-4372-b2f8-8198b96400a0",
+					"Name": "Soft Space",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Now for saleǃ A small relaxing space suspended in the clouds with Mirrors‚ Pens and Video player for PC․ Updated 11⁄19⁄22",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c32244ce-b9c0-4371-983d-0d0867bdfde9",
+					"Name": "薄暮",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "少人数での雑談や小休憩、睡眠に。 8⁄11更新：どこでもアニメーションシステムを追加",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_778e1f0e-7209-406a-ab45-e97cdd5aa267",
+					"Name": "夜color",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "つかの間のひとときを過ごしませんか？のんびりタイム、VR睡眠ワールド。 設定しているものvideoplayer、QVペン",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8e232cf9-4c00-4e43-ab21-f203c29175bd",
+					"Name": "Constellations Dream",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "リアルタイムに変化する満点の星空に浮かぶ星座をながめながらゆったり過ごせます。 空はタブレットから色々変更できます。 You can spend a relaxing time while gazing at the star-filled sky that changes in real time․․ The sky can be changed in many ways with the use of a tablet․［Gimmick］Mirror⁄QVPen⁄YamaPlayer⁄ImagePad⁄Night Mode",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_32e21979-3850-4f61-b5d3-d943147cd78f",
+					"Name": "あたらよとレンズのゆめ",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "あたらよとレンズのゆめ atarayotorenzunoyume さざ波の音に寄り添うように、ひっそりと小さな家が建っているチルワールドです。メンダコを押すと物が動かせたり、リセットできたりします。⁄VRC Light Volumes対応",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a15406fa-dcf4-49ee-aec9-dc8ae3c2d8cd",
+					"Name": "10円玉のしあわせ",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "10円玉握りしめて、 思い出の味をもう一度。 懐かしの駄菓子屋ワールドです。 ⁄ ＂Clutching a 10-yen coin‚ relive the taste of childhood memories․ Welcome to a nostalgic Japanese candy shop'Dagashi-ya'ǃ＂ Dagashi are cheap‚ colorful Japanese snacks once sold in tiny corner shops for kids․ Step into this retro world and experience the charm of old-school sweets․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4a5d7104-e357-48d4-8d78-157a948621e3",
+					"Name": "Just 寝ながら動画 ～ In Capsule ～",
+					"RecommendedCapacity": 2,
+					"Capacity": 8,
+					"Description": "寝ころびながら動画が見れるよ、やったね（˃ᴗ˂）モニターの高さ調整あり。たぶん2～3人向け。そのまま寝ようね。端からポータル出せるぐらいの広さ。QvPen、ミラー、ナイトモード、どこでもアニメーションシステムあり。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "？",
+			"Worlds": [
+				{
+					"ID": "wrld_b506551d-ffbc-4ad0-aa06-8c3878d9ca3e",
+					"Name": "Justしないと出られない部屋3",
+					"RecommendedCapacity": 2,
+					"Capacity": 3,
+					"Description": "先駆者兄貴が2人いたので初投稿です。条件を満たすと出られます。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_70273454-5b9b-4faf-9bea-1bff1de11be0",
+					"Name": "JustSleepCapsuleHotel",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "みんなで寝よう！！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_19c91eaa-37dd-4f8c-86de-5da83e8c976e",
+					"Name": "Shangri-La Public DPS inside",
+					"RecommendedCapacity": 33,
+					"Capacity": 66,
+					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_12306749-b63f-439a-8873-921546d3b9bc",
+					"Name": "Shangri-La 2 Public",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			],
+			"PermittedRoles": [
+				"R18"
+			]
+		}
+	],
+	"Roles": [
+		{
+			"RoleName": "R18",
+			"DisplayNames": [
+				"rokubi",
+				"神凪いづな",
+				"coonel8823",
+				"ぜっくん",
+				"くをおおおん",
+				"九重 九十九",
+				"Tenshi_天使",
+				"おーかみさん",
+				"こたこ-",
+				"_Gersaluzzo_",
+				"Beusel",
+				"Shigureしぐれ",
+				"そらまた",
+				"tibiame",
+				"きよkiyo",
+				"FALL3_",
+				"ぬしらば",
+				"はくろ〜",
+				"UmeGoChi",
+				"cocoa-cola",
+				"Semicolon_VR",
+				"Akiakityan",
+				"ぷにあま"
+			]
+		}
+	]
+}
