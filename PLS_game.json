@@ -1,0 +1,4585 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": true,
+	"Categorys": [
+		{
+			"Category": "----",
+			"Worlds": [
+				{
+					"ID": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352",
+					"Name": "ゲームワールド紹介ワールド≺クレイドル≻",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "ゲームワールド紹介ワールド≺クレイドル≻は、ゲームワールドを日本語で紹介しているワールドです。現在、約360件のゲームワールドを紹介しています。見つけたワールドにすぐに行けるポータルシステム実装！ Game Worlds Introduction World ≺Cradle≻ is a world that presents game worlds․ ［2023⁄09⁄25］バーチャルライフマガジン様に、紹介記事を書いていただきました！ URL˸https˸⁄⁄vr-lifemagazine․com⁄cradle⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d",
+					"Name": "ボドゲポータル",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "ボードゲームの待ち合わせ用のワールドだよ！ ボドゲ系ワールドへのポータルと紹介がある！ 毎週木曜日21˸00からのイベント「ボードゲームを遊ぼう！」の集合場所にもなってる！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "PvP",
+			"Worlds": [
+				{
+					"ID": "wrld_e2a6c155-629c-4253-97c2-19bf6f1ca43f",
+					"Name": "Strategic Battlefront - Early Access",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "Full-Scale VR FPS World Enters Early Accessǃ Over 70 unique weapons․ A fully customizable stat system․ More than 10 diverse game modes․ Everything is in placejust waiting for the next champion․ Are you ready? Is your ammo stocked? Claim victory with your own handsǃ 本格VR FPSワールド、ついにアーリーアクセス！ 70を超える豊富な武器。 自由に割り振れるステータスシステム。 10種以上の多彩なゲームモード。 そのすべてが、次なる勝者を待っている！ さあ、準備はできているか？ 弾薬は十分か？ 勝利をその手でつかみ取れ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_107869ee-ee7e-4332-aed2-9d0fd5bc5f31",
+					"Name": "Prop Hunt",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Hide and seek except the hiders can turn into inanimate objects and the seekers have guns․ Based on the Garry's Mod game mode․ Updated˸ 2022-05-16",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
+					"Name": "Victory of Round -v2․00-",
+					"RecommendedCapacity": 10,
+					"Capacity": 14,
+					"Description": "This is a rogue light shooting PvP world for 2 to 10 playersǃ Ricochets? Explosions? Anything goesǃ 2人～最大10人で遊べるローグライトシューティングPvPワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4eee24b7-0570-49a4-b7e7-cf7fee69aeb9",
+					"Name": "［PvP］ Just 1v1",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "［v1․4․3］［~24players］ Win 3 rounds in a speedy 1v1ǃ スピーディーな1v1で戦うワールドです。対戦レートは保存され、次のJoin時にロードされます。最大24人まで同時に対戦できます。 ＃Just1v1VRC",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3c3ccab6-8a26-44ef-979f-af8037ebd7a2",
+					"Name": "VERTEX˸ VRCBattleRoyale",
+					"RecommendedCapacity": 36,
+					"Capacity": 72,
+					"Description": "3人1チーム、最大18人で戦うVRバトロワFPSゲーム！ ⁄ VR Battle Royale FPS Gameǃ Teams of 3 players battle in up to 6 teams of 18 players․ --- 2025-04-14 v1․2․2 ＃VERTEXVRC",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d6e55ea7-5fdc-42ac-93cd-f285fc22cd04",
+					"Name": "Tsumuri Kart",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "アイテムを駆使して1位を目指せ！ Let's play Tsumuri Kart！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_39e8abbd-1dff-44f3-be53-342e7ff504d0",
+					"Name": "Treasure Scramble",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Steal the gem by slipping into the guardsǃ Hidden role FPS ｜ 警備員に紛れて宝石を盗み出せ！人狼FPS ｜ ロビーに取り残される不具合が発生した場合はリスポーンしてください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e1d12b89-ef97-4715-b7e1-4c1f61fd0a84",
+					"Name": "鷲巣麻雀 Washizu Mahjong",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "漫画『アカギ 〜闇に降り立った天才〜』に登場する変則麻雀のルールを再現したワールドです。点棒が減ると血が抜かれます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_76843d8c-27fc-4957-8b59-f8308f208daf",
+					"Name": "ISLAND SURVIVAL - PvP Battle Royal",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "シンプルな操作とシンプルなルールで、広大なフィールドで最大20人まで対戦可能なPvPバトルロイヤルが出来るゲームワールドです。 2025⁄6⁄18˸新武器を追加、新アタッチメントを追加、マップの一部をリニューアルなど",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+					"Name": "Floor Smasherǃ （Game）",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "Throw the bullet to break the tiles to let other fall and be the last survivorǃ 2025․02․21 Add multi language support and make sure working with latest VRChat․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_09ea4cd5-24c7-4726-b074-df95b6bd3da5",
+					"Name": "R3 Xross Discs＋＋",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "R3 Xross Discs＋＋ Memorial World․ Map˸Origin（2021）‚ SE（2021‚2022）‚ DX（2023）‚ Square（2024）‚ Volcano（2021）‚ Aqua（2021）․ The 3rd‚ 13rd‚ and 23rd of every month are ＂R3 Days‚＂ and we will make R3Plus available on these days․（UTC）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7",
+					"Name": "R4 Xross Discs",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "R4 Xross Discs Memorial World - An open-space competitive world released a year after the release of R3․ The game is designed to have abilities and strategy so that anyone can enjoy it․ Each of the multiple maps has its own characteristics and offers a variety of battles․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a5cd379c-1b11-46d4-bfa6-5f99ee487ee0",
+					"Name": "R5 Xross Drive",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "R5＝（R4＋Refine）․ Early Access․ Players ˸ 24（Solo Mode）⁄ Unlimited（Team Mode）․ Map˸9‚",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a",
+					"Name": "Overseer",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Beware the Overseerǃ Blend in․ Steal coins․ Run away․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_619689be-e9f3-4df6-992f-bb7e7b4b4a8f",
+					"Name": "Geo Guesser Japan",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本のどこにいるかを当てるゲームǃ A game where you guess where are in Japanǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8abba687-ebfd-4356-846d-d069976df375",
+					"Name": "GeoLocator Remapped",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Let's explore the worldǃ Please ALLOW UNTRUSTED URLSǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eee5f9ce-7857-44b4-bee1-5a2cb75aeb1b",
+					"Name": "立体文字早押し競争",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "立体化された文字を横から見て何の文字か当てよう！（1人プレイ可）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fb4c2148-fa58-4d7a-a2c9-cba9aca0867a",
+					"Name": "Stella poker in Cash",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "9種類のゲームが遊べるpokerワールドです。ワールドにあるATMからudonchipsを引き出して遊んでください。ATMの預金はワールドを離れても保存されます。レーキがとられますので、カジノを想定した熱い勝負をしたい方々などどうぞ。Ver․2․2․1",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b324cfad-7c01-47af-a33c-93c192be9df8",
+					"Name": "投票ダービー - Voting Derby",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "他の人の投票を推測してパワーを発揮できそうなお馬さんに投票しよう！ ｜ 推奨人数：5～16人 ｜ 所要時間：8～13分 ｜ VR ⁄ デスクトップ 両対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_69c41e95-1539-426a-a321-34412e0b021e",
+					"Name": "GIGAS -ASTRAIOS-",
+					"RecommendedCapacity": 20,
+					"Capacity": 32,
+					"Description": "An asymmetrical PvP game in which a gigantic VR player battles a team of human players․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b47923fd-2aab-455b-b800-206093beee64",
+					"Name": "EXPLOIT QUEST Ver",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "EXPLOIT QUEST Ver",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+					"Name": "Navy Blue",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a7ec3a51-c520-41e7-931b-8824e3d02b6b",
+					"Name": "Snowball Fight",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Freezes when hit by a snowball․ ∗Recovers when a friendly player touches․ ∗Win if the entire enemy team freezes․ ∗When time runs out‚ the team with the most survivor wins ∗∗∗Japanese∗∗∗ 2チーム対抗戦。最大16名参加可能 ∗雪玉を当てて相手を凍結 味方のタッチで復活 ∗敵チーム全員が凍結すれば勝利 ∗時間切れの際は生存人数で勝敗決定 ∗∗∗History∗∗∗ 2022․12․31 Publish to Community Labs みなさま良いお年をー！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
+					"Name": "VRC BOXING ［JP ⁄ EN ⁄ KR］",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "Punchǃ Dodgeǃ Winǃ Experience boxing as a physical e-sport in VRChatǃ ＃vrcboxing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ab68f896-a21f-4d72-a016-5a0a42c3158f",
+					"Name": "Putt Putt Pond",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Golf with friends․․․ in VRǃ Play on two 18 hole courses with fully scripted mini golf plus other gamesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_70353369-ba69-46ab-a20b-f6112c82adba",
+					"Name": "Putt Putt Quest",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Mini golf in VRǃ Tackle my second mini golf world‚ now with Quest compatibilityǃ Includes desktop controls for non-VR players․ Good luck golfingǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_99123966-6b37-46d9-835c-25c2f6e0706c",
+					"Name": "VRC Volleyball",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［OPEN BETA］ ［VR ONLY］ ［2vs2~6vs6］ VRChatで本格バレーボール！自動進行で試合ができるゲームワールドです。＃VRC_Volleyball Real Volleyball in VRChatǃ This is a game world where you can play matches with automated progression․ VRChat에서 본격적인 배구ǃ 자동으로 진행되는 경기 월드입니다․ X：＠VRC_Volleyball",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
+					"Name": "［JP］UDON-SABER うどんせいばー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "≺PCVR REQUIRED≻｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜Quest版はUDON SABER QUESTで検索｜For Quest ver‚ search ＂UDON SABER QUEST＂․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
+					"Name": "［JP］UDON-SABER QUEST うどんせいばーQ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "≺VR REQUIRED≻｜Quest Ver․ of ［JP］UDON-SABER｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜ワールド容量制限の都合上、PC版の一部のみ収録しています（時々入れ替え）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+					"Name": "TANK BATTLE VR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_642dd26e-224d-46db-ac38-d8840a8d49fa",
+					"Name": "偉人カードバトル",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Quest対応しました！「ソクラテスラ」ライクなゲームができるワールドです。プレイ人数2-6人。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff554e1d-f773-4786-baf8-da77e6c468f2",
+					"Name": "RemoteWarfare",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Udon PVP game for max 16 players․ Support VR ⁄ Desktop ⁄ Quest․ Guide the missile and survive to last one․ 最大16人まで遊べる対戦ゲームです。自由に動かせるミサイルを使い、最後の一人まで生き残りましょう。VR ⁄ デスクトップ ⁄ Quest対応！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2fc4a694-0744-415c-a25d-54db5e1a477b",
+					"Name": "Let's Daifugo （大富豪）",
+					"RecommendedCapacity": 10,
+					"Capacity": 50,
+					"Description": "大富豪（トランプ）で遊べます。1～8人まで。将棋追加しました。（This world can be played Daifugo card game․ from 1~8 players․） ［JP］⁄［EN］ 2025⁄09⁄13更新",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+					"Name": "Price Guess",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Guess the price of that stuffǃ Game for any number of playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c101c803-7d1a-42d8-9a5e-00a0ccfb2b2f",
+					"Name": "Probability Labs",
+					"RecommendedCapacity": 12,
+					"Capacity": 14,
+					"Description": "Welcome Test Subjects‚ to Probability Labsǃ A multiplayer game where players must use their instincts‚ skills‚ and luck to survive waves of random events․ Outlast your friends and become the ultimate test subjectǃ Or will you be just another data point? Either way‚ your noble contribution to science won't be forgotten․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+					"Name": "Super VR Ball",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Race your friendsǃ Get the most melons․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+					"Name": "BOMBERio",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
+					"Name": "VRWare",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "Challenge your friends to a series of fast-paced minigamesǃ次々と出されるミニゲームでフレンドと挑戦！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_baec7040-f9ac-4d66-9e58-3bc9d1f0256a",
+					"Name": "VRWare Quest",
+					"RecommendedCapacity": 28,
+					"Capacity": 56,
+					"Description": "Challenge your friends to a series of fast-paced minigamesǃ 次々と出されるミニゲームでフレンドと挑戦！ Added new fonts for user-created translations˸ Russian （Русский）‚ and Toki Pona （ ̔ȯ̕ᴗ ） support․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_570a58eb-1790-49ca-8c74-a4adaa17b2c2",
+					"Name": "Squid Game - Mingle Game",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_07ee4e44-940f-4405-a398-e969114a0164",
+					"Name": "TonboWerewolf - トンボ人狼",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Japanese styled werewolf gameǃ（jinro） ｜ 人狼ゲームをVRChatで遊ぼう。猫又や狂信者など、モダンな役職も使用可能。 ｜ 各種役職の説明はマスタールームを参照。 特殊役職の一部は、他の人狼ゲームと異なる挙動をもつため、必ずご確認ください ｜ タグ˸ ＃TonboWerewolf ＃トンボ人狼",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
+					"Name": "Harisen Champǃ ハリセンチャンプ！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1vs1ハリセン対戦格闘ゲームです。 ハリセンで相手をドツいて先に小麦粉プールに落とした方の勝ち！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
+					"Name": "'Among Us' game",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "A weird 3D re-creation of the Skeld map in Among Us․ You can play （slightly buggy） rounds and interact with the tasks using your hands․ This game is not affiliated with Among Us or Innersloth LLC․ Portions of the materials used are trademarks and⁄or copyrighted works of Innersloth LLC․ All rights are reserved by innersloth․ Innersloth has not endorsed this game․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1442a6bf-d510-4fc6-9958-fc1530915d94",
+					"Name": "LusterBullet",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "100000Visits達成！⁄ǃǃ⁄Ver2․4⁄最大16人対戦⁄高速飛行＆二丁拳銃PvP「ラスターバレット」⁄ Up to 16 players⁄high speed flight ＆ dual pistol PVP",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0e51a390-1cab-4926-9a80-606efcb48785",
+					"Name": "Ring of Judgment",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "2 - 30 players․ Objective․․․ Surviveǃ Avoid an army of creatures and collect coins to earn the King's favor․ Last player standing wins․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+					"Name": "Blackoutǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Murderers are on the looseǃ When the lights go out‚ they'll make their moveǃ Work together to put a stop to their killing spreeǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
+					"Name": "Murder 4",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "A murderer is on the loose againǃ Help the detective by finding clues and tracking down the culprit․ Now with avatarsǃ By jar",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_726c8a44-8222-4858-8b33-49e70d495b62",
+					"Name": "Murder 3",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Explore the island‚ search for clues and evade the murderer․ By jar",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+					"Name": "Prison Escape",
+					"RecommendedCapacity": 18,
+					"Capacity": 32,
+					"Description": "Join the fight between Prisoners and Guards in this VR prisonǃ Plot your escape with friends or keep the prisoners in lineǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c81a7387-ae0a-4056-824b-9592d07bbe20",
+					"Name": "［PvP］ CombatShootingTDM",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "v1․6․2 8v8の展開の早いチームデスマッチで戦おう！Quest対応しました。8⁄30アップデートで最大16人に対応＆隠し武器を追加しました！ ＃CombatShootingTDM",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
+					"Name": "Spy Check?ǃ",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "3-6 player game․ Intruder detected in the headquartersǃ Please answer 3 security questions to verify your identity․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c8c1c373-dd05-4095-a5f9-57cc1e2dcc33",
+					"Name": "Squid Game RL⁄GL",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Play a killing rendition of the game Red Light‚ Green Light inspired by the Netflix series ＂Squid Game＂ǃ Who will be the first to reach the finish line?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5600b597-b28e-4cbd-b395-86d50dd637b1",
+					"Name": "Ghost Hunt",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "幽霊の住まう館へようこそ․「彼ら」はあなたと遊びたいようです․ でもご用心‚ 幽霊以外にも‚ 何かが紛れ込んでいるようです․․․ Welcome to the Haunted House․ They are happy to have someone to play with․ Beware‚ there are something wicked among us too․․․ PvPvE game‚ 3-32 Players‚ Desktop Mode compatible",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
+					"Name": "Yeet Party v1․5․1",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "A Beat-Em-Up Party game where you grab‚ push‚ slap‚ and yeet each other out of the map․ Be sure to turn on the lobby settings to use the features in the lobby",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
+					"Name": "Trash Compactor",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A sequel to Meat Grinder ＆ Thermal Treatment․ Survive high-velocity props thrown by a fellow player on unstable platforms․ Models ＆ textures by Chim-Cham‚ voice cameo by Legends․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_097ec90d-f04c-46f3-81f2-fc4bf68bc2bb",
+					"Name": "Better UNO",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Automatic UNOǃ Card game․ Sit back‚ relax‚ and give your friends ＋4sǃ Supports Desktop and up to 8 players․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+					"Name": "Jetski Rush",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_78bd1b46-14e9-42f2-8058-ae954aa008a3",
+					"Name": "VRC Bluff Bar V2․0",
+					"RecommendedCapacity": 4,
+					"Capacity": 32,
+					"Description": "A fan-made game officially authorized by ＂Lair's Bar＂ǃ A fast-paced PvP mind game of deception and strategy․ Bluff‚ challenge‚ and outsmart opponents to win․ Supports PC ＆ Quest․ VR players can enable ＂VR mode＂․ Report bugs on Discord or Patreon․ Thanks a lotǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b20a27d2-cd22-4aa0-a25b-666dc97451ec",
+					"Name": "TonboBattlefield˸ Classic Remake",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "The remaked classic TBF seriesǃ Shoot and fight your rivals to winǃ 撃ったり投げたりして勝利をめざす初代 トンバト のリメイク版 ǃ ｜ Rule details are in guide UI․ ルールの 詳細は ガイド UI に 記述されて います。｜ トンバト クラシック リメイク ｜ TBF Classic Remake ｜ Old World Name˸ TonboBattlefield 01 ｜ Updated˸ 2023⁄10⁄26 （2․2․2）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+					"Name": "BABELǃ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Shooting and Building PVP Gameǃ For 2-20 Players․ Support VR ⁄ Desktop ⁄ Quest․ 建築系対戦シューティングゲームです。2～20人で遊べます。VR ⁄ デスクトップ ⁄ Quest対応！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c70b41c-5ff1-4101-a6dc-d8a31ad5c3a0",
+					"Name": "Quiz Lab",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "QuizLab／早押しクイズと書きクイズができるワールドです。解答者最大6人対応。プリセットとかは用意してないので各自持ち寄ってください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c8c7da0-c889-4ce6-a62b-a731ac336659",
+					"Name": "VRC Strike",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "ダイスを投げて生き残れ！ ボードゲーム「ストライク」を再現した対戦型ワールド。 同じ目を揃えて回収し、「×」やアリーナ外は除外。最後の1人になるまで生き残ろう！ Throw dice and surviveǃ A competitive VR board game based on Strike․ Match numbers to collect dice․ ＂X＂ or out-of-the-arena? They're gone․ Be the last player with any dice leftǃ ver․ beta",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0c2fcccc-a77c-4649-8ba3-182729d4c208",
+					"Name": "麻雀 緑一色 ⁄ Just Riichi Mah-jongg （Mahjong） Lu-Yise",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "［English description below］ ＃VRC緑一色 は軽量で快適な麻雀ワールドです。改変した全自動麻雀卓「青空麻雀」を8卓設置。三麻・二麻に対応。Android（Quest）やデスクトップでもプレイ可能です。牌譜検討機能も搭載。配信・イベント・大会でのご利用も自由です！それらに役立つギミックも用意しています。フィードバックは以下のフォームまで。［forms․office․com⁄r⁄gew1yjeYM0］ ＃VRChat_LuYise is a lightweight and comfortable world for Japanese-style Riichi Mahjong․ It features 8 modified fully automated Aozora Mahjong tables․ Supports Sanma （3-player） and even Liangma （2-player） modes․ Playable on Android （Quest） and Desktop platforms․ Includes a game record review function․ Feel free to use it for streaming‚ events‚ or tournaments additional gimmicks are available to support these activitiesǃ Feedback˸ ［forms․office․com⁄r⁄gew1yjeYM0］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f7b38da2-bebf-4fb0-8fe3-6699ed231a7e",
+					"Name": "BattleCityOfMagica2",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Ver․2․1 PvPシューティングゲーム",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e9fd4900-fe88-47d6-ba5b-777d284a11db",
+					"Name": "カプセルBATTLE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Get into the Capsule and blow away your opponentsǃ A party game for 2 to 8 peopleǃ【Play with˸ Touch‚ Game Pad‚ Keyboard‚ VR Controller】 カプセルに乗り込んで相手を吹き飛ばせ！ 2~8人のパーティーゲーム！ 軽量で観戦も楽しいよ！大会イベント・配信OK",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_47c60092-5db3-4a61-9c30-f5777ce76baf",
+					"Name": "Udon Catan ［JP］",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "カタンが遊べるUdonワールドです。カタンのルールは各自で調べてください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83",
+					"Name": "Ludo",
+					"RecommendedCapacity": 10,
+					"Capacity": 16,
+					"Description": "ボードゲームのLudoをプレイできるワールドです。友達と一緒に遊んでみてください。CPUと対戦もできます。 This is a world where you can play the board game Ludo․ Try playing with your friends․ You can also play against the CPU․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c4ae09d-f6cc-45d1-be63-b9a6b6df1fb9",
+					"Name": "Magic Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ここは魔法使いが集うアリーナ․ 武器は必要ありません․ 様々な魔法を駆使し‚勝利を手にしましょう․ PvP game world where you fight other players with magic spells․ （2-16 players‚ PCVR⁄Desktop⁄Android） ［Ver5․0］ 新マップ＂Enchanted Castle＂が追加されましたǃ new map ＂Enchanted Castle＂ has been addedǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4adb757a-9776-44d3-a129-cd871c3ee71d",
+					"Name": "Last One Running",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "能力を持った戦車を操作して戦うターン制のPvPゲームワールドです。プレイ人数2~8、想定プレイ時間15分～30分。鋭意開発中。＃VRC_LOR",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_46e27ae3-e61d-42e8-b1fe-2a26577eafef",
+					"Name": "Instagib Tournament",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "A deathmatch game world based on Unreal Tournament and its popular Instagib mutator․ In instagib‚ you are equipped with a weapon that kills other players in one hit․ You can play against other players or up to 12 AI bots․ Do you have what it takes to win? Join the discord server to follow development‚ send feedback and bug reports․ GROUP˸ IGT․3531［Version 1․4․3］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b88e125d-8131-4b1e-844b-3431707d78d3",
+					"Name": "StageCraftFPS",
+					"RecommendedCapacity": 34,
+					"Capacity": 34,
+					"Description": "FPSの対戦ステージを自分達で作れるゲームワールド",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cc2a3fcc-62d3-41da-9c5c-b627791b1f36",
+					"Name": "PEKO PEKO BATTLE 2",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "This is a sport-like game‚ much likesoccer and rugby where the objective is to fight over a single rice ball to feed a hungry girl․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d7f0d8db-6d50-4953-9ea3-740bfc0e9712",
+					"Name": "Sword Fighting",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Sword",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_32402c8f-f897-4ed6-8266-cd22fdce3313",
+					"Name": "Infected˸ Reborn",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Zombie Tag with Guns?［If you find any bug‚ please report at my discord‚ feedback is also much welcomed and appreciated․］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d3375fa1-4fc2-47ce-9432-d8d9a8a51a9f",
+					"Name": "BO2 - Raid （PVP‚ Matchmaking‚ Classes）",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "［v1․0․0］ 1˸1 Port of Raid from BO2 with matchmaking‚ classes‚ PVP‚ and more․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
+					"Name": "ガンナガン ⁄ GUN AND GUN",
+					"RecommendedCapacity": 32,
+					"Capacity": 40,
+					"Description": "アナログゲーム製作サークル「Keepdry」様制作の、高速二丁銃バトルカードゲーム「ガンナガン」をVRで遊べるワールドです。 プレイ人数˸2人 プレイ時間˸10〜30分 対象年齢˸12歳以上",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ba1a0c1-5d7a-4271-bc13-401157b35dcd",
+					"Name": "ブラッドリコール ⁄ BLOOD RECALL",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "アナログゲーム製作サークル「シエラゲームズ」様制作の、想起血戦カードゲーム「ブラッドリコール」をVRで遊べるワールドです。 プレイ人数˸1~2人 プレイ時間˸10〜30分 対象年齢˸15歳以上 人数˸ 20人",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4fa7db7-ca0e-4f62-8742-bea8d49cb170",
+					"Name": "Play Game Now",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ゲームアセットを詰め込んだワールドです。 Questにも対応させましたがすべてのアセットが対応しているわけではありませんのでご了承ください。入り口付近のスイッチにてアセットを非表示にできます［Room S5］・ボーリング・シュガーテスター・記憶ゲーム・ブロック崩し・魚釣りゲーム・ウォーターゲーム・ダーツ・ビリヤード・コリドール・クワトロ・ヨットダイス・Udonマスターズ・海戦ゲーム・将棋・麻雀・チェス・リバーシ・トランプ・バックショットルーレット・エアホッケー・バスケットゲーム【2024⁄05⁄09】バスケットゲームの調整・ビリヤードの修正・ウォーターゲーム更新・床コライダー変更・オクルージョンカリングの修正・ボーリング玉リセットスイッチ追加",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b578ce2d-6585-42ab-a2cf-69cd600ce4ec",
+					"Name": "桜降る代に決闘を",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ボードゲーム『桜降る代に決闘を』遊べるワールドです。 BakaFire Partyに連絡し許可を受けた上で制作しています。 ルールブックはふるよにコモンズに含まれていないが、別途許可を頂いています。 公式サイト https˸⁄⁄main-bakafire․ssl-lolipop․jp⁄furuyoni⁄na⁄index․html ふるよにコモンズ⁄BakaFire‚TOKIAME https˸⁄⁄main-bakafire․ssl-lolipop․jp⁄furuyoni⁄na⁄rule․html",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c4ae09d-f6cc-45d1-be63-b9a6b6df1fb9",
+					"Name": "Magic Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ここは魔法使いが集うアリーナ․ 武器は必要ありません․ 様々な魔法を駆使し‚勝利を手にしましょう․ PvP game world where you fight other players with magic spells․ （2-16 players‚ PCVR⁄Desktop⁄Android） ［Ver5․0］ 新マップ＂Enchanted Castle＂が追加されましたǃ new map ＂Enchanted Castle＂ has been addedǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5f6fc095-ffb5-436e-84fe-4499581a1d28",
+					"Name": "Bangǃ Beanǃ Ballǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ボールをぶつけて相手を落とそう！ 生き残りワイワイバトル！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b4a932e8-823b-4390-a8a4-d80d4b29b998",
+					"Name": "人狼系TRPG「さいこぱす」日本語・English対応 ［Original TRPG PSYCHOPATH］",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "5人以上で遊べるオリジナルTRPGです。みんなの信用を得て三途の川からの期間を目指しましょう！（推奨人数10人前後） BGM˸音の園http˸⁄⁄oto-no-sono․com This is an original TRPG for 5 or more players․ Let's get everyone's trust and aim for the period from the Sanzu Riverǃ （Recommended number of players˸ around 10） BGM˸Otonosono http˸⁄⁄oto-no-sono․com",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f3038ec-1bd1-4fff-8f59-5f8502500d6c",
+					"Name": "企業キャッチコピー百人一首_catchcopy-karuta",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "『デイリーポータルZ』において北向ハナウタさんが考案、製作されていた『企業キャッチコピー百人一首（https˸⁄⁄dailyportalz․jp⁄kiji⁄11619）』が面白そうだったのでやってみようとした非公認ファンワールドです。（許可は頂いています！） 記事中で行われていたゲームができます。全部で35枚で、『記事にあったもの』『記事になかったけどこれも入れたかったもの』『よく知らないけどかっこいいキャッチコピーだなと思ったもの』が含まれています。なお必ずしも最新の煽り文句ではありませんのでご注意ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+					"Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join 전쟁」이 테마인 경쟁성이 높은 「덱 빌딩 재구성」 게임입니다․【CN】1-4人用卡牌游戏。以VRChat的「参加活动」为主题的高竞争性「牌组构筑与再破坏」游戏。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ab60ad08-d1d7-469b-b556-8a5a850aa0f2",
+					"Name": "Block Knockers",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Update 3․0˸ Block Knockers is a fun and simple game to play with your friends․ The goal is to throw the balls at the opponent's cubes and hit them all before they hit yoursǃ Original Game made on SDK2 in 2019 by Naked Cobra ＆ Hobo Bum Tramp․ Upgraded to UDON by DeliciousSalad․ Feel free to join our discordǃ https˸⁄⁄discord․gg⁄TSeB47DD",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_142bd122-4f6b-4428-9787-6a77b54c72f8",
+					"Name": "Spy Submarine",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Some suspicious ones got into our Submarineǃ Make sure you track them down and Pop'em upǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ccca9cb8-074f-4af3-ae1d-810114b3f420",
+					"Name": "Rocket Jump Arena",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Rocket Jump Arena （v1․21） Grab a launcher‚ jump around‚ explode people․ An Arena shooter inspired by Team Fortress 2 and Quake 3 Arena․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6b5d5bc6-765b-486c-a3c7-03836ef2a373",
+					"Name": "WBD VRC Baseball - wwg",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "WBD ˸ Waktaverse Baseball Deahwe․ This is a practice world for the Waktaverse Baseball Tournament․ It's a world where you can play baseball following real-life rules․ VR is required to play․ Full-body tracking is not mandatory‚ but it's recommended for the best experience․ 왁타버스 야구대회 연습월드입니다․ 실제 야구 룰에 따라 야구가 가능한 월드입니다․ 플레이를 위해서는 VR이 필요합니다․ 풀트래킹이 아니어도 가능하지만‚ 풀트래킹을 사용하는 것이 더 좋습니다․ ワクタバース野球大会の練習マップです。 実際の野球ルールに基づいてプレイ可能なワールドです。 プレイにはVRが必要です。 フルトラッキングがなくてもプレイできますが、フルトラッキングがあるとより快適です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_72faed82-0829-4aad-a825-d9ef87597766",
+					"Name": "Specter Spectare",
+					"RecommendedCapacity": 25,
+					"Capacity": 80,
+					"Description": "A Specter awakened casts its glare onto the playing field․ Can you avoid the red spotlight and reach the other side? Or will you be caught in the light and taken this very night? （Made in 3 weeks for Spookality 2025ǃ） （Game Requires 2＋ players to playǃ）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_30aaf908-0853-4da0-825f-617f09e47bd5",
+					"Name": "PEKO PEKO BATTLE 3",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "This is a team-based sports game like soccer and rugby․ Work together to deliver rice balls to a hungry girlǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cc2a3fcc-62d3-41da-9c5c-b627791b1f36",
+					"Name": "PEKO PEKO BATTLE 2",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "This is a sport-like game‚ much likesoccer and rugby where the objective is to fight over a single rice ball to feed a hungry girl․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "PvE",
+			"Worlds": [
+				{
+					"ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
+					"Name": "Zombie Survival",
+					"RecommendedCapacity": 10,
+					"Capacity": 40,
+					"Description": "v3․1 ｜ 日本語対応しました！ Defeat hordes of zombies to surviveǃ They grow stronger‚ but you may increase your odds using new weapons‚ upgrades and perks․ Updates are posted in our Discord˸ syN4hGsB27",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v30 - Welcome Summerǃ New seasonal itemsǃ ⁄⁄ v31 - Trash Shop and skinsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
+					"Name": "WORLD OF THE SOUL",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "ソウルライクRPGワールドです。 プレイ人数：1～6人 セーブ機能あり Soul Like RPG World․ Number of players˸ 1-6 Save function available․ ＃WORLD_OF_THE_SOUL",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5",
+					"Name": "SlashCo VR",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "8⁄30⁄25 - v0․8․12｜ A Survival Stealth Horror Co-op game․ WARNING˸ Contains loud sounds‚ flashing images and profanity․ VRC Group ≻ SLASH․3139",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
+					"Name": "Terrors of Nowhere",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Friends＋ or Group heavily recommended․ ｜（HEAVY WORLD）This world contains flashing lights and jumpscares․｜ A chaotic udon survival 'horror' game․ Supports 16 players․｜ Version 1․17b｜ There will likely be bugs․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
+					"Name": "Barrage TD",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "Tower Defense with team play and the ability to take control of the towers․ Become a miniature on the game board and fight the hoards alone or with up to 9 friends․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f60cbe28-18d6-42cd-a53c-56d53936f437",
+					"Name": "VRC OF THE DEAD˸SURVIVE",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "1～8 Player PVE Zombie Gun Shooting Survivle",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_67d21c42-18b4-44b3-8f57-109f0c20051d",
+					"Name": "（Quest）VRC OF THE DEAD",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "VRC OF THE DEAD For Quest Version",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5600b597-b28e-4cbd-b395-86d50dd637b1",
+					"Name": "Ghost Hunt",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "幽霊の住まう館へようこそ․「彼ら」はあなたと遊びたいようです․ でもご用心‚ 幽霊以外にも‚ 何かが紛れ込んでいるようです․․․ Welcome to the Haunted House․ They are happy to have someone to play with․ Beware‚ there are something wicked among us too․․․ PvPvE game‚ 3-32 Players‚ Desktop Mode compatible",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_25e938a8-3b23-4d6b-a9c2-10e28cb4970b",
+					"Name": "Bullet Time Agent",
+					"RecommendedCapacity": 6,
+					"Capacity": 10,
+					"Description": "An immersive action-adventure with over 8 hours of gameplay․ Take on intense bullet hell combat‚ punch and fight robots‚ and tackle platforming challengesall powered by time control abilities․ Solve intricate puzzles and face epic boss battles that test your skills․ Save your progress to play at your own pace‚ and unlock thrilling New Game＋ modes for even more action․ Favorite this world and join the fightǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f276af30-d347-408c-b24d-9514293cb4d5",
+					"Name": "Fate of the Irrbloss",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "Go on an adventure to the stars in your new space shipǃ 1-5 players decide the fate of the craft as you try to reach your goal․ Fate of the Irrbloss takes inspiration from many space themed games‚ including FTL‚ Eve Online and Freespace․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a0423f4f-d9a8-42d9-bfcf-323eca2ec8a3",
+					"Name": "Magical Cursed Land",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "Action RPG Game World for 1-4 player․ 日本語 ⁄ English․ 事前ダウンロード推奨（Preload recommended）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_db092ec5-6f31-499d-b2f1-3644d4f9ac14",
+					"Name": "上海-Shanghai-",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "麻雀牌を使ったソリティアゲームです。BOOTHにてアセット版販売中！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8819eb17-349a-4e22-ada8-76ea114da912",
+					"Name": "Delta Down",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Friends＋ or Group recommended ｜ This world contains horror elements ｜ Udon Horror Game where in a strange facility‚ inmates must reach quota or else they face a terrible fate․․․ ｜ Supports multiple players ｜ Likely chance of Bugs ｜ Version 1․0․4",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3e1ca4a4-16e8-48e8-8459-4d04249e9988",
+					"Name": "VRMonsterHunting【PvEGame】 BETA TEST",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "多人数PvEボスレイドバトル、32人まで対応予定、弱点部位を狙ってモンスターを倒そう、ランクシステム搭載、称号・ポイント・HPは自動セーブ、モンスターや武器は順次複数追加予定！モンスターを倒してポイントを稼ぎ、ショップにあるレアな武器と交換して他プレイヤーと競おう！ Multiplayer PvE Boss Raid Battles‚ planned for up to 32 players․ Target monsters' weak spots and avoid their onslaughts while defeating them․ A ranking system is implemented‚ and player titles‚ points‚ and HP are permanently saved․ Multiple monsters and weapons will be added monthlyǃ Defeat monsters to earn points‚ which you can exchange for rare weapons in the shop to compete with other playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2af6dab-c6fa-4752-b8c5-227addcc5b10",
+					"Name": "Crystal Defenders",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Co-operative active tower defense actionǃ Protect the crystal from invading hordesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9a51b365-d6cc-42e6-901a-54ceb46b94ef",
+					"Name": "Super Tower Defense",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "A highly polished‚ easy to understand Tower Defense game made for VRChat․ Place down towers to stop the Cars from reaching your hearts․ Both Desktop and VR compatible․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+					"Name": "Idle Home",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "Idle game․ 放置ゲーの勇者に転生してしまった",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bc647b75-363d-40ed-ac02-c576098a1efc",
+					"Name": "Idle Cube",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "［2․12․3 Mini Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with your rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f18613e0-eca8-45ee-b3a8-50ce482b35de",
+					"Name": "Idle Defense",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Tower Defense Idle game ｜ Persistence updateǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a7c4dc4-16f8-4eab-8d47-486e12d2c797",
+					"Name": "クミンの勇者冒険 v1․3",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "This is an afk game․ And offers a few other games․ Surrounded by mattresses‚ it looks like a secret base that you can make your home․ My Twitter˸ ＠Hehzs_o",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "【ENG ⁄ JP】【Ver․4․3․1】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
+					"Name": "Elite's RNG Land",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Reach for the stars as you put your luck to the ultimate test․ Roll for Auras of various chances and display your luckiness to your friendsǃ World is currently in active development․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_224d9018-f052-487d-932d-f83febf530c1",
+					"Name": "v1․11 ｜ Noir - Nocturne ｜ Chapter 1",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "v1․11 ｜ Playtime is 1-3hrsǃ ｜Travel miles below the surface to the underground city of Nocturne and discover its secretsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_03415963-883e-4510-9051-d142aeac65a5",
+					"Name": "Aether's Maw‚ The Leviathans Trail ｜ v1․3․5",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "v1․3․5 ｜ Cannonball Grapplingǃ｜ Dive into the massive universe of the Aether Series‚ taking revenge against a terrifying beast in a whale huntǃ Gather your crew and sail your ship into the unknownǃ ｜ 1 - 16 players ｜ 1 - 2hr playtime ｜ Inspired by Treasure Planet‚ Outer Wilds‚ Subnautica‚ and Sea of Thieves; gather your crew and prepare to explore a forgotten realm beyond the edge of the galaxy․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_10e60275-ad1a-45c8-8ff8-99e1fb81fc13",
+					"Name": "つなげて うんちんゲ～ム！！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ひらながをつなげて単語（たんご）を学（まな）ぼう！みんな仲良（なかよ）く楽（たの）しく遊（あそ）んでね！配信（はいしん）は自由（じゆう）にどうぞ！内容（ないよう）には注意（ちゅうい）してね＾＾／BGM「そんなバカな！by BGMer完全フリーBGM」",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2b2e6caf-8dd2-4f02-a923-47940d269827",
+					"Name": "Memories Refrain⁄メモリーズ・リフレイン",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "フレンド＋やグループなどでのプレイを推奨します。｜3D酔いやてんかんに十分ご注意ください｜バグを見つけた場合、連絡をいただけると助かります。Ver․1․2․0",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8c80dbbe-5be8-4e1f-839a-42c56e533c4f",
+					"Name": "罰ゲーム付きアスレチックワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "罰ゲーム付きアスレチックワールドです。エリア外に落ちてしまうと・・・？",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_12ce40ac-198f-4e35-ac55-c13a1284ad91",
+					"Name": "DOLL˸ Emilie",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "NEVER AVERT YOUR EYES․ Find the key and survive․ The doll wont move as long as you look at it․ No jumpscares only pure tension․ Play solo or together‚ but never separate․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_26c38507-8915-40d5-9338-667f01fe3b4c",
+					"Name": "Valkyrie Defense",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "（Fixed） 2hours Udon game․ 5~10 player recommended․ Fly using a booster and defense crystals against hostile drones․ Be careful for the VR motion sickness․ Support EN⁄KR⁄JP․ ver 1․23",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b6ee240b-e68d-465f-bf59-dc6f4280a021",
+					"Name": "Kingdom Scrolls v2",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Can you lead your kingdom to glory？ It's easy‚ just answer yes-or-no questionsǃ By jar․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
+					"Name": "（WIP） Memena's Lord Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_3e1ca4a4-16e8-48e8-8459-4d04249e9988",
+					"Name": "VRMonsterHunting【PvEGame】 BETA TEST",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "多人数PvEボスレイドバトル、32人まで対応予定、弱点部位を狙ってモンスターを倒そう、ランクシステム搭載、称号・ポイント・HPは自動セーブ、モンスターや武器は順次複数追加予定！モンスターを倒してポイントを稼ぎ、ショップにあるレアな武器と交換して他プレイヤーと競おう！ Multiplayer PvE Boss Raid Battles‚ planned for up to 32 players․ Target monsters' weak spots and avoid their onslaughts while defeating them․ A ranking system is implemented‚ and player titles‚ points‚ and HP are permanently saved․ Multiple monsters and weapons will be added monthlyǃ Defeat monsters to earn points‚ which you can exchange for rare weapons in the shop to compete with other playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec223823-e80f-4b18-9263-1980c07ae422",
+					"Name": "SimpleLife",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［0․1․8］ Farming Sim inspired by other games like Stardew Valley and Animal Crossing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0e0f81ba-833e-4abb-a4c6-ec3c4fd0f11d",
+					"Name": "掘りほりほりっく（DigDig Holic）",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "アーリーアクセス中！ 最高にハマれる採掘＆クラフトゲームが登場！ 洞窟に潜り、鉱石を掘り、お気に入りのツルハシを作ろう！進行状況は自動セーブです！ 【対応】 PC⁄Desktop⁄Quest 日本語⁄English【してるよ！】 不具合があったらリジョインか立て直しをお願いします。 Now in Early Accessǃ The most addictive mining and crafting game everǃ Dive into caves‚ mine ore‚ and craft your perfect pickaxeǃ Your progress is automatically savedǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c62a609-ae92-4837-ae0b-1561afb1bfb0",
+					"Name": "VRC Fantasy 3 - Japan Samurai Co-op Action RPG -",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "【時空を超えた、大冒険】仲間と共に、和の世界へいざ出陣！VRCでは珍しい「協力アクションRPG」です。仲間と協力し、自前武器で多数の敵を倒すことが可能。ゲームが苦手な人もすぐに楽しめます。スキルシステムで戦闘がさらに楽しく！半オープンワールド化、多数の隠し武器、HP UI実装、進化した演出等盛りだくさん。温泉で回復ができ、チルワールドとしても使えます。推奨プレイ人数は4人（一人でも遊べます）、プレイ時間は20～25分。 難易度は中辛。Questユーザーでも遊べます。大規模な範囲攻撃や多数衝突武器や魔法の使用は、【ワールド進行不可のバグ】を引き起こすので、絶対ご遠慮ください。Samurai Sakura chill japan Experience a unique cooperative action RPG in VRC․ Team up with friends to defeat enemies‚ use varied skills‚ and explorea semi-open world full of hidden weapons",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3bcf1820-7164-4644-a679-b591b875471b",
+					"Name": "KABUKA【ギャンブルゲームワールド】KABU運用",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "KABUを安く買って高く売ろうǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a062f554-88a4-4275-8301-21b262e99ab0",
+					"Name": "Cube - Escape or Die",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You find yourself within a maze of cubes‚ a door on all 6 sides․ Navigate your way to the exterior exit‚ but beware the traps along the way․ Find ways to avoid or decoy the traps‚ decipher the numbers‚ and work together with other players to escape; or else die trying․ An survival escape game with a 26x26x26 grid of 17‚576 cubes that shift around and move as the game plays‚ and is never the same twice․ Dozens of unique trap types‚ secret rooms‚ and a selection of items that can be brought in or found to help increase your chances of survival․ Based on the 1997 movie ＂Cube＂․ Made for Spookality 2025․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_55d2d7c5-de48-4a6d-9828-41428ea97876",
+					"Name": "みんなでPlanarity UdonPlanarity",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "Simple multiplayer puzzle game․ 点を動かし、交差を解消せよ ⁄ Move nodes to untangleǃ ⁄ 原作は John Tantalo 氏による Planarity です。 ⁄ The original game is Planarity by John Tantalo․ ⁄ このワールドは、同氏が MIT License で公開している raphael․planarity を元に改変（U＃移植、マルチプレイ化、異なる問題生成アルゴリズムの適用など）したスクリプトを含みます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a3ae94a7-9e31-4ec2-b19e-118dc10cca2a",
+					"Name": "Over Dose Over Ride - 砂上の花園編 pH1 -",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "このワールドは、獲得した能力を自由に組み合わせ、数々のミッションに挑むPvEゲームワールドです。 ハイスピードかつ大迫力の戦闘を楽しむことができ、現在は全15種類のミッションをプレイできます。 本ワールドはβ版のため、予期せぬ不具合が発生する場合があります。マルチプレイにも対応していますが、シングルプレイを推奨しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0b564e0d-3781-43c0-9334-41ea9b147fa7",
+					"Name": "Chrono Hollow",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "2025⁄11⁄2 Achievement update․ A co-op mining horror game set in the cursed cave‚ Chrono Hollow․Each instance is procedurally generated․ Dig deeper․․․ if you dare․ Persistence supported․ your progress is saved automatically․ 訪れるたびに姿を変える、呪われた洞窟「クロノホロウ」を探検する採掘ホラーゲーム。潜れ、より深くまで。Persistence対応で進行は自動セーブされます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Persistance",
+			"Worlds": [
+				{
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v30 - Welcome Summerǃ New seasonal itemsǃ ⁄⁄ v31 - Trash Shop and skinsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
+					"Name": "WORLD OF THE SOUL",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "ソウルライクRPGワールドです。 プレイ人数：1～6人 セーブ機能あり Soul Like RPG World․ Number of players˸ 1-6 Save function available․ ＃WORLD_OF_THE_SOUL",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5",
+					"Name": "SlashCo VR",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "8⁄30⁄25 - v0․8․12｜ A Survival Stealth Horror Co-op game․ WARNING˸ Contains loud sounds‚ flashing images and profanity․ VRC Group ≻ SLASH․3139",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a0423f4f-d9a8-42d9-bfcf-323eca2ec8a3",
+					"Name": "Magical Cursed Land",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "Action RPG Game World for 1-4 player․ 日本語 ⁄ English․ 事前ダウンロード推奨（Preload recommended）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3e1ca4a4-16e8-48e8-8459-4d04249e9988",
+					"Name": "VRMonsterHunting【PvEGame】 BETA TEST",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "多人数PvEボスレイドバトル、32人まで対応予定、弱点部位を狙ってモンスターを倒そう、ランクシステム搭載、称号・ポイント・HPは自動セーブ、モンスターや武器は順次複数追加予定！モンスターを倒してポイントを稼ぎ、ショップにあるレアな武器と交換して他プレイヤーと競おう！ Multiplayer PvE Boss Raid Battles‚ planned for up to 32 players․ Target monsters' weak spots and avoid their onslaughts while defeating them․ A ranking system is implemented‚ and player titles‚ points‚ and HP are permanently saved․ Multiple monsters and weapons will be added monthlyǃ Defeat monsters to earn points‚ which you can exchange for rare weapons in the shop to compete with other playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2b2e6caf-8dd2-4f02-a923-47940d269827",
+					"Name": "Memories Refrain⁄メモリーズ・リフレイン",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "フレンド＋やグループなどでのプレイを推奨します。｜3D酔いやてんかんに十分ご注意ください｜バグを見つけた場合、連絡をいただけると助かります。Ver․1․2․0",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+					"Name": "Idle Home",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "Idle game․ 放置ゲーの勇者に転生してしまった",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bc647b75-363d-40ed-ac02-c576098a1efc",
+					"Name": "Idle Cube",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "［2․12․3 Mini Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with your rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f18613e0-eca8-45ee-b3a8-50ce482b35de",
+					"Name": "Idle Defense",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Tower Defense Idle game ｜ Persistence updateǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a7c4dc4-16f8-4eab-8d47-486e12d2c797",
+					"Name": "クミンの勇者冒険 v1․3",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "This is an afk game․ And offers a few other games․ Surrounded by mattresses‚ it looks like a secret base that you can make your home․ My Twitter˸ ＠Hehzs_o",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "【ENG ⁄ JP】【Ver․4․3․0】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
+					"Name": "Elite's RNG Land",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Reach for the stars as you put your luck to the ultimate test․ Roll for Auras of various chances and display your luckiness to your friendsǃ World is currently in active development․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
+					"Name": "（WIP） Memena's Lord Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_3e1ca4a4-16e8-48e8-8459-4d04249e9988",
+					"Name": "VRMonsterHunting【PvEGame】 BETA TEST",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "多人数PvEボスレイドバトル、32人まで対応予定、弱点部位を狙ってモンスターを倒そう、ランクシステム搭載、称号・ポイント・HPは自動セーブ、モンスターや武器は順次複数追加予定！モンスターを倒してポイントを稼ぎ、ショップにあるレアな武器と交換して他プレイヤーと競おう！ Multiplayer PvE Boss Raid Battles‚ planned for up to 32 players․ Target monsters' weak spots and avoid their onslaughts while defeating them․ A ranking system is implemented‚ and player titles‚ points‚ and HP are permanently saved․ Multiple monsters and weapons will be added monthlyǃ Defeat monsters to earn points‚ which you can exchange for rare weapons in the shop to compete with other playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec223823-e80f-4b18-9263-1980c07ae422",
+					"Name": "SimpleLife",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［0․1․8］ Farming Sim inspired by other games like Stardew Valley and Animal Crossing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0e0f81ba-833e-4abb-a4c6-ec3c4fd0f11d",
+					"Name": "掘りほりほりっく（DigDig Holic）",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "アーリーアクセス中！ 最高にハマれる採掘＆クラフトゲームが登場！ 洞窟に潜り、鉱石を掘り、お気に入りのツルハシを作ろう！進行状況は自動セーブです！ 【対応】 PC⁄Desktop⁄Quest 日本語⁄English【してるよ！】 不具合があったらリジョインか立て直しをお願いします。 Now in Early Accessǃ The most addictive mining and crafting game everǃ Dive into caves‚ mine ore‚ and craft your perfect pickaxeǃ Your progress is automatically savedǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3bcf1820-7164-4644-a679-b591b875471b",
+					"Name": "KABUKA【ギャンブルゲームワールド】KABU運用",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "KABUを安く買って高く売ろうǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ボードゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_0c2fcccc-a77c-4649-8ba3-182729d4c208",
+					"Name": "麻雀 緑一色 ⁄ Just Riichi Mah-jongg （Mahjong） Lu-Yise",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "［English description below］ ＃VRC緑一色 は軽量で快適な麻雀ワールドです。改変した全自動麻雀卓「青空麻雀」を8卓設置。三麻・二麻に対応。Android（Quest）やデスクトップでもプレイ可能です。牌譜検討機能も搭載。配信・イベント・大会でのご利用も自由です！それらに役立つギミックも用意しています。フィードバックは以下のフォームまで。［forms․office․com⁄r⁄gew1yjeYM0］ ＃VRChat_LuYise is a lightweight and comfortable world for Japanese-style Riichi Mahjong․ It features 8 modified fully automated Aozora Mahjong tables․ Supports Sanma （3-player） and even Liangma （2-player） modes․ Playable on Android （Quest） and Desktop platforms․ Includes a game record review function․ Feel free to use it for streaming‚ events‚ or tournaments additional gimmicks are available to support these activitiesǃ Feedback˸ ［forms․office․com⁄r⁄gew1yjeYM0］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e1d12b89-ef97-4715-b7e1-4c1f61fd0a84",
+					"Name": "鷲巣麻雀 Washizu Mahjong",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "漫画『アカギ 〜闇に降り立った天才〜』に登場する変則麻雀のルールを再現したワールドです。点棒が減ると血が抜かれます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cfa96a21-5d1c-4fd8-9f07-6677142acbd7",
+					"Name": "超能力な麻雀部屋",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "超能力を使った麻雀ができます。気まぐれでアプデします。9⁄2 能力追加。卓2台に変更。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b47923fd-2aab-455b-b800-206093beee64",
+					"Name": "EXPLOIT QUEST Ver",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "EXPLOIT QUEST Ver",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2de8eba1-09a7-441f-a544-58bf783f5195",
+					"Name": "串カツ神経衰弱",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "串カツで神経衰弱をする高難易度なゲームワールドです。 同じ具材でも画像が異なります。 オモコロチャンネルの串カツ神経衰弱をやりたくて作りました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
+					"Name": "CoinAmusement by UdonChips",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "ワールド内通貨規格「UdonChips」元祖のワールドです。 2025アップデート第一弾！ ・Quest対応 ・頭の上に所持金が表示されるようになりました！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_db092ec5-6f31-499d-b2f1-3644d4f9ac14",
+					"Name": "上海-Shanghai-",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "麻雀牌を使ったソリティアゲームです。BOOTHにてアセット版販売中！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c8c7da0-c889-4ce6-a62b-a731ac336659",
+					"Name": "VRC Strike",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "ダイスを投げて生き残れ！ ボードゲーム「ストライク」を再現した対戦型ワールド。 同じ目を揃えて回収し、「×」やアリーナ外は除外。最後の1人になるまで生き残ろう！ Throw dice and surviveǃ A competitive VR board game based on Strike․ Match numbers to collect dice․ ＂X＂ or out-of-the-arena? They're gone․ Be the last player with any dice leftǃ ver․ beta",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_47c60092-5db3-4a61-9c30-f5777ce76baf",
+					"Name": "Udon Catan ［JP］",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "カタンが遊べるUdonワールドです。カタンのルールは各自で調べてください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83",
+					"Name": "Ludo",
+					"RecommendedCapacity": 10,
+					"Capacity": 16,
+					"Description": "ボードゲームのLudoをプレイできるワールドです。友達と一緒に遊んでみてください。CPUと対戦もできます。 This is a world where you can play the board game Ludo․ Try playing with your friends․ You can also play against the CPU․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4fa7db7-ca0e-4f62-8742-bea8d49cb170",
+					"Name": "Play Game Now",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ゲームアセットを詰め込んだワールドです。 Questにも対応させましたがすべてのアセットが対応しているわけではありませんのでご了承ください。入り口付近のスイッチにてアセットを非表示にできます［Room S5］・ボーリング・シュガーテスター・記憶ゲーム・ブロック崩し・魚釣りゲーム・ウォーターゲーム・ダーツ・ビリヤード・コリドール・クワトロ・ヨットダイス・Udonマスターズ・海戦ゲーム・将棋・麻雀・チェス・リバーシ・トランプ・バックショットルーレット・エアホッケー・バスケットゲーム【2024⁄05⁄09】バスケットゲームの調整・ビリヤードの修正・ウォーターゲーム更新・床コライダー変更・オクルージョンカリングの修正・ボーリング玉リセットスイッチ追加",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_10e60275-ad1a-45c8-8ff8-99e1fb81fc13",
+					"Name": "つなげて うんちんゲ～ム！！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ひらながをつなげて単語（たんご）を学（まな）ぼう！みんな仲良（なかよ）く楽（たの）しく遊（あそ）んでね！配信（はいしん）は自由（じゆう）にどうぞ！内容（ないよう）には注意（ちゅうい）してね＾＾／BGM「そんなバカな！by BGMer完全フリーBGM」",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_66c742e9-ff23-460b-b71f-84549fe4b6f5",
+					"Name": "『かわうち』ボードゲームワールド",
+					"RecommendedCapacity": 4,
+					"Capacity": 80,
+					"Description": "（JP⁄EN）『かわいい子たちとおうちを建てるゲーム』島のかわいい子たちと共に誰よりも早くお家を建てよう！ プレイ人数˸2～4 プレイ時間˸30分以上 ｜ ＃かわうち created by TDMボドゲ同好会 ｜ Kawauchi （Kawaii ko tachi to ouchi wo tateru game‚ ＂Cuties Build Your House＂） Let your cuties take action to complete your houseǃ ｜ The boardgame for 2～4 players․ About 30 min․ or longer to play․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b578ce2d-6585-42ab-a2cf-69cd600ce4ec",
+					"Name": "桜降る代に決闘を",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ボードゲーム『桜降る代に決闘を』遊べるワールドです。 BakaFire Partyに連絡し許可を受けた上で制作しています。 ルールブックはふるよにコモンズに含まれていないが、別途許可を頂いています。 公式サイト https˸⁄⁄main-bakafire․ssl-lolipop․jp⁄furuyoni⁄na⁄index․html ふるよにコモンズ⁄BakaFire‚TOKIAME https˸⁄⁄main-bakafire․ssl-lolipop․jp⁄furuyoni⁄na⁄rule․html",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3bcf1820-7164-4644-a679-b591b875471b",
+					"Name": "KABUKA【ギャンブルゲームワールド】KABU運用",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "KABUを安く買って高く売ろうǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "カードゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_fb4c2148-fa58-4d7a-a2c9-cba9aca0867a",
+					"Name": "Stella poker in Cash",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "9種類のゲームが遊べるpokerワールドです。ワールドにあるATMからudonchipsを引き出して遊んでください。ATMの預金はワールドを離れても保存されます。レーキがとられますので、カジノを想定した熱い勝負をしたい方々などどうぞ。Ver․2․2․1",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_642dd26e-224d-46db-ac38-d8840a8d49fa",
+					"Name": "偉人カードバトル",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Quest対応しました！「ソクラテスラ」ライクなゲームができるワールドです。プレイ人数2-6人。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2fc4a694-0744-415c-a25d-54db5e1a477b",
+					"Name": "Let's Daifugo （大富豪）",
+					"RecommendedCapacity": 10,
+					"Capacity": 50,
+					"Description": "大富豪（トランプ）で遊べます。1～8人まで。将棋追加しました。（This world can be played Daifugo card game․ from 1~8 players․） ［JP］⁄［EN］ 2025⁄09⁄13更新",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_097ec90d-f04c-46f3-81f2-fc4bf68bc2bb",
+					"Name": "Better UNO",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Automatic UNOǃ Card game․ Sit back‚ relax‚ and give your friends ＋4sǃ Supports Desktop and up to 8 players․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_78bd1b46-14e9-42f2-8058-ae954aa008a3",
+					"Name": "VRC Bluff Bar V2․0",
+					"RecommendedCapacity": 4,
+					"Capacity": 32,
+					"Description": "A fan-made game officially authorized by ＂Lair's Bar＂ǃ A fast-paced PvP mind game of deception and strategy․ Bluff‚ challenge‚ and outsmart opponents to win․ Supports PC ＆ Quest․ VR players can enable ＂VR mode＂․ Report bugs on Discord or Patreon․ Thanks a lotǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
+					"Name": "ガンナガン ⁄ GUN AND GUN",
+					"RecommendedCapacity": 32,
+					"Capacity": 40,
+					"Description": "アナログゲーム製作サークル「Keepdry」様制作の、高速二丁銃バトルカードゲーム「ガンナガン」をVRで遊べるワールドです。 プレイ人数˸2人 プレイ時間˸10〜30分 対象年齢˸12歳以上",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ba1a0c1-5d7a-4271-bc13-401157b35dcd",
+					"Name": "ブラッドリコール ⁄ BLOOD RECALL",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "アナログゲーム製作サークル「シエラゲームズ」様制作の、想起血戦カードゲーム「ブラッドリコール」をVRで遊べるワールドです。 プレイ人数˸1~2人 プレイ時間˸10〜30分 対象年齢˸15歳以上 人数˸ 20人",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f3038ec-1bd1-4fff-8f59-5f8502500d6c",
+					"Name": "企業キャッチコピー百人一首_catchcopy-karuta",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "『デイリーポータルZ』において北向ハナウタさんが考案、製作されていた『企業キャッチコピー百人一首（https˸⁄⁄dailyportalz․jp⁄kiji⁄11619）』が面白そうだったのでやってみようとした非公認ファンワールドです。（許可は頂いています！） 記事中で行われていたゲームができます。全部で35枚で、『記事にあったもの』『記事になかったけどこれも入れたかったもの』『よく知らないけどかっこいいキャッチコピーだなと思ったもの』が含まれています。なお必ずしも最新の煽り文句ではありませんのでご注意ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+					"Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join 전쟁」이 테마인 경쟁성이 높은 「덱 빌딩 재구성」 게임입니다․【CN】1-4人用卡牌游戏。以VRChat的「参加活动」为主题的高竞争性「牌组构筑与再破坏」游戏。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "パーティー",
+			"Worlds": [
+				{
+					"ID": "wrld_107869ee-ee7e-4332-aed2-9d0fd5bc5f31",
+					"Name": "Prop Hunt",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Hide and seek except the hiders can turn into inanimate objects and the seekers have guns․ Based on the Garry's Mod game mode․ Updated˸ 2022-05-16",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a",
+					"Name": "Overseer",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Beware the Overseerǃ Blend in․ Steal coins․ Run away․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_619689be-e9f3-4df6-992f-bb7e7b4b4a8f",
+					"Name": "Geo Guesser Japan",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本のどこにいるかを当てるゲームǃ A game where you guess where are in Japanǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8abba687-ebfd-4356-846d-d069976df375",
+					"Name": "GeoLocator Remapped",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Let's explore the worldǃ Please ALLOW UNTRUSTED URLSǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b324cfad-7c01-47af-a33c-93c192be9df8",
+					"Name": "投票ダービー - Voting Derby",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "他の人の投票を推測してパワーを発揮できそうなお馬さんに投票しよう！ ｜ 推奨人数：5～16人 ｜ 所要時間：8～13分 ｜ VR ⁄ デスクトップ 両対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_69c41e95-1539-426a-a321-34412e0b021e",
+					"Name": "GIGAS -ASTRAIOS-",
+					"RecommendedCapacity": 20,
+					"Capacity": 32,
+					"Description": "An asymmetrical PvP game in which a gigantic VR player battles a team of human players․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_71d9f907-3620-4d7c-88e4-aa1f76494949",
+					"Name": "ニュースの時間ですVR",
+					"RecommendedCapacity": 7,
+					"Capacity": 16,
+					"Description": "面白おかしいニュース原稿を作ってニュースキャスターを笑わせよう！ プレイ人数3～7人 VR推奨",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2de8eba1-09a7-441f-a544-58bf783f5195",
+					"Name": "串カツ神経衰弱",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "串カツで神経衰弱をする高難易度なゲームワールドです。 同じ具材でも画像が異なります。 オモコロチャンネルの串カツ神経衰弱をやりたくて作りました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+					"Name": "Price Guess",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Guess the price of that stuffǃ Game for any number of playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2fc4a694-0744-415c-a25d-54db5e1a477b",
+					"Name": "Let's Daifugo （大富豪）",
+					"RecommendedCapacity": 10,
+					"Capacity": 50,
+					"Description": "大富豪（トランプ）で遊べます。1～8人まで。将棋追加しました。（This world can be played Daifugo card game․ from 1~8 players․） ［JP］⁄［EN］ 2025⁄05⁄06更新",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_641b3ddd-fd00-40d0-9786-83313329e2d6",
+					"Name": "爆走！IPPON道場",
+					"RecommendedCapacity": 16,
+					"Capacity": 50,
+					"Description": "某番組風大喜利ワールドです お題は全部で50問用意していますが、 爆走新喜劇のイベントでは追加のお題と、画像で一言もあります！来てね！ 2025⁄9⁄9 既存の問題の一部と新問題35問入れ替え",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c101c803-7d1a-42d8-9a5e-00a0ccfb2b2f",
+					"Name": "Probability Labs",
+					"RecommendedCapacity": 12,
+					"Capacity": 14,
+					"Description": "Welcome Test Subjects‚ to Probability Labsǃ A multiplayer game where players must use their instincts‚ skills‚ and luck to survive waves of random events․ Outlast your friends and become the ultimate test subjectǃ Or will you be just another data point? Either way‚ your noble contribution to science won't be forgotten․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+					"Name": "Super VR Ball",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Race your friendsǃ Get the most melons․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+					"Name": "BOMBERio",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
+					"Name": "VRWare",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "Challenge your friends to a series of fast-paced minigamesǃ次々と出されるミニゲームでフレンドと挑戦！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_baec7040-f9ac-4d66-9e58-3bc9d1f0256a",
+					"Name": "VRWare Quest",
+					"RecommendedCapacity": 28,
+					"Capacity": 56,
+					"Description": "Challenge your friends to a series of fast-paced minigamesǃ 次々と出されるミニゲームでフレンドと挑戦！ Added new fonts for user-created translations˸ Russian （Русский）‚ and Toki Pona （ ̔ȯ̕ᴗ ） support․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_570a58eb-1790-49ca-8c74-a4adaa17b2c2",
+					"Name": "Squid Game - Mingle Game",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8e30e0e5-aae0-4452-9281-6832f5e49b06",
+					"Name": "Rumble˸ Disaster Survival",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Survive disasters with your friendsǃ a re-imagination of ＂Natural Disaster Survival＂ - Created by vr_unveil․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
+					"Name": "CoinAmusement by UdonChips",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "ワールド内通貨規格「UdonChips」元祖のワールドです。 2025アップデート第一弾！ ・Quest対応 ・頭の上に所持金が表示されるようになりました！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
+					"Name": "Spy Check?ǃ",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "3-6 player game․ Intruder detected in the headquartersǃ Please answer 3 security questions to verify your identity․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c8c1c373-dd05-4095-a5f9-57cc1e2dcc33",
+					"Name": "Squid Game RL⁄GL",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Play a killing rendition of the game Red Light‚ Green Light inspired by the Netflix series ＂Squid Game＂ǃ Who will be the first to reach the finish line?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
+					"Name": "Yeet Party v1․5․1",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "A Beat-Em-Up Party game where you grab‚ push‚ slap‚ and yeet each other out of the map․ Be sure to turn on the lobby settings to use the features in the lobby",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
+					"Name": "Trash Compactor",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A sequel to Meat Grinder ＆ Thermal Treatment․ Survive high-velocity props thrown by a fellow player on unstable platforms․ Models ＆ textures by Chim-Cham‚ voice cameo by Legends․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_097ec90d-f04c-46f3-81f2-fc4bf68bc2bb",
+					"Name": "Better UNO",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Automatic UNOǃ Card game․ Sit back‚ relax‚ and give your friends ＋4sǃ Supports Desktop and up to 8 players․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e9fd4900-fe88-47d6-ba5b-777d284a11db",
+					"Name": "カプセルBATTLE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Get into the Capsule and blow away your opponentsǃ A party game for 2 to 8 peopleǃ【Play with˸ Touch‚ Game Pad‚ Keyboard‚ VR Controller】 カプセルに乗り込んで相手を吹き飛ばせ！ 2~8人のパーティーゲーム！ 軽量で観戦も楽しいよ！大会イベント・配信OK",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_003f348a-2739-4c91-bef4-16fc37efc6d0",
+					"Name": "以心伝心 ［Ishin-denshin］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「以心伝心」は、3人から30人まで遊べるパーティゲーム！出題者がお題を言葉で表現し、回答者がお題を予想して当てるゲームだ。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b6ee240b-e68d-465f-bf59-dc6f4280a021",
+					"Name": "Kingdom Scrolls v2",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Can you lead your kingdom to glory？ It's easy‚ just answer yes-or-no questionsǃ By jar․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5f6fc095-ffb5-436e-84fe-4499581a1d28",
+					"Name": "Bangǃ Beanǃ Ballǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ボールをぶつけて相手を落とそう！ 生き残りワイワイバトル！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0fca2b4c-ff2f-4c9b-8f2c-7d63b3e2a4d2",
+					"Name": "新・以心伝心バリューセットをつくろう！！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "仲良しなら誰が何を頼むのかもわかるはず！各々バラバラに注文してバリューセットを作ろう！！ リメイク",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
+					"Name": "Phantom Boat",
+					"RecommendedCapacity": 20,
+					"Capacity": 30,
+					"Description": "Hop onboard the Phantom Boatǃ You're sailing into haunted waters‚ chasing the legendary Cthulhu․ But watch outǃ Strange anomalies lurk everywhere․ Each round‚ choose wisely˸ stay on the ship or hide in the lifeboat‚ if you see any anomalies․ One wrong move‚ and youll be ship out of luckǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f3038ec-1bd1-4fff-8f59-5f8502500d6c",
+					"Name": "企業キャッチコピー百人一首_catchcopy-karuta",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "『デイリーポータルZ』において北向ハナウタさんが考案、製作されていた『企業キャッチコピー百人一首（https˸⁄⁄dailyportalz․jp⁄kiji⁄11619）』が面白そうだったのでやってみようとした非公認ファンワールドです。（許可は頂いています！） 記事中で行われていたゲームができます。全部で35枚で、『記事にあったもの』『記事になかったけどこれも入れたかったもの』『よく知らないけどかっこいいキャッチコピーだなと思ったもの』が含まれています。なお必ずしも最新の煽り文句ではありませんのでご注意ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9df3eb48-9663-4184-87e8-f7df3f5eaba1",
+					"Name": "GUESS WHAT SOUND",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "UPDATED NEW SOUNDS 22⁄11⁄25 Guess That Soundǃ Welcome to Guess That Soundǃ‚ the ultimate audio challenge game in VRChatǃ Can you identify what youre hearing? It could be anything a sound from a movie‚ TV show‚ video game‚ advert‚ character‚ or even a random sound effect from the internetǃ Listen carefully every round will test your ear and memory․ Play solo or with friends to compete and see whos the true sound masterǃ Endless possibilities new sounds‚ themes‚ and categories to keep you guessing․ From classic nostalgia to viral modern clips‚ no sound is off-limitsǃ Are you ready to prove your audio IQ? Step up‚ press play‚ and Guess That Soundǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "シューティング",
+			"Worlds": [
+				{
+					"ID": "wrld_e2a6c155-629c-4253-97c2-19bf6f1ca43f",
+					"Name": "Strategic Battlefront - Early Access",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "Full-Scale VR FPS World Enters Early Accessǃ Over 70 unique weapons․ A fully customizable stat system․ More than 10 diverse game modes․ Everything is in placejust waiting for the next champion․ Are you ready? Is your ammo stocked? Claim victory with your own handsǃ 本格VR FPSワールド、ついにアーリーアクセス！ 70を超える豊富な武器。 自由に割り振れるステータスシステム。 10種以上の多彩なゲームモード。 そのすべてが、次なる勝者を待っている！ さあ、準備はできているか？ 弾薬は十分か？ 勝利をその手でつかみ取れ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_107869ee-ee7e-4332-aed2-9d0fd5bc5f31",
+					"Name": "Prop Hunt",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Hide and seek except the hiders can turn into inanimate objects and the seekers have guns․ Based on the Garry's Mod game mode․ Updated˸ 2022-05-16",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
+					"Name": "Victory of Round -v2․00-",
+					"RecommendedCapacity": 10,
+					"Capacity": 14,
+					"Description": "This is a rogue light shooting PvP world for 2 to 10 playersǃ Ricochets? Explosions? Anything goesǃ 2人～最大10人で遊べるローグライトシューティングPvPワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
+					"Name": "Zombie Survival",
+					"RecommendedCapacity": 10,
+					"Capacity": 40,
+					"Description": "v3․1 ｜ 日本語対応しました！ Defeat hordes of zombies to surviveǃ They grow stronger‚ but you may increase your odds using new weapons‚ upgrades and perks․ Updates are posted in our Discord˸ syN4hGsB27",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4eee24b7-0570-49a4-b7e7-cf7fee69aeb9",
+					"Name": "［PvP］ Just 1v1",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "［v1․4․3］［~24players］ Win 3 rounds in a speedy 1v1ǃ スピーディーな1v1で戦うワールドです。対戦レートは保存され、次のJoin時にロードされます。最大24人まで同時に対戦できます。 ＃Just1v1VRC",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3c3ccab6-8a26-44ef-979f-af8037ebd7a2",
+					"Name": "VERTEX˸ VRCBattleRoyale",
+					"RecommendedCapacity": 36,
+					"Capacity": 72,
+					"Description": "3人1チーム、最大18人で戦うVRバトロワFPSゲーム！ ⁄ VR Battle Royale FPS Gameǃ Teams of 3 players battle in up to 6 teams of 18 players․ --- 2025-04-14 v1․2․2 ＃VERTEXVRC",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_39e8abbd-1dff-44f3-be53-342e7ff504d0",
+					"Name": "Treasure Scramble",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "Steal the gem by slipping into the guardsǃ Hidden role FPS ｜ 警備員に紛れて宝石を盗み出せ！人狼FPS ｜ ロビーに取り残される不具合が発生した場合はリスポーンしてください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_76843d8c-27fc-4957-8b59-f8308f208daf",
+					"Name": "ISLAND SURVIVAL - PvP Battle Royal",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "シンプルな操作とシンプルなルールで、広大なフィールドで最大20人まで対戦可能なPvPバトルロイヤルが出来るゲームワールドです。 2025⁄6⁄18˸新武器を追加、新アタッチメントを追加、マップの一部をリニューアルなど",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+					"Name": "Floor Smasherǃ （Game）",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "Throw the bullet to break the tiles to let other fall and be the last survivorǃ 2025․02․21 Add multi language support and make sure working with latest VRChat․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_09ea4cd5-24c7-4726-b074-df95b6bd3da5",
+					"Name": "R3 Xross Discs＋＋",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "R3 Xross Discs＋＋ Memorial World․ Map˸Origin（2021）‚ SE（2021‚2022）‚ DX（2023）‚ Square（2024）‚ Volcano（2021）‚ Aqua（2021）․ The 3rd‚ 13rd‚ and 23rd of every month are ＂R3 Days‚＂ and we will make R3Plus available on these days․（UTC）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7",
+					"Name": "R4 Xross Discs",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "R4 Xross Discs Memorial World - An open-space competitive world released a year after the release of R3․ The game is designed to have abilities and strategy so that anyone can enjoy it․ Each of the multiple maps has its own characteristics and offers a variety of battles․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a5cd379c-1b11-46d4-bfa6-5f99ee487ee0",
+					"Name": "R5 Xross Drive",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "R5＝（R4＋Refine）․ Early Access․ Players ˸ 24（Solo Mode）⁄ Unlimited（Team Mode）․ Map˸9‚",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+					"Name": "Navy Blue",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a7ec3a51-c520-41e7-931b-8824e3d02b6b",
+					"Name": "Snowball Fight",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Freezes when hit by a snowball․ ∗Recovers when a friendly player touches․ ∗Win if the entire enemy team freezes․ ∗When time runs out‚ the team with the most survivor wins ∗∗∗Japanese∗∗∗ 2チーム対抗戦。最大16名参加可能 ∗雪玉を当てて相手を凍結 味方のタッチで復活 ∗敵チーム全員が凍結すれば勝利 ∗時間切れの際は生存人数で勝敗決定 ∗∗∗History∗∗∗ 2022․12․31 Publish to Community Labs みなさま良いお年をー！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff554e1d-f773-4786-baf8-da77e6c468f2",
+					"Name": "RemoteWarfare",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Udon PVP game for max 16 players․ Support VR ⁄ Desktop ⁄ Quest․ Guide the missile and survive to last one․ 最大16人まで遊べる対戦ゲームです。自由に動かせるミサイルを使い、最後の一人まで生き残りましょう。VR ⁄ デスクトップ ⁄ Quest対応！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+					"Name": "BOMBERio",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1442a6bf-d510-4fc6-9958-fc1530915d94",
+					"Name": "LusterBullet",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "100000Visits達成！⁄ǃǃ⁄Ver2․4⁄最大16人対戦⁄高速飛行＆二丁拳銃PvP「ラスターバレット」⁄ Up to 16 players⁄high speed flight ＆ dual pistol PVP",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f60cbe28-18d6-42cd-a53c-56d53936f437",
+					"Name": "VRC OF THE DEAD˸SURVIVE",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "1～8 Player PVE Zombie Gun Shooting Survivle",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_67d21c42-18b4-44b3-8f57-109f0c20051d",
+					"Name": "（Quest）VRC OF THE DEAD",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "VRC OF THE DEAD For Quest Version",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+					"Name": "Prison Escape",
+					"RecommendedCapacity": 18,
+					"Capacity": 32,
+					"Description": "Join the fight between Prisoners and Guards in this VR prisonǃ Plot your escape with friends or keep the prisoners in lineǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c81a7387-ae0a-4056-824b-9592d07bbe20",
+					"Name": "［PvP］ CombatShootingTDM",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "v1․6․2 8v8の展開の早いチームデスマッチで戦おう！Quest対応しました。8⁄30アップデートで最大16人に対応＆隠し武器を追加しました！ ＃CombatShootingTDM",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5600b597-b28e-4cbd-b395-86d50dd637b1",
+					"Name": "Ghost Hunt",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "幽霊の住まう館へようこそ․「彼ら」はあなたと遊びたいようです․ でもご用心‚ 幽霊以外にも‚ 何かが紛れ込んでいるようです․․․ Welcome to the Haunted House․ They are happy to have someone to play with․ Beware‚ there are something wicked among us too․․․ PvPvE game‚ 3-32 Players‚ Desktop Mode compatible",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b20a27d2-cd22-4aa0-a25b-666dc97451ec",
+					"Name": "TonboBattlefield˸ Classic Remake",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "The remaked classic TBF seriesǃ Shoot and fight your rivals to winǃ 撃ったり投げたりして勝利をめざす初代 トンバト のリメイク版 ǃ ｜ Rule details are in guide UI․ ルールの 詳細は ガイド UI に 記述されて います。｜ トンバト クラシック リメイク ｜ TBF Classic Remake ｜ Old World Name˸ TonboBattlefield 01 ｜ Updated˸ 2023⁄10⁄26 （2․2․2）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+					"Name": "BABELǃ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Shooting and Building PVP Gameǃ For 2-20 Players․ Support VR ⁄ Desktop ⁄ Quest․ 建築系対戦シューティングゲームです。2～20人で遊べます。VR ⁄ デスクトップ ⁄ Quest対応！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f7b38da2-bebf-4fb0-8fe3-6699ed231a7e",
+					"Name": "BattleCityOfMagica2",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Ver․2․1 PvPシューティングゲーム",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_46e27ae3-e61d-42e8-b1fe-2a26577eafef",
+					"Name": "Instagib Tournament",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "A deathmatch game world based on Unreal Tournament and its popular Instagib mutator․ In instagib‚ you are equipped with a weapon that kills other players in one hit․ You can play against other players or up to 12 AI bots․ Do you have what it takes to win? Join the discord server to follow development‚ send feedback and bug reports․ GROUP˸ IGT․3531［Version 1․4․3］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b88e125d-8131-4b1e-844b-3431707d78d3",
+					"Name": "StageCraftFPS",
+					"RecommendedCapacity": 34,
+					"Capacity": 34,
+					"Description": "FPSの対戦ステージを自分達で作れるゲームワールド",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_32402c8f-f897-4ed6-8266-cd22fdce3313",
+					"Name": "Infected˸ Reborn",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Zombie Tag with Guns?［If you find any bug‚ please report at my discord‚ feedback is also much welcomed and appreciated․］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d3375fa1-4fc2-47ce-9432-d8d9a8a51a9f",
+					"Name": "BO2 - Raid （PVP‚ Matchmaking‚ Classes）",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "［v1․0․0］ 1˸1 Port of Raid from BO2 with matchmaking‚ classes‚ PVP‚ and more․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ccca9cb8-074f-4af3-ae1d-810114b3f420",
+					"Name": "Rocket Jump Arena",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Rocket Jump Arena （v1․21） Grab a launcher‚ jump around‚ explode people․ An Arena shooter inspired by Team Fortress 2 and Quake 3 Arena․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a3ae94a7-9e31-4ec2-b19e-118dc10cca2a",
+					"Name": "Over Dose Over Ride - 砂上の花園編 pH1 -",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "このワールドは、獲得した能力を自由に組み合わせ、数々のミッションに挑むPvEゲームワールドです。 ハイスピードかつ大迫力の戦闘を楽しむことができ、現在は全15種類のミッションをプレイできます。 本ワールドはβ版のため、予期せぬ不具合が発生する場合があります。マルチプレイにも対応していますが、シングルプレイを推奨しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "アドベンチャー",
+			"Worlds": [
+				{
+					"ID": "wrld_25e938a8-3b23-4d6b-a9c2-10e28cb4970b",
+					"Name": "Bullet Time Agent",
+					"RecommendedCapacity": 6,
+					"Capacity": 10,
+					"Description": "An immersive action-adventure with over 8 hours of gameplay․ Take on intense bullet hell combat‚ punch and fight robots‚ and tackle platforming challengesall powered by time control abilities․ Solve intricate puzzles and face epic boss battles that test your skills․ Save your progress to play at your own pace‚ and unlock thrilling New Game＋ modes for even more action․ Favorite this world and join the fightǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_224d9018-f052-487d-932d-f83febf530c1",
+					"Name": "v1․11 ｜ Noir - Nocturne ｜ Chapter 1",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "v1․11 ｜ Playtime is 1-3hrsǃ ｜Travel miles below the surface to the underground city of Nocturne and discover its secretsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_03415963-883e-4510-9051-d142aeac65a5",
+					"Name": "Aether's Maw‚ The Leviathans Trail",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "v1․3․5 ｜ Cannonball Grapplingǃ｜ Dive into the massive universe of the Aether Series‚ taking revenge against a terrifying beast in a whale huntǃ Gather your crew and sail your ship into the unknownǃ ｜ 1 - 16 players ｜ 1 - 2hr playtime ｜ Inspired by Treasure Planet‚ Outer Wilds‚ Subnautica‚ and Sea of Thieves; gather your crew and prepare to explore a forgotten realm beyond the edge of the galaxy․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "スポーツ",
+			"Worlds": [
+				{
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v30 - Welcome Summerǃ New seasonal itemsǃ ⁄⁄ v31 - Trash Shop and skinsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
+					"Name": "VRC BOXING ［JP ⁄ EN ⁄ KR］",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "Punchǃ Dodgeǃ Winǃ Experience boxing as a physical e-sport in VRChatǃ ＃vrcboxing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ab68f896-a21f-4d72-a016-5a0a42c3158f",
+					"Name": "Putt Putt Pond",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Golf with friends․․․ in VRǃ Play on two 18 hole courses with fully scripted mini golf plus other gamesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_70353369-ba69-46ab-a20b-f6112c82adba",
+					"Name": "Putt Putt Quest",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Mini golf in VRǃ Tackle my second mini golf world‚ now with Quest compatibilityǃ Includes desktop controls for non-VR players․ Good luck golfingǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_99123966-6b37-46d9-835c-25c2f6e0706c",
+					"Name": "VRC Volleyball",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［OPEN BETA］ ［VR ONLY］ ［2vs2~6vs6］ VRChatで本格バレーボール！自動進行で試合ができるゲームワールドです。＃VRC_Volleyball Real Volleyball in VRChatǃ This is a game world where you can play matches with automated progression․ VRChat에서 본격적인 배구ǃ 자동으로 진행되는 경기 월드입니다․ X：＠VRC_Volleyball",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6b5d5bc6-765b-486c-a3c7-03836ef2a373",
+					"Name": "WBD VRC Baseball - wwg",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "WBD ˸ Waktaverse Baseball Deahwe․ This is a practice world for the Waktaverse Baseball Tournament․ It's a world where you can play baseball following real-life rules․ VR is required to play․ Full-body tracking is not mandatory‚ but it's recommended for the best experience․ 왁타버스 야구대회 연습월드입니다․ 실제 야구 룰에 따라 야구가 가능한 월드입니다․ 플레이를 위해서는 VR이 필요합니다․ 풀트래킹이 아니어도 가능하지만‚ 풀트래킹을 사용하는 것이 더 좋습니다․ ワクタバース野球大会の練習マップです。 実際の野球ルールに基づいてプレイ可能なワールドです。 プレイにはVRが必要です。 フルトラッキングがなくてもプレイできますが、フルトラッキングがあるとより快適です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_30aaf908-0853-4da0-825f-617f09e47bd5",
+					"Name": "PEKO PEKO BATTLE 3",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "This is a team-based sports game like soccer and rugby․ Work together to deliver rice balls to a hungry girlǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cc2a3fcc-62d3-41da-9c5c-b627791b1f36",
+					"Name": "PEKO PEKO BATTLE 2",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "This is a sport-like game‚ much likesoccer and rugby where the objective is to fight over a single rice ball to feed a hungry girl․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "格闘",
+			"Worlds": [
+				{
+					"ID": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
+					"Name": "VRC BOXING ［JP ⁄ EN ⁄ KR］",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "Punchǃ Dodgeǃ Winǃ Experience boxing as a physical e-sport in VRChatǃ ＃vrcboxing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
+					"Name": "Harisen Champǃ ハリセンチャンプ！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1vs1ハリセン対戦格闘ゲームです。 ハリセンで相手をドツいて先に小麦粉プールに落とした方の勝ち！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d7f0d8db-6d50-4953-9ea3-740bfc0e9712",
+					"Name": "Sword Fighting",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Sword",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "乗り物",
+			"Worlds": [
+				{
+					"ID": "wrld_d6e55ea7-5fdc-42ac-93cd-f285fc22cd04",
+					"Name": "Tsumuri Kart",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "アイテムを駆使して1位を目指せ！ Let's play Tsumuri Kart！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+					"Name": "Navy Blue",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3d80254c-0f34-4168-b6cf-b58983e68b07",
+					"Name": "TANK BATTLE VR",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦車や攻撃ヘリコプターに乗り込んで、自由に操縦や対戦を楽しむことができるWorldです。Board a tank or attack helicopter and enjoy the freedom to maneuver and combat․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+					"Name": "Jetski Rush",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_12b1901b-97a1-475e-8b37-3e9ffb9533bc",
+					"Name": "空と遊ぶ",
+					"RecommendedCapacity": 20,
+					"Capacity": 32,
+					"Description": "シンプルに飛行できるワールド。 空港エリア、飛行中は滑走路上を低空飛行すると各種補給が可能なので活用して下さい。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+					"Name": "Test Pilots",
+					"RecommendedCapacity": 12,
+					"Capacity": 44,
+					"Description": "For those who love flying․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
+					"Name": "city湊 for Helicopters",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2a3df68a-86a8-4949-86a3-f4cac379ac0a",
+					"Name": "裏六甲 -UraRokkou-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riding cars ＆ bikes on Touge․ UraRokkou map made by ＠gobeyond_fps Powerd by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "人狼系ゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_07ee4e44-940f-4405-a398-e969114a0164",
+					"Name": "TonboWerewolf - トンボ人狼",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Japanese styled werewolf gameǃ（jinro） ｜ 人狼ゲームをVRChatで遊ぼう。猫又や狂信者など、モダンな役職も使用可能。 ｜ 各種役職の説明はマスタールームを参照。 特殊役職の一部は、他の人狼ゲームと異なる挙動をもつため、必ずご確認ください ｜ タグ˸ ＃TonboWerewolf ＃トンボ人狼",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
+					"Name": "'Among Us' game",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "A weird 3D re-creation of the Skeld map in Among Us․ You can play （slightly buggy） rounds and interact with the tasks using your hands․ This game is not affiliated with Among Us or Innersloth LLC․ Portions of the materials used are trademarks and⁄or copyrighted works of Innersloth LLC․ All rights are reserved by innersloth․ Innersloth has not endorsed this game․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+					"Name": "Blackoutǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Murderers are on the looseǃ When the lights go out‚ they'll make their moveǃ Work together to put a stop to their killing spreeǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
+					"Name": "Murder 4",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "A murderer is on the loose againǃ Help the detective by finding clues and tracking down the culprit․ Now with avatarsǃ By jar",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_726c8a44-8222-4858-8b33-49e70d495b62",
+					"Name": "Murder 3",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Explore the island‚ search for clues and evade the murderer․ By jar",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
+					"Name": "Spy Check?ǃ",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "3-6 player game․ Intruder detected in the headquartersǃ Please answer 3 security questions to verify your identity․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b4a932e8-823b-4390-a8a4-d80d4b29b998",
+					"Name": "人狼系TRPG「さいこぱす」日本語・English対応 ［Original TRPG PSYCHOPATH］",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "5人以上で遊べるオリジナルTRPGです。みんなの信用を得て三途の川からの期間を目指しましょう！（推奨人数10人前後） BGM˸音の園http˸⁄⁄oto-no-sono․com This is an original TRPG for 5 or more players․ Let's get everyone's trust and aim for the period from the Sanzu Riverǃ （Recommended number of players˸ around 10） BGM˸Otonosono http˸⁄⁄oto-no-sono․com",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_142bd122-4f6b-4428-9787-6a77b54c72f8",
+					"Name": "Spy Submarine",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Some suspicious ones got into our Submarineǃ Make sure you track them down and Pop'em upǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "RPG",
+			"Worlds": [
+				{
+					"ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
+					"Name": "WORLD OF THE SOUL",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "ソウルライクRPGワールドです。 プレイ人数：1～6人 セーブ機能あり Soul Like RPG World․ Number of players˸ 1-6 Save function available․ ＃WORLD_OF_THE_SOUL",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a0423f4f-d9a8-42d9-bfcf-323eca2ec8a3",
+					"Name": "Magical Cursed Land",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "Action RPG Game World for 1-4 player․ 日本語 ⁄ English․ 事前ダウンロード推奨（Preload recommended）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
+					"Name": "（WIP） Memena's Lord Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_3e1ca4a4-16e8-48e8-8459-4d04249e9988",
+					"Name": "VRMonsterHunting【PvEGame】 BETA TEST",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "多人数PvEボスレイドバトル、32人まで対応予定、弱点部位を狙ってモンスターを倒そう、ランクシステム搭載、称号・ポイント・HPは自動セーブ、モンスターや武器は順次複数追加予定！モンスターを倒してポイントを稼ぎ、ショップにあるレアな武器と交換して他プレイヤーと競おう！ Multiplayer PvE Boss Raid Battles‚ planned for up to 32 players․ Target monsters' weak spots and avoid their onslaughts while defeating them․ A ranking system is implemented‚ and player titles‚ points‚ and HP are permanently saved․ Multiple monsters and weapons will be added monthlyǃ Defeat monsters to earn points‚ which you can exchange for rare weapons in the shop to compete with other playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5c62a609-ae92-4837-ae0b-1561afb1bfb0",
+					"Name": "VRC Fantasy 3 - Japan Samurai Co-op Action RPG -",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "【時空を超えた、大冒険】仲間と共に、和の世界へいざ出陣！VRCでは珍しい「協力アクションRPG」です。仲間と協力し、自前武器で多数の敵を倒すことが可能。ゲームが苦手な人もすぐに楽しめます。スキルシステムで戦闘がさらに楽しく！半オープンワールド化、多数の隠し武器、HP UI実装、進化した演出等盛りだくさん。温泉で回復ができ、チルワールドとしても使えます。推奨プレイ人数は4人（一人でも遊べます）、プレイ時間は20～25分。 難易度は中辛。Questユーザーでも遊べます。大規模な範囲攻撃や多数衝突武器や魔法の使用は、【ワールド進行不可のバグ】を引き起こすので、絶対ご遠慮ください。Samurai Sakura chill japan Experience a unique cooperative action RPG in VRC․ Team up with friends to defeat enemies‚ use varied skills‚ and explorea semi-open world full of hidden weapons",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "タワーディフェンス",
+			"Worlds": [
+				{
+					"ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
+					"Name": "Barrage TD",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "Tower Defense with team play and the ability to take control of the towers․ Become a miniature on the game board and fight the hoards alone or with up to 9 friends․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2af6dab-c6fa-4752-b8c5-227addcc5b10",
+					"Name": "Crystal Defenders",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Co-operative active tower defense actionǃ Protect the crystal from invading hordesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9a51b365-d6cc-42e6-901a-54ceb46b94ef",
+					"Name": "Super Tower Defense",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "A highly polished‚ easy to understand Tower Defense game made for VRChat․ Place down towers to stop the Cars from reaching your hearts․ Both Desktop and VR compatible․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_26c38507-8915-40d5-9338-667f01fe3b4c",
+					"Name": "Valkyrie Defense",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "（Fixed） 2hours Udon game․ 5~10 player recommended․ Fly using a booster and defense crystals against hostile drones․ Be careful for the VR motion sickness․ Support EN⁄KR⁄JP․ ver 1․23",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "アスレチック",
+			"Worlds": [
+				{
+					"ID": "wrld_8c80dbbe-5be8-4e1f-839a-42c56e533c4f",
+					"Name": "罰ゲーム付きアスレチックワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "罰ゲーム付きアスレチックワールドです。エリア外に落ちてしまうと・・・？",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ホラー",
+			"Worlds": [
+				{
+					"ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5",
+					"Name": "SlashCo VR",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "8⁄30⁄25 - v0․8․12｜ A Survival Stealth Horror Co-op game․ WARNING˸ Contains loud sounds‚ flashing images and profanity․ VRC Group ≻ SLASH․3139",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
+					"Name": "Terrors of Nowhere",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Friends＋ or Group heavily recommended․ ｜（HEAVY WORLD）This world contains flashing lights and jumpscares․｜ A chaotic udon survival 'horror' game․ Supports 16 players․｜ Version 1․17b｜ There will likely be bugs․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8819eb17-349a-4e22-ada8-76ea114da912",
+					"Name": "Delta Down",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Friends＋ or Group recommended ｜ This world contains horror elements ｜ Udon Horror Game where in a strange facility‚ inmates must reach quota or else they face a terrible fate․․․ ｜ Supports multiple players ｜ Likely chance of Bugs ｜ Version 1․0․4",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_885e207b-3dc5-4ef0-a828-9400bb01581f",
+					"Name": "ToN 20人インスタンスポータル置き場",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "（1）․メニュー表示 （2）․配置しているポータルにカーソルを合わせてクリック （3）․入るを選択 ∗20人インスタンスのid情報を教えてくださればワールドに追加します X ID：nasu5ppe",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_224d9018-f052-487d-932d-f83febf530c1",
+					"Name": "v1․11 ｜ Noir - Nocturne ｜ Chapter 1",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "v1․11 ｜ Playtime is 1-3hrsǃ ｜Travel miles below the surface to the underground city of Nocturne and discover its secretsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_12ce40ac-198f-4e35-ac55-c13a1284ad91",
+					"Name": "DOLL˸ Emilie",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "NEVER AVERT YOUR EYES․ Find the key and survive․ The doll wont move as long as you look at it․ No jumpscares only pure tension․ Play solo or together‚ but never separate․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "レース",
+			"Worlds": [
+				{
+					"ID": "wrld_d6e55ea7-5fdc-42ac-93cd-f285fc22cd04",
+					"Name": "Tsumuri Kart",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "アイテムを駆使して1位を目指せ！ Let's play Tsumuri Kart！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+					"Name": "Super VR Ball",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Race your friendsǃ Get the most melons․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+					"Name": "Jetski Rush",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2a3df68a-86a8-4949-86a3-f4cac379ac0a",
+					"Name": "裏六甲 -UraRokkou-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riding cars ＆ bikes on Touge․ UraRokkou map made by ＠gobeyond_fps Powerd by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ダンス/音楽ゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
+					"Name": "［JP］UDON-SABER うどんせいばー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "≺PCVR REQUIRED≻｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜Quest版はUDON SABER QUESTで検索｜For Quest ver‚ search ＂UDON SABER QUEST＂․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
+					"Name": "［JP］UDON-SABER QUEST うどんせいばーQ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "≺VR REQUIRED≻｜Quest Ver․ of ［JP］UDON-SABER｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜ワールド容量制限の都合上、PC版の一部のみ収録しています（時々入れ替え）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+					"Name": "RESONARK 4 ELVES Pt․1 - RhythmGame - v4․1․8",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_27f609ee-beae-40ba-941b-6af6af0efa66",
+					"Name": "RESONARK 4 ELVES Pt․2 - RhythmGame - v4․1․8",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "パズル",
+			"Worlds": [
+				{
+					"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+					"Name": "Melon ＆ Chill Suika Game",
+					"RecommendedCapacity": 24,
+					"Capacity": 64,
+					"Description": "UPDATE˸ Persistence‚ Pets‚ and Personal Suikaǃ Cozy map to play suika game with your friends․ World high scores and four synced game boards with smooth real time physics․ Optimized Udon code for action-packed lag-free gameplay on both Quest and PC․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_db092ec5-6f31-499d-b2f1-3644d4f9ac14",
+					"Name": "上海-Shanghai-",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "麻雀牌を使ったソリティアゲームです。BOOTHにてアセット版販売中！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a062f554-88a4-4275-8301-21b262e99ab0",
+					"Name": "Cube - Escape or Die",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You find yourself within a maze of cubes‚ a door on all 6 sides․ Navigate your way to the exterior exit‚ but beware the traps along the way․ Find ways to avoid or decoy the traps‚ decipher the numbers‚ and work together with other players to escape; or else die trying․ An survival escape game with a 26x26x26 grid of 17‚576 cubes that shift around and move as the game plays‚ and is never the same twice․ Dozens of unique trap types‚ secret rooms‚ and a selection of items that can be brought in or found to help increase your chances of survival․ Based on the 1997 movie ＂Cube＂․ Made for Spookality 2025․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_55d2d7c5-de48-4a6d-9828-41428ea97876",
+					"Name": "みんなでPlanarity UdonPlanarity",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "Simple multiplayer puzzle game․ 点を動かし、交差を解消せよ ⁄ Move nodes to untangleǃ ⁄ 原作は John Tantalo 氏による Planarity です。 ⁄ The original game is Planarity by John Tantalo․ ⁄ このワールドは、同氏が MIT License で公開している raphael․planarity を元に改変（U＃移植、マルチプレイ化、異なる問題生成アルゴリズムの適用など）したスクリプトを含みます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "クイズ/推測",
+			"Worlds": [
+				{
+					"ID": "wrld_619689be-e9f3-4df6-992f-bb7e7b4b4a8f",
+					"Name": "Geo Guesser Japan",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本のどこにいるかを当てるゲームǃ A game where you guess where are in Japanǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8abba687-ebfd-4356-846d-d069976df375",
+					"Name": "GeoLocator Remapped",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Let's explore the worldǃ Please ALLOW UNTRUSTED URLSǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eee5f9ce-7857-44b4-bee1-5a2cb75aeb1b",
+					"Name": "立体文字早押し競争",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "立体化された文字を横から見て何の文字か当てよう！（1人プレイ可）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b324cfad-7c01-47af-a33c-93c192be9df8",
+					"Name": "投票ダービー - Voting Derby",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "他の人の投票を推測してパワーを発揮できそうなお馬さんに投票しよう！ ｜ 推奨人数：5～16人 ｜ 所要時間：8～13分 ｜ VR ⁄ デスクトップ 両対応",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+					"Name": "Price Guess",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Guess the price of that stuffǃ Game for any number of playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c70b41c-5ff1-4101-a6dc-d8a31ad5c3a0",
+					"Name": "Quiz Lab",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "QuizLab／早押しクイズと書きクイズができるワールドです。解答者最大6人対応。プリセットとかは用意してないので各自持ち寄ってください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
+					"Name": "Phantom Boat",
+					"RecommendedCapacity": 20,
+					"Capacity": 30,
+					"Description": "Hop onboard the Phantom Boatǃ You're sailing into haunted waters‚ chasing the legendary Cthulhu․ But watch outǃ Strange anomalies lurk everywhere․ Each round‚ choose wisely˸ stay on the ship or hide in the lifeboat‚ if you see any anomalies․ One wrong move‚ and youll be ship out of luckǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9df3eb48-9663-4184-87e8-f7df3f5eaba1",
+					"Name": "GUESS WHAT SOUND",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "UPDATED NEW SOUNDS 22⁄11⁄25 Guess That Soundǃ Welcome to Guess That Soundǃ‚ the ultimate audio challenge game in VRChatǃ Can you identify what youre hearing? It could be anything a sound from a movie‚ TV show‚ video game‚ advert‚ character‚ or even a random sound effect from the internetǃ Listen carefully every round will test your ear and memory․ Play solo or with friends to compete and see whos the true sound masterǃ Endless possibilities new sounds‚ themes‚ and categories to keep you guessing․ From classic nostalgia to viral modern clips‚ no sound is off-limitsǃ Are you ready to prove your audio IQ? Step up‚ press play‚ and Guess That Soundǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "トークゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_71d9f907-3620-4d7c-88e4-aa1f76494949",
+					"Name": "ニュースの時間ですVR",
+					"RecommendedCapacity": 7,
+					"Capacity": 16,
+					"Description": "面白おかしいニュース原稿を作ってニュースキャスターを笑わせよう！ プレイ人数3～7人 VR推奨",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_641b3ddd-fd00-40d0-9786-83313329e2d6",
+					"Name": "爆走！IPPON道場",
+					"RecommendedCapacity": 16,
+					"Capacity": 50,
+					"Description": "某番組風大喜利ワールドです お題は全部で50問用意していますが、 爆走新喜劇のイベントでは追加のお題と、画像で一言もあります！来てね！ 2025⁄9⁄9 既存の問題の一部と新問題35問入れ替え",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
+					"Name": "Spy Check?ǃ",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "3-6 player game․ Intruder detected in the headquartersǃ Please answer 3 security questions to verify your identity․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "パチスロ/クレーンゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_1c421ebe-2c92-479f-8242-26d3aceb13ba",
+					"Name": "CoinAmusement by UdonChips",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "ワールド内通貨規格「UdonChips」元祖のワールドです。 2025アップデート第一弾！ ・Quest対応 ・頭の上に所持金が表示されるようになりました！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ローグライク",
+			"Worlds": [
+				{
+					"ID": "wrld_f276af30-d347-408c-b24d-9514293cb4d5",
+					"Name": "Fate of the Irrbloss",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "Go on an adventure to the stars in your new space shipǃ 1-5 players decide the fate of the craft as you try to reach your goal․ Fate of the Irrbloss takes inspiration from many space themed games‚ including FTL‚ Eve Online and Freespace․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "放置系ゲーム",
+			"Worlds": [
+				{
+					"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+					"Name": "Idle Home",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "Idle game․ 放置ゲーの勇者に転生してしまった",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bc647b75-363d-40ed-ac02-c576098a1efc",
+					"Name": "Idle Cube",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "［2․12․3 Mini Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with your rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f18613e0-eca8-45ee-b3a8-50ce482b35de",
+					"Name": "Idle Defense",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Tower Defense Idle game ｜ Persistence updateǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a7c4dc4-16f8-4eab-8d47-486e12d2c797",
+					"Name": "クミンの勇者冒険 v1․3",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "This is an afk game․ And offers a few other games․ Surrounded by mattresses‚ it looks like a secret base that you can make your home․ My Twitter˸ ＠Hehzs_o",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "【ENG ⁄ JP】【Ver․4․3․0】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
+					"Name": "Elite's RNG Land",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Reach for the stars as you put your luck to the ultimate test․ Roll for Auras of various chances and display your luckiness to your friendsǃ World is currently in active development․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "未分類",
+			"Worlds": [
+				{
+					"ID": "wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a",
+					"Name": "Overseer",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Beware the Overseerǃ Blend in․ Steal coins․ Run away․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_69c41e95-1539-426a-a321-34412e0b021e",
+					"Name": "GIGAS -ASTRAIOS-",
+					"RecommendedCapacity": 20,
+					"Capacity": 32,
+					"Description": "An asymmetrical PvP game in which a gigantic VR player battles a team of human players․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0e51a390-1cab-4926-9a80-606efcb48785",
+					"Name": "Ring of Judgment",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "2 - 30 players․ Objective․․․ Surviveǃ Avoid an army of creatures and collect coins to earn the King's favor․ Last player standing wins․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2b2e6caf-8dd2-4f02-a923-47940d269827",
+					"Name": "Memories Refrain⁄メモリーズ・リフレイン",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "フレンド＋やグループなどでのプレイを推奨します。｜3D酔いやてんかんに十分ご注意ください｜バグを見つけた場合、連絡をいただけると助かります。Ver․1․2․0",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dc83d417-34c4-4676-b128-c2d0515c27d4",
+					"Name": "The Fog",
+					"RecommendedCapacity": 15,
+					"Capacity": 20,
+					"Description": "The Fog has rolled in‚ and supplies are dwindling․․․ Can you survive until help arrives? The Fog is a horror-based alternative game mode‚ and roleplay world․ Scavenge for supplies‚ take control of the crowds‚ and survive the mysterious monster in The Fogǃ Can you survive this nightmare? Or will this be your final resting place?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec223823-e80f-4b18-9263-1980c07ae422",
+					"Name": "SimpleLife",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "［0․1․8］ Farming Sim inspired by other games like Stardew Valley and Animal Crossing",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0e0f81ba-833e-4abb-a4c6-ec3c4fd0f11d",
+					"Name": "掘りほりほりっく（DigDig Holic）",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "アーリーアクセス中！ 最高にハマれる採掘＆クラフトゲームが登場！ 洞窟に潜り、鉱石を掘り、お気に入りのツルハシを作ろう！進行状況は自動セーブです！ 【対応】 PC⁄Desktop⁄Quest 日本語⁄English【してるよ！】 不具合があったらリジョインか立て直しをお願いします。 Now in Early Accessǃ The most addictive mining and crafting game everǃ Dive into caves‚ mine ore‚ and craft your perfect pickaxeǃ Your progress is automatically savedǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ab60ad08-d1d7-469b-b556-8a5a850aa0f2",
+					"Name": "Block Knockers",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Update 3․0˸ Block Knockers is a fun and simple game to play with your friends․ The goal is to throw the balls at the opponent's cubes and hit them all before they hit yoursǃ Original Game made on SDK2 in 2019 by Naked Cobra ＆ Hobo Bum Tramp․ Upgraded to UDON by DeliciousSalad․ Feel free to join our discordǃ https˸⁄⁄discord․gg⁄TSeB47DD",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_72faed82-0829-4aad-a825-d9ef87597766",
+					"Name": "Specter Spectare",
+					"RecommendedCapacity": 25,
+					"Capacity": 80,
+					"Description": "A Specter awakened casts its glare onto the playing field․ Can you avoid the red spotlight and reach the other side? Or will you be caught in the light and taken this very night? （Made in 3 weeks for Spookality 2025ǃ） （Game Requires 2＋ players to playǃ）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0b564e0d-3781-43c0-9334-41ea9b147fa7",
+					"Name": "Chrono Hollow",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "2025⁄11⁄2 Achievement update․ A co-op mining horror game set in the cursed cave‚ Chrono Hollow․Each instance is procedurally generated․ Dig deeper․․․ if you dare․ Persistence supported․ your progress is saved automatically․ 訪れるたびに姿を変える、呪われた洞窟「クロノホロウ」を探検する採掘ホラーゲーム。潜れ、より深くまで。Persistence対応で進行は自動セーブされます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "確認中",
+			"Worlds": [
+				{
+					"ID": "wrld_4adb757a-9776-44d3-a129-cd871c3ee71d",
+					"Name": "Last One Running",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "能力を持った戦車を操作して戦うターン制のPvPゲームワールドです。プレイ人数2~8、想定プレイ時間15分～30分。鋭意開発中。＃VRC_LOR",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8ce1d10e-47e8-4f3a-85b9-99ee3db238f6",
+					"Name": "Giant City Ruins 巨人城废墟 v1․2․1",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "挑战模式 巨人城废墟 困难模式 Challenge Mode - Giant City Ruins‚ Hard mode․ 已支持玩家粒子 Avatar particle supported",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e03597fd-00f4-4ed5-8f39-7dc2ba0c8928",
+					"Name": "VERTEX˸ Training Field",
+					"RecommendedCapacity": 18,
+					"Capacity": 36,
+					"Description": "射撃訓練場ワールドです。The training field for ＂VERTEX˸ VRC Battle Royale＂ world․ Updated˸2022-08-16 ＃VERTEXVRC",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4ad72238-e553-4675-800e-3a0a382f0186",
+					"Name": "Zombie Infection - NeoTokyo",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Scavenge for supplies‚ build barricades‚ and kill your zombified friends to surviveǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_93b3d0d4-dab6-4d56-b8b8-e1f6ef67a453",
+					"Name": "KEIDORO",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "悪魔VS人間の「けいどろ」ǃ 最大16名。 VR⁄ディスクトップ、Quest対応。 Devil vs human game like ＂cops and robbers＂․ Max 16 players․ VR⁄Desktop‚ Quest compatible․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d0a68029-96da-4e9f-aa0a-e4f8c6f5d6d9",
+					"Name": "Steel 'n' Gold",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Bandits are invading the peaceful town of Copper Bend․ Are you going to join their rows or are you going to arms to defend the town's riches?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_14b06a59-f43b-40b2-9083-718e1ed4c1cf",
+					"Name": "Playland Escapeǃ",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "It's Halloween and your parents have gone out for the night leaving you at your favorite Playcenter‚ what could go wrong? An escape room ⁄ puzzle style horror game for players 3-6",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_20497ff2-d372-4afe-a485-5430dabe039d",
+					"Name": "Pizzeria Tycoon",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "Fire up the oven and build your pizza empire․ Deliver hot pizzas‚ earn money‚ and expand your pizzeria with new upgrades and decorations․ Compete with friends to see who can rise to the top and dominate the competition․ Will your pizzeria be the number one in town?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d4ae5d8e-c0a1-4c62-ad80-a27a55e8b718",
+					"Name": "Hit the Jackpotǃ",
+					"RecommendedCapacity": 20,
+					"Capacity": 64,
+					"Description": "JP⁄EN メダルゲーム プッシャーの物理抽選や払い出し演出が好きで各ギミックともこだわりました。お楽しみいただけましたら幸いです。 （ Welcomeǃ We love the physical lottery and payout effects of pusher machines‚ and we put a lot of effort into each gimmick‚ so we hope you enjoy it ˸） ＃HJP",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
+					"Name": "Ghost Hunters",
+					"RecommendedCapacity": 10,
+					"Capacity": 12,
+					"Description": "Huntin' makes me feel good․ Asymmetrical ghost hunting game for 2-12 players˸ Ghost versus Ghost Huntersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cbc3cbab-a0c0-4378-9d11-4fc5ebe98474",
+					"Name": "IMR NightmareWars",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "量産型のらきゃっとのファンワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cc9d78fa-4784-449f-a0e7-1c998a36791c",
+					"Name": "Reflections",
+					"RecommendedCapacity": 15,
+					"Capacity": 20,
+					"Description": "A parkour map about reflections and puzzles․ Complete all 6 areas‚ and get all the collectablesǃ Can you defeat THE GAUNTLET? （PS there is copyright music playing ＆ NOT stick-drift friendly）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c1567ed1-f28f-4f24-be18-73a421abd55c",
+					"Name": "Military Tycoon",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "Build‚ defend‚ and dominate․ Generate resources‚ expand your base‚ and unlock powerful defenses to protect your territory․ Upgrade your military‚ strengthen your walls‚ and compete with friends to see who can create the strongest fortress․ Do you have what it takes to command the ultimate defense?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5aaca41c-28ad-437a-aa74-d5ff06334697",
+					"Name": "Factorial",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "An interactive world where conveyor belts and logic modules come together to create living factories․ Connect machines‚ process numbers‚ and build your own automated chains inside VRChat․ Un mundo interactivo donde las cintas transportadoras y módulos lógicos se combinan para crear fábricas vivientes․ Conecta máquinas‚ procesa números y construye tus propias cadenas automáticas dentro de VRChat․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_253c22c5-4385-4f2f-b229-34637f978095",
+					"Name": "オラクルテイル_べ～た版",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "預言を目指してあの手この手で勝利を勝ち取れ！ローグライク風アナログカードゲーム！推奨対戦人数2~5人（最大８人まで）想定プレイ時間˸40分～（周回ターンと人数によって変動）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "隔離中",
+			"Worlds": [
+				{
+					"ID": "wrld_9f2fcd4d-822f-4b64-a417-b858e08fb8a7",
+					"Name": "ヴードゥー・キングダム エピソード：ゼロ 眠れる王母【JP・EN・KR】",
+					"RecommendedCapacity": 3,
+					"Capacity": 6,
+					"Description": "【推奨5名／ゲームワールド】 最恐の研究所から脱出せよ!! ゾンビ映画の世界を体験するゲームワールド!! ／ワールド制作：ムシコロリ ©2022 HOTEL QADESH PROJECT Escape from a crazy institute! This is a game world to experience the world of zombie movies! 가장 무서운 연구소에서 탈출하세요 좀비영화의 세계를 체험하는 게임월드입니다",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			],
+			"PermittedRoles": [
+				"XXX"
+			]
+		}
+	],
+	"Roles": [
+		
+	]
+}
