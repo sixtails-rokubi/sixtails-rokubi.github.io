@@ -1,0 +1,2508 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": true,
+	"Categorys": [
+		{
+			"Category": "Vket2025夏",
+			"Worlds": [
+				{
+					"ID": "wrld_5adc7d35-12d2-427b-a598-fed310f0c4b6",
+					"Name": "Vket2025S Parareal Central Key of Discovery",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Parareal Central Key of Discovery is the gateway to the various metaverses of Virtual Market 2025 Summer․ Parareal Central Key of DiscoveryはVket2025 Summerのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_284857f3-fdfd-4d73-ac8e-d1c454b284a6",
+					"Name": "Vket2025S Anomalous Research Lab - Incident A - Awakening",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Anomalous Research Lab - Incident A - Awakening is a creator exhibition venue of Vket2025 Summer․異常物体研究所 - Incident A - Awakening はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8d9925d6-acfc-4ed5-86fa-e837fbaaf843",
+					"Name": "Vket2025S Anomalous Research Lab - Incident A - Aftermath",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Anomalous Research Lab - Incident A - Aftermath is a creator exhibition venue of Vket2025 Summer․ 異常物体研究所 - Incident A - Aftermath はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e26fa18e-c895-41c3-86f2-2361c80c7977",
+					"Name": "Vket2025S Vket Formula ․3879 - Glory",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Vket Formula ․3879 - Glory is a creator exhibition venue of Vket2025 Summer․ Vketフォーミュラ․3879 - -栄光- はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_25d7a710-137c-48d5-b99b-56c7dc653846",
+					"Name": "Vket2025S Vket Formula ․3879 - Deception",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Vket Formula ․3879 -Deception is a creator exhibition venue of Vket2025 Summer․ Vketフォーミュラ․3879- -陰謀- はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_72c21afd-2e09-4626-af67-151f32bde4f5",
+					"Name": "Vket2025S Hypothetical Garden Exoplant - Seed of Creation",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Hypothetical Garden Exoplant - Seed of Creation is a creator exhibition venue of Vket2025 Summer․ 架空植物園エクソプラント - 創造の種 はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ac2c0fba-4edb-4dac-bc36-6a765e0d0e8c",
+					"Name": "Vket2025S Hypothetical Garden Exoplant - Flower of Imagination",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Hypothetical Garden Exoplant - Flower of Imagination is a creator exhibition venue of Vket2025 Summer․ 架空植物園エクソプラント - 想像の花 はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_02d09e94-8142-442e-ab4e-592de567c527",
+					"Name": "Vket2025S The Alter Vista Midnight - Crescent Calm",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ The Alter Vista Midnight - Crescent Calm is a creator exhibition venue of Vket2025 Summer․ The Alter Vista Midnight - Crescent Calm はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ca9b13ff-3e9c-4fa5-bc38-1364343c55da",
+					"Name": "Vket2025S The Alter Vista Midnight - Peak Passion",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ The Alter Vista Midnight - Peak Passion is a creator exhibition venue of Vket2025 Summer․ The Alter Vista Midnight - Peak Passion はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cabe4cbb-f1de-4b00-bf38-34cb07d31205",
+					"Name": "Vket2025S Sweet×2 Tea Party Rebake - Sugar",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Sweet×2 Tea Party Rebake - Sugar is a creator exhibition venue of Vket2025 Summer․ Sweet×2 Tea Party Rebake - Sugar はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6c66f2e-d48d-4409-980d-53ce7f9b3ab3",
+					"Name": "Vket2025S Sweet×2 Tea Party Rebake - Milk",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_63f5b036-89d5-4d47-bc31-a6761173e13e",
+					"Name": "Vket2025S Holyglade Hamlet Yapopuheto - Vow of the Autumn Moon",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Holyglade Hamlet Yapopuheto - Vow of the Autumn Moon is a creator exhibition venue of Vket2025 Summer․ 森聖街 ヤポプエト - 中願の秋夜 はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_188e7811-f7fa-4dda-a67f-89f922b285bd",
+					"Name": "Vket2025S Holyglade Hamlet Yapopuheto - Vow of the Autumn Sun",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Holyglade Hamlet Yapopuheto - Vow of the Autumn Sun is a creator exhibition venue of Vket2025 Summer․ 森聖街 ヤポプエト -中願の秋朝 はVket2025 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e682d3c7-1289-4aaf-b437-f68c3a73c33d",
+					"Name": "Vket2025S Pixelica - Action City",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Pixelica - Action City is a regular cross platform exhibition venue of Vket2025 Summer․ ピクセリカ - アクションシティ はVket2025 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9ea4bd9c-b9fa-4c89-8bb5-6d1830e3553e",
+					"Name": "Vket2025S Pixelica - Adventure Town",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․12 through Jul․27ǃ Pixelica - Adventure Town is a regular cross platform exhibition venue of Vket2025 Summer․ ピクセリカ - アドベンチャータウン はVket2025 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2024冬",
+			"Worlds": [
+				{
+					"ID": "wrld_7bfc89a1-aa68-49a7-90c0-65fb3e1d93c4",
+					"Name": "Vket 2024 W Parareal Central",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Parareal Central BOUNDLESSǃ is the gateway to the various metaverses of Virtual Market 2024 Winter․ Parareal Central BOUNDLESSǃはVket2024 Winterのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f918d9d7-9a17-448a-b745-6ffd86149766",
+					"Name": "Vket 2024 W Starship Orchestra PART2 -To Home Afar- -Cosmos",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Starship Orchestra PART2 -To Home Afar- - Cosmos is a regular exhibition venue of Vket2024 Winter․ スターシップオーケストラPART2 -遥けし郷里へ- -コスモス はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_efe645e8-79bb-49cd-a159-de4fdda7c7b3",
+					"Name": "Vket 2024 W Starship Orchestra PART2 -To Home Afar- -Chaos",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Starship Orchestra PART2 -To Home Afar- - Chaos is a regular exhibition venue of Vket2024 Winter․ スターシップオーケストラPART2 -遥けし郷里へ- - カオス はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_86e8cb1b-78cc-42c6-90e6-d7872cb4662e",
+					"Name": "Vket2024W Lost Civilization Argdella - Stargazer",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Lost Civilization Argdella - Stargazer is a regular exhibition venue of Vket2024 Winter․ 古代文明アーグデーラ - スターゲイザー はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_594daf1c-a802-46e8-aa6f-6b938cac80d7",
+					"Name": "Vket2024W Lost Civilization Argdella - Lorekeeper",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Lost Civilization Argdella - Lorekeeper is a regular exhibition venue of Vket2024 Winter․ 古代文明アーグデーラ - ロアキーパー はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_210dd75b-a1b9-4ae5-9016-9ff79e85c541",
+					"Name": "Vket2024W Cirque du Personnage - Soleil",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Cirque du Personnage - Soleil is a regular exhibition venue of Vket2024 Winter․ シルク・ド・ペルソナージュ - Soleil はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f3d6b4bf-b1ac-4e69-8149-8dfd4411b0fb",
+					"Name": "Vket2024W Cirque du Personnage - Lune",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Cirque du Personnage - Lune is a regular exhibition venue of Vket2024 Winter․ シルク・ド・ペルソナージュ - Lune はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9cf9020c-b7c5-40cb-a860-8979acd871ac",
+					"Name": "Vket2024W SKY PARK - Afternoon Chill",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ SKY PARK - Afternoon Chill is a regular exhibition venue of Vket2024 Winter․ SKY PARK - アフタヌーン・チル はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d153928a-bd14-4c48-bb56-2ab666a85a55",
+					"Name": "Vket2024W SKY PARK - Moody Night",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ SKY PARK - Moody Night is a regular exhibition venue of Vket2024 Winter․ SKY PARK - ムーディー・ナイト はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7f4d970e-f523-4c21-add4-f094ecddd1af",
+					"Name": "Vket 2024 W Isekai Marché˸ Frontline Stand - Zenith",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Isekai Marché˸ Frontline Stand - Zenith is a regular exhibition venue of Vket2024 Winter․ 異世界マルシェ防衛戦線 - ゼニス はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d4701d0e-34a6-4992-b4a1-e5995738464b",
+					"Name": "Vket 2024 W Isekai Marché˸ Frontline Stand - Eclipse",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Isekai Marché˸ Frontline Stand - Eclipse is a regular exhibition venue of Vket2024 Winter․ 異世界マルシェ防衛戦線 - エクリプス はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b7278ae5-f3c4-4799-8c02-28d2106d77fe",
+					"Name": "Vket2024W Storytime at Snowman's Toy Factory - Snowman Arc",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Storytime at Snowman's Toy Factory -Snowman Arc is a regular exhibition venue of Vket2024 Winter․ アナタとスノーマンズ・トイ・ファクトリー -夢造りのスノーマン はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ad89586c-30bc-4f4a-88a6-a46d2487c662",
+					"Name": "Vket2024W Storytime at Snowman's Toy Factory - Santa Arc",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Storytime at Snowman's Toy Factory - Santa Arc is a regular exhibition venue of Vket2024 Winter․ アナタとスノーマンズ・トイ・ファクトリー - 夢運びのサンタクロース はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f67d1fc0-8b88-4522-906e-9a3f40c08d95",
+					"Name": "Vket2024W Gachatopiaǃ -Lovely Capsule",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Gachatopiaǃ -Lovely Capsule is a regular exhibition venue of Vket2024 Winter․ ガチャットピア！ -ラブリー・カプセル はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cab0f34e-4d88-4595-80f8-1706c0e273be",
+					"Name": "Vket2024W Gachatopiaǃ -Stylish Capsule",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Gachatopiaǃ -Stylish Capsule is a regular exhibition venue of Vket2024 Winter․ ガチャットピア！ -スタイリッシュ・カプセル はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_77aae327-c106-407e-b7d2-6d4fd8c32617",
+					"Name": "Vket2024W Gachatopiaǃ -Mystic Capsule",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Gachatopiaǃ -Mystic Capsule is a regular exhibition venue of Vket2024 Winter․ ガチャットピア！ -ミスティック・カプセル はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dba951c8-3258-408a-9da9-16988ca5065a",
+					"Name": "Vket2024W Bewitched Forest Noctorl - DREAM",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Vket2024W Bewitched Forest Noctorl - DREAM is a regular exhibition venue of Vket2024 Winter․ 魔女の森ノクトール - DREAM はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0a547d22-7288-4502-9352-cd0067055201",
+					"Name": "Vket2024W Bewitched Forest Noctorl - MIRAGE",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Bewitched Forest Noctorl - MIRAGE is a regular exhibition venue of Vket2024 Winter․ 魔女の森ノクトール - MIRAGE はVket2024 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d10478b9-c7cc-4c46-98b0-28ee3b4b2c6f",
+					"Name": "Vket2024W Groove Ground GraffCity - Electropiece",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Groove Ground GraffCity - Electropiece is a regular cross platform exhibition venue of Vket2024 Winter․ Groove Ground GraffCity - Electropiece はVket2024 Winterのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6dfa6c9e-a135-4a31-a1da-727a075debe5",
+					"Name": "Vket2024W Groove Ground GraffCity - Funkbuster",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Groove Ground GraffCity - Funkbuster is a regular cross platform exhibition venue of Vket2024 Winter․ Groove Ground GraffCity - Funkbuster はVket2024 Winterのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9be5a09f-b60e-4afb-92e7-d7142060aed1",
+					"Name": "Vket2024W Castello Magica Reborn - Hall",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Castello Magica Reborn - Hall is a regular cross platform exhibition venue of Vket2024 Winter․ カステロマギカ Reborn - ホール はVket2024 Winterのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4d71aea2-ba58-473e-b291-e8cfbcf8f096",
+					"Name": "Vket2024W Castello Magica Reborn - Ballroom",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․7 through Dec․22ǃ Castello Magica Reborn - Ballroom is a regular cross platform exhibition venue of Vket2024 Winter․ カステロマギカ Reborn - バル はVket2024 Winterのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9dd7e348-32ec-448c-b461-d8679e7c7d46",
+					"Name": "MusicVket 6",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "＂Dig ＆ Shuffle＂ - MusicVket will ascend the experience of music discovery to a new paradigm․․․ Join us at the virtual venue to ＂dig＂ into waves of music and live performancesǃ ＂Dig＆Shuffle＂ - MusicVketは音楽との出会いを新時代へーー。Digもライブも楽しめる会場でお待ちしています！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_56055eaf-2039-4505-b336-24da9100fa5b",
+					"Name": "JIKEI GAKUEN Booth Contest World 学校法人滋慶学園ブースコンテストワールド",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "The ＂Jikei COM Group Booth ＆ Avatar Contest World＂ is a joint project of Jikei COM Group and Virtual Market‚ which displays the result of the held student contest by exhibiting outstanding student creations․ 学校法人滋慶学園COMグループ ブース＆アバターコンテストワールドは滋慶学園講義を通しての成果発表展示ワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_59063425-2739-4720-a8bc-ce73bd2f45ce",
+					"Name": "Kao Verse Episodeｰ1＿Vket2024Summer",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Kao Verse Episode-1 is a world featuring the Kao corporate booth exhibited at Vket2024 Summer․ Step inside and have funǃ Kao Verse Episodeｰ1はVket2024 Summer時に出展した企業ブースを単独ワールドとして公開するものです。お楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0cc82f15-1d80-4a92-97a3-ffe1600b2766",
+					"Name": "TOKYO MARUI VRC Survival Game Field ＂CONQUEST-DAY＂",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "東京マルイのVRCサバゲーワールド＂CONQUEST＂に明るいステージが登場ǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8775f283-e249-4671-824b-d8658891069c",
+					"Name": "Belc Land",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Belc is a corporate exhibition of Vket2024 Summer․ Belc LandはVket2024 Summerの出展企業です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2024夏",
+			"Worlds": [
+				{
+					"ID": "wrld_7d9b5fe6-0d0e-4e93-8487-45f9d46782ef",
+					"Name": "Vket 2024 S Summer Parareal Central BOUNDLESSǃ",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Parareal Central BOUNDLESSǃ is the gateway to the various metaverses of Virtual Market 2024 Summer․ Parareal Central BOUNDLESSǃはVket2024 Summerのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b18a287e-2e52-430c-b02a-63c407094138",
+					"Name": "Vket 2024 S Groove Ground GraffCity - Electropiece",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Groove Ground GraffCity - Electropiece is a regular exhibition venue of Vket2024 Summer․ Groove Ground GraffCity - Electropiece はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_33e749ee-467a-4f19-9801-e47bfe303e40",
+					"Name": "Vket 2024 S Groove Ground GraffCity - Funkbuster",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Groove Ground GraffCity - Funkbuster is a regular exhibition venue of Vket2024 Summer․ Groove Ground GraffCity - Funkbuster はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_117c6fd4-3ac5-4a44-8220-600d47403105",
+					"Name": "Vket2024S Bewitched Forest Noctorl - DREAM",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Bewitched Forest Noctorl - DREAM is a regular exhibition venue of Vket2024 Summer․ 魔女の森ノクトール - DREAM はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d1d11132-e119-4f1a-8179-e65007849c44",
+					"Name": "Vket2024S Bewitched Forest Noctorl - MIRAGE",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Bewitched Forest Noctorl - MIRAGE is a regular exhibition venue of Vket2024 Summer․ 魔女の森ノクトール - MIRAGE はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_29f63ed2-108a-4f24-8b26-4a053c48b759",
+					"Name": "Vket2024S Komorisaki Village - Komori-Matsuri Tale",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Komorisaki Village - Komori-Matsuri Tale is a regular exhibition venue of Vket2024 Summer․ 籠岬村 - 居守祭り編 はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_26a668a5-dff7-48bb-91fe-259d20f8ca8f",
+					"Name": "Vket2024S Komorisaki Village - Hikiko-Mori Tale",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Komorisaki Village - Hikiko-Mori Tale is a regular exhibition venue of Vket2024 Summer․ 籠岬村 - 惹子守り編 はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cec285ad-2199-407e-9e4d-ab10fa8d6912",
+					"Name": "Vket2024S The Alter Vista - Crescent Calm",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ The Alter Vista - Crescent Calm is a regular exhibition venue of Vket2024 Summer․ The Alter Vista - Crescent Calm はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c7934632-01ee-4df6-9d18-05771a8e9f64",
+					"Name": "Vket2024S The Alter Vista - Peak Passion",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ The Alter Vista - Peak Passion is a regular exhibition venue of Vket2024 Summer․ The Alter Vista - Peak Passion はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b28b32b7-a471-4954-a977-fd585db9fab4",
+					"Name": "Vket 2024 S Imperial Scorchclad Gorivagg - Blazewall Visit",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Imperial Scorchclad Gorivagg - Blazewall Visit is a regular exhibition venue of Vket2024 Summer․ 灼壁の皇城ゴリベグ - 灼壁探訪 はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_db800b7e-3124-4aff-ab06-82f032ed33cc",
+					"Name": "Vket 2024 S Imperial Scorchclad Gorivagg - Palace Training",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Imperial Scorchclad Gorivagg - Palace Training is a regular exhibition venue of Vket2024 Summer․ 灼壁の皇城ゴリベグ - 皇城稽古 はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec926c64-6f2b-4f7e-a666-f07941e49110",
+					"Name": "Vket2024S Kowloon Empire Hachiban Ward - Phantom Ops",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Kowloon Empire Hachiban Ward - Phantom Ops is a regular exhibition venue of Vket2024 Summer․ 九龍帝国城下町 捌番街 - Phantom Ops はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_33842cd8-47e0-4700-90fc-d96743c6a7b4",
+					"Name": "Vket2024S Kowloon Empire Hachiban Ward - Code Silent",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Kowloon Empire Hachiban Ward - Code Silent is a regular exhibition venue of Vket2024 Summer․ 九龍帝国城下町 捌番街 - Code Silent はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_837203e8-92d6-4471-a659-a87c6a788285",
+					"Name": "Vket2024S Fallen Eden - Alt - -Ain-",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Fallen Eden - Alt - -Ain- is a regular exhibition venue of Vket2024 Summer․ フォールンエデン・オルタ - -アイン- はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_19d2f61a-81b5-4541-b227-411097421bef",
+					"Name": "Vket2024S Fallen Eden - Alt - -Soph-",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Fallen Eden - Alt - -Soph- is a regular exhibition venue of Vket2024 Summer․ フォールンエデン・オルタ - -ソフ- はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f16107e5-1dce-40c8-a284-8028d4243b58",
+					"Name": "Vket2024S Fallen Eden - Alt - -Aur-",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Fallen Eden - Alt - -Aur- is a regular exhibition venue of Vket2024 Summer․ フォールンエデン・オルタ - -オウル- はVket2024 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_48de319d-4e11-434e-ae1f-0392a11fc01a",
+					"Name": "Vket2024S Aquedust Capital Avidaar - Open Sesame",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Aquedust Capital Avidaar - Open Sesame is a regular cross platform exhibition venue of Vket2024 Summer․ 水砂の都アビダール - オープンセサミ はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b7ffced4-0e71-487b-97a9-151cc3ee18db",
+					"Name": "Vket2024S Aquedust Capital Avidaar - Abrakadabra",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Aquedust Capital Avidaar - Abrakadabra is a regular cross platform exhibition venue of Vket2024 Summer․ 水砂の都アビダール - アブラカタブラ はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e438cb88-6d8a-47e0-bee8-9207ba434574",
+					"Name": "Vket2024S Hotel Gajou-en - Epitome",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Hotel Gajou-en - Epitome is a regular cross platform exhibition venue of Vket2024 Summer․ ホテル牙城園 - 究極 はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f0c42b86-38e1-4c18-86a0-cc832aeddc1b",
+					"Name": "Vket2024S Hotel Gajou-en - Supreme",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ Hotel Gajou-en - Supreme is a regular cross platform exhibition venue of Vket2024 Summer․ ホテル牙城園 - 至高 はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c412352f-5791-41bf-9bee-3f5be912c0c5",
+					"Name": "Vket2024S WorldEnd˸Utopia - Regrowth - Waterfront",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ WorldEnd˸Utopia - Regrowth - Waterfront is a regular cross platform exhibition venue of Vket2024 Summer․ ワールドエンドユートピアRegrowth - Waterfront はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_07a65d11-01e2-4177-842b-fd520ed545a9",
+					"Name": "Vket2024S WorldEnd˸Utopia - Regrowth - Highland",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ WorldEnd˸Utopia - Regrowth - Highland is a regular cross platform exhibition venue of Vket2024 Summer․ ワールドエンドユートピアRegrowth - Highland はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_71097a0b-abc9-4af5-82ca-db6617256199",
+					"Name": "Vket2024S VketMall˸ Open Closet",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ VketMall˸ Open Closet is a regular cross platform exhibition venue of Vket2024 Summer․ VketMall˸ Open Closet はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebcb428d-da74-43e8-8450-855836baf586",
+					"Name": "Vket2024S VketMall˸ Philip's Sheep",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July․20 through Aug․4ǃ VketMall˸ Philip's Sheep is a regular cross platform exhibition venue of Vket2024 Summer․ VketMall˸ Philip's Sheep はVket2024 Summerのクロスプラットフォーム一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2023冬",
+			"Worlds": [
+				{
+					"ID": "wrld_76b748f7-97ab-4c5b-a51e-46da77806a5f",
+					"Name": "Vket 2023 W Parareal Central",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Parareal Central is the gateway to the various metaverses of Virtual Market 2023 Winter․ Parareal CentralはVket2023 Winterのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2d3c5e36-8a04-4030-8b20-7811ce884325",
+					"Name": "Vket 2023 W Hotel Gajou-en -Epitome-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Hotel Gajou-en - Epitome is a regular exhibition venue of Vket2023 Winter․ ホテル牙城園 - 究極 はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9ace7f1b-203f-4df0-a820-5121261ed918",
+					"Name": "Vket 2023 W Hotel Gajou-en -Supreme-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Hotel Gajou-en - Supreme is a regular exhibition venue of Vket2023 Winter․ ホテル牙城園 - 至高 はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e4e88a40-1755-4824-b149-27a94e447aa8",
+					"Name": "Vket2023W Barremhorn -Midnight-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Barremhorn - Midnight is a regular exhibition venue of Vket2023 Winter․ 酒場街バーレムホルン - ミッドナイト はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_278ac17d-9fb4-46dd-9aea-fb3058cd01aa",
+					"Name": "Vket2023W Barremhorn -Dawn-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Barremhorn - Dawn is a regular exhibition venue of Vket2023 Winter․ 酒場街バーレムホルン - ドーン はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_046de0c3-a82a-4ed7-9ba9-4e00444aadf8",
+					"Name": "Vket2023W Dragon's Back -Montynemesis-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Dragon's Back - Montynemesis is a regular exhibition venue of Vket2023 Winter․ 龍の背中 - モンティネメシス はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec2d7769-a025-4dd9-9710-e7e555b5e2c5",
+					"Name": "Vket2023W Dragon's Back -Wunversky-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Dragon's Back - Wunversky is a regular exhibition venue of Vket2023 Winter․ 龍の背中 - ウンバルスカイ はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f4f523a-7e44-4902-b134-1df7ac636a76",
+					"Name": "Vket2023W World End˸Utopia Reboot -3980 XX-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ World End˸Utopia Reboot - 3980 XX is a regular exhibition venue of Vket2023 Winter․ ワールドエンドユートピア Reboot - XX 3980年 はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b1e8a189-dbe4-4a32-b939-1052bca4c486",
+					"Name": "Vket2023W World End˸Utopia Reboot -4010 XX-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ World End˸Utopia Reboot - 4010 XX is a regular exhibition venue of Vket2023 Winter․ ワールドエンドユートピア Reboot - XX 4010年 はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_328e1666-b91b-4092-84ed-36a9c2a374b1",
+					"Name": "Vket 2023 W Nursery Rhyme Retold -King-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Nursery Rhyme Retold - King is a regular exhibition venue of Vket2023 Winter․ ナーサリーライム Retold - キング はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1512cc7b-c37c-4d17-97fd-db10f2c0523e",
+					"Name": "Vket 2023 W Nursery Rhyme Retold -Queen-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Nursery Rhyme Retold - Queen is a regular exhibition venue of Vket2023 Winter․ ナーサリーライム Retold - クイーン はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_95e9150a-ecbb-44af-bcfe-4ece904de839",
+					"Name": "Vket2023W Fallen Eden -Ain-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Fallen Eden -Ain- is a regular exhibition venue of Vket2023 Winter․ フォールンエデン -アイン- はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e4fc7387-7f6d-4e4f-aedd-316fee2efafd",
+					"Name": "Vket2023W Fallen Eden -Soph-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Fallen Eden -Soph- is a regular exhibition venue of Vket2023 Winter․ フォールンエデン -ソフ- はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_28aa4211-94f5-4c5b-bf28-1eeaebab62ba",
+					"Name": "Vket2023W Fallen Eden -Aur-（Huge Booth）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Fallen Eden -Aur- is a regular exhibition venue of Vket2023 Winter․ フォールンエデン -オウル- はVket2023 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_02c7e107-4914-4fa4-9067-46de17b9d24f",
+					"Name": "Vket 2023 W Parareal Central Quest",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Parareal Central is the gateway to the various metaverses of Virtual Market 2023 Winter․ Parareal CentralはVket2023 Winterのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4f605fac-e8b0-4de9-b4e4-3ff8184b3d6c",
+					"Name": "Vket2023W Pixelica -Action City-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Pixelica - Action City is a regular Quest exhibition venue of Vket2023 Winter․ ピクセリカ - アクションシティ はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f8d5770-d55c-4c87-b2cf-4ae820cec75a",
+					"Name": "Vket2023W Pixelica -Adventure Town-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Pixelica - Adventure Town is a regular Quest exhibition venue of Vket2023 Winter․ ピクセリカ - アドベンチャータウン はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fd6b4dc9-b136-4b56-a6ee-70f73e199de4",
+					"Name": "Vket2023W Technokinds -Tether Ford-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Technokinds - Tether Ford is a regular Quest exhibition venue of Vket2023 Winter․ テクノカインド - テザーフォード はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f5c289ac-9a9f-40ed-b8ce-0279c19395a1",
+					"Name": "Vket2023W Imanesia -Capital Magica-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ Imanesia - Capital Magica is a regular Quest exhibition venue of Vket2023 Winter․ イマネジア - 王都マギカ はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_37603eec-b840-411d-b719-2da275b6741b",
+					"Name": "Vket2023W VketMall -Goshikiya-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ VketMall - Goshikiya is a regular Quest exhibition venue of Vket2023 Winter․ VketMall - 五色屋 はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f0e21265-2922-4950-b294-321e092d8f0f",
+					"Name": "Vket2023W VketMall -Argento-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ VketMall - Argento is a regular Quest exhibition venue of Vket2023 Winter․ VketMall - Argento はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_98356aeb-2da8-4835-a22c-82a5f796effd",
+					"Name": "Vket2023W VketMall -MORNING GLORY-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ VketMall - MORNING GLORY is a regular Quest exhibition venue of Vket2023 Winter․ VketMall - MORNING GLORY はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c852afed-c7ee-4845-a0b8-4a2c3b9bcdc1",
+					"Name": "Vket2023W VketMall -Yake-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․2 through 17ǃ VketMall - Yake is a regular Quest exhibition venue of Vket2023 Winter․ VketMall - 牙科 はVket2023 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2023夏",
+			"Worlds": [
+				{
+					"ID": "wrld_d47f09f9-2735-4314-895c-6fc117e22bfb",
+					"Name": "Vket 2023 Summer CONNECT",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․ 15 through 30ǃ CONNECT opens the gateway to the various worlds of Virtual Market 2023 Summer․ CONNECTはVket2023 Summerのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_89d93046-1eac-4b1a-b20d-80cc51c9bad8",
+					"Name": "Vket 2023 S Starship Orchestra - Photon",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Starship Orchestra - Photon is a regular exhibition venue of Vket2023 Summer․ スターシップオーケストラ - フォトン はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_41ce62c6-553f-4977-a28a-5c3930390456",
+					"Name": "Vket 2023 S Starship Orchestra - Darkmatter",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Starship Orchestra - Darkmatter is a regular exhibition venue of Vket2023 Summer․ スターシップオーケストラ - ダークマタ はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_065195d1-bb81-4be6-b185-28e4e7d3ceb5",
+					"Name": "Vket2023S Holyglade Hamlet Yapopuheto - New Leaf",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Holyglade Hamlet Yapopuheto - New Leaf is a regular exhibition venue of Vket2023 Summer․ 森聖街 ヤポプエト - 新緑の開白 はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f63f8d29-15cf-46a1-9e87-c9d4e5ff3f78",
+					"Name": "Vket2023S Holyglade Hamlet Yapopuheto - Frost Termina",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Holyglade Hamlet Yapopuheto - Frost Termina is a regular exhibition venue of Vket2023 Summer․ 森聖街 ヤポプエト - 寒凪の結願 はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_43663c14-8d9d-46f1-be6c-516b7b1da2fc",
+					"Name": "Vket2023S Aquedust Capital Avidaar - Open Sesame",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Aquedust Capital Avidaar - Open Sesame is a regular exhibition venue of Vket2023 Summer․ 水砂の都 アビダール - オープンセサミ はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_03d4ae78-3eab-45e5-ac5a-5ab37824a474",
+					"Name": "Vket2023S Aquedust Capital Avidaar - Abrakadabra",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Aquedust Capital Avidaar - Abrakadabra is a regular exhibition venue of Vket2023 Summer․ 水砂の都 アビダール - アブラカタブラ はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_74af8a2b-b7f0-46f5-be5b-2281a73a58fe",
+					"Name": "Vket 2023 S Cocoon Art Aquarium - Echo",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Cocoon Art Aquarium - Echo is a regular exhibition venue of Vket2023 Summer․ 幻想コロニー コクーン水族美術館 - エコー はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_58c66a9f-9256-4742-a17f-0153d4f05d83",
+					"Name": "Vket 2023 S Cocoon Art Aquarium - Voiceless",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Cocoon Art Aquarium - Voiceless is a regular exhibition venue of Vket2023 Summer․ 幻想コロニー コクーン水族美術館 - サイレント はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec86c5f6-90b6-40d8-928a-d405809c3421",
+					"Name": "Vket 2023 S The Edge of Hi-Law City - Hero Arc",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ The Edge of Hi-Law City - Hero Arc is a regular exhibition venue of Vket2023 Summer․ 境界線のハイロシティ - サイドヒーロー はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4c106750-ecb7-434e-8f87-97ef6f9294ae",
+					"Name": "Vket 2023 S The Edge of Hi-Law City - Villain Arc",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ The Edge of Hi-Law City - Villain Arc is a regular exhibition venue of Vket2023 Summer․ 境界線のハイロシティ - サイドヴィラン はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2a35bcd6-19e2-42f6-ad72-ad32bc15a788",
+					"Name": "Vket2023S Poppin' Splash - Aquamarine",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Poppin' Splash - Aquamarine is a regular exhibition venue of Vket2023 Summer․ Poppin' Splash - アクアマリン はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e9f82e74-7df2-4248-a102-e7e00e231126",
+					"Name": "Vket2023S Poppin' Splash - Emerald Green",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Poppin' Splash - Emerald Green is a regular exhibition venue of Vket2023 Summer․ Poppin' Splash - エメラルドグリーン はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_419ce749-bb63-4b35-85a3-0046db48f86e",
+					"Name": "Vket2023S Poppin' Splash - Deep Blue（Huge booth）",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Poppin' Splash - Deep Blue is a regular exhibition venue of Vket2023 Summer․ Poppin' Splash - ディープブルー はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_688e449f-bc4b-485f-b772-c4a79e6cb39d",
+					"Name": "Vket2023S Castello Magica Reborn - Grand Ball",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Castello Magica Reborn - Grand Ball is a regular exhibition venue of Vket2023 Summer․ カステロマギカ Reborn - グランドバル はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eb42365b-ff27-4db8-944d-06af5a5a7099",
+					"Name": "Vket2023S Castello Magica Reborn - Masquerade",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Castello Magica Reborn - Masquerade is a regular exhibition venue of Vket2023 Summer․ カステロマギカ Reborn - マスカレード はVket2023 Summerの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_88163e2e-438d-4606-8523-cc9b3a37e540",
+					"Name": "Vket2023S Summer Quest CONNECT",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Jul․ 15 through 30ǃ CONNECT opens the gateway to the various worlds of Virtual Market 2023 Summer․ CONNECTはVket2023 Summerのたくさんのワールドへの入り口です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_92705818-9214-4cdc-8a22-bb03072d3d73",
+					"Name": "Vket2023S Quest VketPlaza -Quest Mode- Lake Village",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ VketPlaza -Quest Mode- Lake Village is a regular Quest exhibition venue of Vket2023 Summer․ VketPlaza -Quest Mode- レイクシティー はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_90126866-bade-4ef8-8163-cbe5f065e59b",
+					"Name": "Vket2023S Quest VketPlaza -Quest Mode- Volcano City",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ VketPlaza -Quest Mode- Volcano City is a regular Quest exhibition venue of Vket2023 Summer․ VketPlaza -Quest Mode- ボルケーノシティー はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1e935ed4-5630-42aa-8a1b-8a73f9c7c8a2",
+					"Name": "Vket2023S Quest Virtual Market Classic - East",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Virtual Market Classic - East is a regular Quest exhibition venue of Vket2023 Summer․ バーチャルマーケットClassic - East はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5a37a2f0-cb7a-4142-b434-919ad840787e",
+					"Name": "Vket2023S Quest Virtual Market Classic - West",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Virtual Market Classic - West is a regular Quest exhibition venue of Vket2023 Summer․ バーチャルマーケットClassic - West はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9fa93091-1a40-45f5-8621-8b44f431d7a5",
+					"Name": "Vket2023S Quest Luluana Resort - Luana Beach",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Luluana Resort - Luana Beach is a regular Quest exhibition venue of Vket2023 Summer․ 南国の楽園 ルルアナリゾート - ルアナビーチ はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b625232-ca6b-4011-96cd-040dc35d4884",
+					"Name": "Vket2023S Quest Luluana Resort - Luana Coast",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Luluana Resort - Luana Coast is a regular Quest exhibition venue of Vket2023 Summer․ 南国の楽園 ルルアナリゾート - ルアナコースト はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_65ce0c44-44e3-488c-9c14-3ed9953835f5",
+					"Name": "Vket2023S Quest Granvale Academy of Sorcerers - Prelude",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Granvale Academy of Sorcerers - Prelude is a regular Quest exhibition venue of Vket2023 Summer․ 魔法学園グランヴェール - プレリュード はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f0ef7aca-4f2c-4404-ae8a-0ea4295105c7",
+					"Name": "Vket2023S Quest Granvale Academy of Sorcerers - Finale",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from July 15 through 30ǃ Granvale Academy of Sorcerers - Finale is a regular Quest exhibition venue of Vket2023 Summer․ 魔法学園グランヴェール - フィナーレ はVket2023 SummerのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2022冬",
+			"Worlds": [
+				{
+					"ID": "wrld_f50eccce-6245-4d70-9da0-c789bb5010f3",
+					"Name": "Vket 2022 Winter Next Journey",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Next Journey marks the beginning of your journey to the various metaverses of Virtual Market 2022 Winter․ Next JourneyはVket2022 Winterの旅の出発地です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1636419d-f255-4d26-aab3-53c069e185d5",
+					"Name": "Vket2022W VketPlaza -Express Mode- Natural-Deco",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ VketPlaza -Express Mode- Natural-Deco is a regular exhibition venue of Vket2022 Winter․ VketPlaza -Express Mode- Natural-Deco はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0537c5ce-640e-4a1f-b3ee-04d064ddd83b",
+					"Name": "Vket2022W VketPlaza -Express Mode- Xmas-Deco",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ VketPlaza -Express Mode- Xmas-Deco is a regular exhibition venue of Vket2022 Winter․ VketPlaza -Express Mode- Xmas-Deco はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7d3b13bc-c7f9-4a8f-a3b2-6f4c9769a4cb",
+					"Name": "Vket2022W Cosmotravel Elevator - Alpha-E",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Cosmotravel Elevator - Alpha-E is a regular exhibition venue of Vket2022 Winter․ Cosmotravel Elevator - Alpha-E はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f906d93f-2cad-4c6b-900d-2fcab545c4f0",
+					"Name": "Vket2022W Cosmotravel Elevator - T-Omega",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Cosmotravel Elevator - T-Omega is a regular exhibition venue of Vket2022 Winter․ Cosmotravel Elevator - T-Omega はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_aeeccc6d-762e-45e3-864e-5a560dc39b77",
+					"Name": "Vket 2022 W Madam Colts Wunderkammer - Mystery Catalogue",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Madam Colts Wunderkammer - Mystery Catalogue is a regular exhibition venue of Vket2022 Winter․ コルト夫人のヴンダーカンマー - 驚異の目録 はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_256c74f2-7e2e-4fea-9eab-01503a2ac2dd",
+					"Name": "Vket 2022 W Madam Colts Wunderkammer - Enigma Records",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Madam Colts Wunderkammer - Enigma Records is a regular exhibition venue of Vket2022 Winter․ コルト夫人のヴンダーカンマー - 不可思議名鑑 はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6cca6c43-486b-4f1e-bed7-c5a14897f6c0",
+					"Name": "Vket2022W TetherFord - Neon",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ TetherFord - Neon is a regular exhibition venue of Vket2022 Winter․ TetherFord -光- はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cbbc51df-34a5-48b4-a728-3d0f79d6f245",
+					"Name": "Vket2022W TetherFord - Void",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ TetherFord - Void is a regular exhibition venue of Vket2022 Winter․ TetherFord -影- はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d6ef8272-4bb9-4cb1-a748-5706722982e9",
+					"Name": "Vket2022W Luluana Resort - Paradise",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Luluana Resort -Paradise is a regular exhibition venue of Vket2022 Winter․ 南国の楽園 ルルアナリゾート - パラダイス はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fc57c068-9566-4c20-b988-dc7afa5c4e5b",
+					"Name": "Vket2022W Luluana Resort - Shangri-La",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Luluana Resort -Shangri-La is a regular exhibition venue of Vket2022 Winter․ 南国の楽園 ルルアナリゾート - シャングリラ はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_41e2496d-b4a3-471c-a1ee-937ba4cc40d0",
+					"Name": "Vket 2022 W Sweet×2 Tea Party - Sugar",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Sweet×2 Tea Party - Sugar is a regular exhibition venue of Vket2022 Winter․ Sweet×2 Tea Party - Sugar はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b347e4a8-0ae0-4dd5-a5bf-be629a73e64c",
+					"Name": "Vket 2022 W Sweet×2 Tea Party - Milk",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Sweet×2 Tea Party - Milk is a regular exhibition venue of Vket2022 Winter․ Sweet×2 Tea Party - Milk はVket2022 Winterの一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3589b7ca-805c-467e-a588-e81403968e01",
+					"Name": "Vket 2022 Winter Next Journey Quest",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Next Journey marks the beginning of your journey to the various metaverses of Virtual Market 2022 Winter․ Next JourneyはVket2022 Winterの旅の出発地です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_247c2414-4df4-467e-86ed-8ba67aca5a8f",
+					"Name": "Vket2022W Quest Valhalla of Iron Ravens - Rusted soul dump",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Valhalla of Iron Ravens˸ Rock Bottom - Rusted soul dump is a regular Quest exhibition venue of Vket2022 Winter․ 鉄鴉の戦場バトルフィールドオブマキナ 貧窮街ボトム - 銷魂の掃溜 はVket2022 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_61d9f424-389f-45a6-afd8-ecc04b6d2301",
+					"Name": "Vket2022W Quest Valhalla of Iron Ravens - Graveyard of wishes",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Valhalla of Iron Ravens˸ Rock Bottom - Graveyard of wishes is a regular Quest exhibition venue of Vket2022 Winter․ 鉄鴉の戦場バトルフィールドオブマキナ 貧窮街ボトム - 野望の墓標 はVket2022 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_df999509-d4d6-4a3b-8418-186dc6c2c812",
+					"Name": "Vket2022W Quest Petalchime Capital Aulschnelule - Berggrund",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Petalchime Capital Aulschnelule - Berggrund is a regular Quest exhibition venue of Vket2022 Winter․ 花鐘の蒸都アウルシュネルゥレ - バリグル周辺街 はVket2022 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a6be37c0-6191-446a-b9e4-182359df87d0",
+					"Name": "Vket2022W Quest Petalchime Capital Aulschnelule - Forista",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Petalchime Capital Aulschnelule - Forista is a regular Quest exhibition venue of Vket2022 Winter․ 花鐘の蒸都アウルシュネルゥレ - フォリステ周辺街 はVket2022 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ae017d61-9727-4729-82d6-6bd9f86e319e",
+					"Name": "Vket2022W Quest Snowman's Toy Factory - Hustle'n'bustle",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Snowman's Toy Factory - Toy Toy Factory - Hustle'n'bustle is a regular Quest exhibition venue of Vket2022 Winter․ Snowman's Toy Factory トイトイファクトリー - ドタバタ大稼働！ はVket2022 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_651cdf7c-dc89-49ac-aca1-6b20fbc36957",
+					"Name": "Vket2022W Quest Snowman's Toy Factory - Excitement in motion",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․ 3 through 18ǃ Snowman's Toy Factory - Toy Toy Factory - Excitement in motion is a regular Quest exhibition venue of Vket2022 Winter․ Snowman's Toy Factory トイトイファクトリー - ワクワク出発準備！ はVket2022 WinterのQuest一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2022夏",
+			"Worlds": [
+				{
+					"ID": "wrld_d9d0e114-06eb-4e65-9a64-088ac26a57ce",
+					"Name": "Vket 2022 S Virtual Market Classic - East",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Virtual Market Classic - East",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c3995d1e-5d24-4a27-b8b7-6f22458b292e",
+					"Name": "Vket 2022 S Virtual Market Classic - West",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Virtual Market Classic - West",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_54635ae0-0646-41fc-8168-1b7ed92cab05",
+					"Name": "Vket2022S VketPlaza -CyberMode- VIVID PARK",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S VketPlaza -CyberMode- VIVID PARK",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_98e2b67b-f685-4ae8-9113-ea5039cfa455",
+					"Name": "Vket2022S VketPlaza -CyberMode- NIGHT GARDEN",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S VketPlaza -CyberMode- NIGHT GARDEN",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff27b832-a5e8-4e03-b025-b5c5d9aef2f8",
+					"Name": "Vket2022S Casca-Acqua Falls - Dragonclimb Festival",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Casca-Acqua Falls - Dragonclimb Festival",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_623f48b7-7d42-4586-9e52-cc32848ec88e",
+					"Name": "Vket2022S Casca-Acqua Falls - Aquagift Festival",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Casca-Acqua Falls - Aquagift Festival",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c96479e5-db0c-4961-a438-e53b6f03cff1",
+					"Name": "Vket2022S Kowloon Empire Ichiban Boulevard - Casino",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Kowloon Empire Ichiban Boulevard - Casino",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d7a023e8-4142-4820-a9b9-5de8b54fb62e",
+					"Name": "Vket2022S Kowloon Empire Ichiban Boulevard - Theater",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Kowloon Empire Ichiban Boulevard - Theater",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8162c382-f5ba-43f7-b322-cdef007aaa04",
+					"Name": "Vket2022S Granvale Academy of Sorcerers - Fantasia",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Granvale Academy of Sorcerers - Fantasia",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a08fc0bf-1365-466e-93c0-30a291da012c",
+					"Name": "Vket2022S Granvale Academy of Sorcerers - Nocturne",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Granvale Academy of Sorcerers - Nocturne",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_84a006d7-171b-4925-9b46-0fd142927a24",
+					"Name": "Vket 2022 S Poppin' Jump - Lemon Squash",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Poppin' Jump - Lemon Squash",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2abdfb3a-988e-43a3-a370-c20b59f5c3fe",
+					"Name": "Vket 2022 S Poppin' Jump - Peach Shower",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Vket2022S Poppin' Jump - Peach Shower",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c0230925-4697-4841-a781-e8d12d814794",
+					"Name": "Vket2022S Quest Kuja Market - Main street",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Vket2022S Quest Kuja Market - Main street",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6b5a6119-fb1a-495c-9f5d-c20b91ad9deb",
+					"Name": "Vket2022S Quest Kuja Market - Back street",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Vket2022S Quest Kuja Market - Back street",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_215f8639-9425-44a6-af40-cafa52e36a80",
+					"Name": "Vket2022S Quest Almerea - Journeys Dawn",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Vket2022S Quest Almerea - Journeys Dawn",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_710307f8-b46d-4da9-9cad-4ad1cccf5191",
+					"Name": "Vket2022S Quest Almerea - Springtide",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Vket2022S Quest Almerea - Springtide",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_32cf7778-473a-4dcc-b510-c1baefef96f0",
+					"Name": "Vket2022S Quest Vket Academy - Day",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Vket2022S Quest Vket Academy - Day",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ded0d9cd-3e4d-4070-970b-6d47906f3814",
+					"Name": "Vket2022S Quest Vket Academy - Night",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Vket2022S Quest Vket Academy - Night",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Vket2021",
+			"Worlds": [
+				{
+					"ID": "wrld_433732ad-867e-44df-a5e4-fb38b345d84c",
+					"Name": "Virtual Market 2021 Ent-LAN-ce",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Ent-LAN-ce is the gateway to the various metaverses of Virtual Market 2021․ Ent-LAN-ceはVket2021のエントランスです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_53b5180c-9146-461e-9849-ec2e68d457da",
+					"Name": "Vket 2021 Vket Academy - Day",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket Academy - Day is an exhibition venue of Vket2021․ 私立Vket学園電市祭 昼の部はVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b18dd044-b010-4ef0-b0ac-cf624655a034",
+					"Name": "Vket 2021 Vket Academy - Night",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Vket Academy - Night is an exhibition venue of Vket2021․ 私立Vket学園電市祭 夜の部はVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_428d967f-9060-4a24-9dd0-6a19130aea7b",
+					"Name": "＂Vket2021 Almerea˸ The Town of New Beginnings - Adventurous spring ＂",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "＂Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Almerea˸ The Town of New Beginnings - Adventurous spring is an exhibition venue of Vket2021․ はじまりの街アルメア 旅立ちの春はVket2021の一般出展会場です。＂",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3b278798-4cd6-4612-a8cc-661ec6cbd6bb",
+					"Name": "Vket2021 Almerea˸ The Town of New Beginnings - Season of harvest",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Almerea˸ The Town of New Beginnings - Season of harvest is an exhibition venue of Vket2021․ はじまりの街アルメア 麦秋の迎えはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d4aab37a-f782-42d5-b782-a55b112ea070",
+					"Name": "Vket2021 Petalchime Capital Aulschnelule",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Petalchime Capital Aulschnelule is an exhibition venue of Vket2021․ 花鐘の蒸都アウルシュネルゥレはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_88d970f6-6162-41cc-b6e5-068a59ca0350",
+					"Name": "Vket2021 Spildsubmara˸ The Abandoned Seafloor City",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Spildsubmara˸ The Abandoned Seafloor City is an exhibition venue of Vket2021․ 海底残街スピスバマラはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4f6b9f44-3578-4231-91fb-1e15e8c92d7b",
+					"Name": "Vket2021 Valhalla of Iron Ravens - Machina˸ The Steel Arena",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Valhalla of Iron Ravens - Machina˸ The Steel Arena is an exhibition venue of Vket2021․ 鉄鴉の戦場バトルフィールドオブマキナ 鉄火武闘マキナアリーナはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f4eb7488-eea0-48b1-85aa-2a1faa88339f",
+					"Name": "Vket2021 Valhalla of Iron Ravens - Rock Bottom˸ The Shanty Slums",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Valhalla of Iron Ravens - Rock Bottom˸ The Shanty Slums is an exhibition venue of Vket2021․ 鉄鴉の戦場バトルフィールドオブマキナ 貧窮街ボトムはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b76752c3-180a-4641-941f-3703837f83d2",
+					"Name": "Vket2021 Toy Toy Factory",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Toy Toy Factory is an exhibition venue of Vket2021․ Snowman's Toy Factory トイトイファクトリーはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1522d822-8d8e-4854-8baf-c09c7f90d285",
+					"Name": "Vket2021 Christmas Party without Santa",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Christmas Party without Santa is an exhibition venue of Vket2021․ Snowman's Toy Factory サンタレス・クリスマスパーティーはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_eb20235d-cce7-4a6e-ae2c-7671586c9bf1",
+					"Name": "Vket2021 Avatar Carousel",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Avatar Carousel is an exhibition venue of Vket2021․ Snowman's Toy Factory アバターカルーセルはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_582a6843-8ea5-4532-b318-665d6e55f62b",
+					"Name": "Vket2021 Edo Citadel Redux - Edo Citadel",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Edo Citadel Redux - Edo Citadel is an exhibition venue of Vket2021․ 復刻江戸城城下町 Re˸エド城下はVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_89f76fc9-79b2-4c10-a3be-8f44587a7663",
+					"Name": "Vket2021 Edo Citadel Redux - Edo Hanamachi",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Edo Citadel Redux - Edo Hanamachi is an exhibition venue of Vket2021․ Vket2021․ 復刻江戸城城下町 Re˸エド華町はVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1293a6de-446a-4b24-b77a-bec395f895de",
+					"Name": "Vket2021 Poppin' Jump - Neon Purple",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Poppin' Jump - Neon Purple is an exhibition venue of Vket2021․ Poppin' Jump ネオンパープルはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6a2b323-9151-4826-b21a-50dfc5caf43c",
+					"Name": "Vket2021 Poppin' Jump - Rich Gold",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Poppin' Jump - Rich Gold is an exhibition venue of Vket2021․ Poppin' Jump リッチゴールドはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_24770a9b-7864-4ffe-8039-44d9eafa7e3e",
+					"Name": "Vket2021 Quest Edo Citadel Redux - Edo Citadel East",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Quest Edo Citadel Redux - Edo Citadel East is an exhibition venue of Vket2021․ 【Quest】復刻江戸城城下町 Re˸エド城下 東はVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6bad204a-0401-4a84-9c39-2e169d85d66c",
+					"Name": "Vket2021 Quest Edo Citadel Redux - Edo Citadel West",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Quest Edo Citadel Redux - Edo Citadel West is an exhibition venue of Vket2021․ 【Quest】復刻江戸城城下町 Re˸エド城下 西はVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d2effea5-366c-4363-a270-9b212bf1daa2",
+					"Name": "Vket2021 Quest Cradle of Shooting Stars Metekolebka - Oksteltov",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Quest Cradle of Shooting Stars Metekolebka - Oksteltov is an exhibition venue of Vket2021․ 【Quest】流星の揺籠 メテコレプカ オキステルトフはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_28210111-f436-4085-bcff-9aab5b6ef159",
+					"Name": "Vket2021 Quest Cradle of Shooting Stars Metekolebka - Questeltov",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Quest Cradle of Shooting Stars Metekolebka - Questeltov is an exhibition venue of Vket2021․ 【Quest】流星の揺籠 メテコレプカ クエステルトフはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6817ee40-ff14-4ed7-9b88-f417806ddff7",
+					"Name": "Vket2021 Quest World Festi-VR ＂Core＂ Windmill Town - Harbor",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Quest World Festi-VR ＂Core＂ Windmill Town - Harbor is an exhibition venue of Vket2021․ 【Quest】World Festi-VR ＂Core＂ Windmill Town - HarborはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b34cfae2-5ce9-4066-b1bc-93894268d74c",
+					"Name": "Vket2021 Quest World Festi-VR ＂Core＂ Windmill Town - Clocktower",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Join the world's largest market festival in the virtual space‚ held from Dec․4 through 19ǃ Vket2021 Quest World Festi-VR ＂Core＂ Windmill Town - Clocktower is an exhibition venue of Vket2021․ 【Quest】World Festi-VR ＂Core＂ Windmill Town - ClocktowerはVket2021の一般出展会場です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "METAFES2025",
+			"Worlds": [
+				{
+					"ID": "wrld_124b621e-06cb-4a75-9843-62c9c1418209",
+					"Name": "METAFES 2025 FIRE DAY",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bb499a97-8878-4916-aeb6-9e13abc35ed4",
+					"Name": "METAFES 2025 FIRE NIGHT",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_07ac16ad-791e-4f09-a71b-7c3000667597",
+					"Name": "METAFES 2025 WATER DAY",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6645aff8-fdef-4d3d-80b9-ba72bdd3ce99",
+					"Name": "METAFES 2025 WATER NIGHT",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9f422391-e3b0-4b44-b393-66ba7ca5cadd",
+					"Name": "METAFES 2025 LEAF DAY",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b0fffa4c-fa89-481b-ae9c-a8e707333fa3",
+					"Name": "METAFES 2025 LEAF NIGHT",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_52260ae6-71c0-4f94-820e-27eedac77bd5",
+					"Name": "METAFES 2025 ANDROID",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2025）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "METAFES2024",
+			"Worlds": [
+				{
+					"ID": "wrld_c97aa91a-a2f1-42ec-8c0f-97a5a826c50b",
+					"Name": "METAFES 2024 ROCK",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2024）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e286f535-7a59-4080-8c9f-7dcf8323ecec",
+					"Name": "METAFES 2024 SCISSORS",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2024）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4ceec09b-2677-4e9c-ac81-1d892f1c0702",
+					"Name": "METAFES 2024 PAPER",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2024）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1e9edf6f-33a6-4dc2-97af-ece8cdf2fcd3",
+					"Name": "METAFES 2024 ANDROID DAY",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2024）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "METAFES2023",
+			"Worlds": [
+				{
+					"ID": "wrld_2a77f89f-f26a-43a9-93d0-7477dde0e9da",
+					"Name": "METAFES 2023 DAY",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2023）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3556c6e1-42db-4c6a-8d4b-22af9194a1ce",
+					"Name": "METAFES 2023 NIGHT",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing‚ music festival․ You can enjoy it alone or with others‚ in any style you like․․⁄ メタフェス（metafes2023）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b44c19b4-449e-4de7-8c54-e280299f6598",
+					"Name": "METAFES 2023 QUEST DAY",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Virtual Expo for Users and Creators on VRChat Shopping‚ socializing․ You can enjoy it alone or with others‚ in any style you like․⁄ メタフェス（metafes2023）はクリエイターとユーザーのためのバーチャル即売会です！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		}
+	],
+	"Roles": [
+		
+	]
+}
